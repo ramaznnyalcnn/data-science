@@ -1,0 +1,32 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Runtime output
+data/sessions.jsonl
+data/*.jsonl
+!data/example*.jsonl
+logs/
+*.log
+
+# Local knowledge-base/editor artifacts
+llm_wiki/

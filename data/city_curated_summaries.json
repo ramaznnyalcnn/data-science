@@ -1,0 +1,1377 @@
+{
+  "Bodrum": {
+    "hidden_title": "Marina geceleri ve beyaz evler",
+    "hidden_summary": "Parlak marinalar, beach club ritmi ve beyaz sokaklar etrafında hareketli, konforlu bir kıyı tatili hissi verir.",
+    "hidden_tags": [
+      "deniz",
+      "gece",
+      "konfor"
+    ],
+    "reveal_summary": "Bodrum: Parlak marinalar, beach club ritmi ve beyaz sokaklar etrafında hareketli, konforlu bir kıyı tatili hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Marmaris": {
+    "hidden_title": "Koylar ve tekne rotaları",
+    "hidden_summary": "Çam tepeleri arasındaki uzun koylar, tekne turları ve akşamüstü sahil yürüyüşleriyle canlı ama doğaya yakın bir deniz molası sunar.",
+    "hidden_tags": [
+      "deniz",
+      "tekne",
+      "canlı"
+    ],
+    "reveal_summary": "Marmaris: Çam tepeleri arasındaki uzun koylar, tekne turları ve akşamüstü sahil yürüyüşleriyle canlı ama doğaya yakın bir deniz molası sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Fethiye": {
+    "hidden_title": "Lagünler ve havadan manzara",
+    "hidden_summary": "Turkuaz lagünler, yamaç paraşütü manzarası ve doğa parkurlarıyla hem deniz hem macera isteyenlere açılır.",
+    "hidden_tags": [
+      "deniz",
+      "macera",
+      "doğa"
+    ],
+    "reveal_summary": "Fethiye: Turkuaz lagünler, yamaç paraşütü manzarası ve doğa parkurlarıyla hem deniz hem macera isteyenlere açılır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cesme": {
+    "hidden_title": "Rüzgar, plaj ve şık sahil",
+    "hidden_summary": "Rüzgarlı plajlar, sörf enerjisi ve şık yaz akşamlarıyla sosyal, rahat ve biraz lüks bir kıyı atmosferi kurar.",
+    "hidden_tags": [
+      "deniz",
+      "sörf",
+      "sosyal"
+    ],
+    "reveal_summary": "Cesme: Rüzgarlı plajlar, sörf enerjisi ve şık yaz akşamlarıyla sosyal, rahat ve biraz lüks bir kıyı atmosferi kurar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Datca": {
+    "hidden_title": "Sessiz koylar ve yavaş tempo",
+    "hidden_summary": "Kalabalıktan uzak koylar, badem ağaçları ve sakin akşam sofralarıyla yavaş, sade ve huzurlu bir kaçış hissi verir.",
+    "hidden_tags": [
+      "sakin",
+      "deniz",
+      "yavaş"
+    ],
+    "reveal_summary": "Datca: Kalabalıktan uzak koylar, badem ağaçları ve sakin akşam sofralarıyla yavaş, sade ve huzurlu bir kaçış hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Antalya": {
+    "hidden_title": "Eski kent ve geniş sahil",
+    "hidden_summary": "Tarihi sokaklar, büyük sahiller ve kolay ulaşım birleşir; hem kültür hem deniz isteyenler için dengeli bir rota olur.",
+    "hidden_tags": [
+      "tarih",
+      "deniz",
+      "kolay"
+    ],
+    "reveal_summary": "Antalya: Tarihi sokaklar, büyük sahiller ve kolay ulaşım birleşir; hem kültür hem deniz isteyenler için dengeli bir rota olur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Alanya": {
+    "hidden_title": "Kale manzarası ve sıcak sahil",
+    "hidden_summary": "Uzun plajlar, tepeden bakan kale silueti ve sıcak yaz temposuyla pratik, güneşli bir deniz tatili verir.",
+    "hidden_tags": [
+      "deniz",
+      "güneş",
+      "kale"
+    ],
+    "reveal_summary": "Alanya: Uzun plajlar, tepeden bakan kale silueti ve sıcak yaz temposuyla pratik, güneşli bir deniz tatili verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kas": {
+    "hidden_title": "Dalış ve küçük liman",
+    "hidden_summary": "Küçük liman atmosferi, dalış noktaları ve kayalık koylarıyla daha butik, sportif ve berrak bir kıyı deneyimi sunar.",
+    "hidden_tags": [
+      "dalış",
+      "butik",
+      "deniz"
+    ],
+    "reveal_summary": "Kas: Küçük liman atmosferi, dalış noktaları ve kayalık koylarıyla daha butik, sportif ve berrak bir kıyı deneyimi sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Side": {
+    "hidden_title": "Antik taşlar ve sahil",
+    "hidden_summary": "Denize yakın antik kalıntılar, yürünebilir sahil hattı ve sakin akşamlar sayesinde tarih ile plajı aynı yerde toplar.",
+    "hidden_tags": [
+      "tarih",
+      "sahil",
+      "yürüyüş"
+    ],
+    "reveal_summary": "Side: Denize yakın antik kalıntılar, yürünebilir sahil hattı ve sakin akşamlar sayesinde tarih ile plajı aynı yerde toplar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kemer": {
+    "hidden_title": "Dağ eteklerinde deniz",
+    "hidden_summary": "Toros etekleri, çakıllı koylar ve resort rahatlığıyla doğa manzaralı, kolay planlanan bir Akdeniz molası verir.",
+    "hidden_tags": [
+      "deniz",
+      "dağ",
+      "resort"
+    ],
+    "reveal_summary": "Kemer: Toros etekleri, çakıllı koylar ve resort rahatlığıyla doğa manzaralı, kolay planlanan bir Akdeniz molası verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Trabzon": {
+    "hidden_title": "Yamaç şehir ve yayla kapısı",
+    "hidden_summary": "Karadeniz yamaçları, manastır rotaları ve yaylalara açılan yollarla yağmurlu, yeşil ve karakterli bir keşif sunar.",
+    "hidden_tags": [
+      "doğa",
+      "tarih",
+      "yayla"
+    ],
+    "reveal_summary": "Trabzon: Karadeniz yamaçları, manastır rotaları ve yaylalara açılan yollarla yağmurlu, yeşil ve karakterli bir keşif sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uzungol": {
+    "hidden_title": "Göl çevresinde sisli mola",
+    "hidden_summary": "Dağların arasındaki göl, sisli sabahlar ve ahşap konaklama hissiyle fotoğraf odaklı sakin bir doğa molasıdır.",
+    "hidden_tags": [
+      "göl",
+      "sakin",
+      "fotoğraf"
+    ],
+    "reveal_summary": "Uzungol: Dağların arasındaki göl, sisli sabahlar ve ahşap konaklama hissiyle fotoğraf odaklı sakin bir doğa molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ayder": {
+    "hidden_title": "Yayla, kaplıca ve yürüyüş",
+    "hidden_summary": "Yayla evleri, kaplıca fikri ve yüksek patikalarla serin havalı, dinlendirici bir doğa kaçışı sunar.",
+    "hidden_tags": [
+      "yayla",
+      "kaplıca",
+      "doğa"
+    ],
+    "reveal_summary": "Ayder: Yayla evleri, kaplıca fikri ve yüksek patikalarla serin havalı, dinlendirici bir doğa kaçışı sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Artvin": {
+    "hidden_title": "Vadiler ve yüksek geçitler",
+    "hidden_summary": "Derin vadiler, dağ yolları ve bakir manzaralarla kalabalıktan uzak, güçlü bir açık hava rotası verir.",
+    "hidden_tags": [
+      "vadi",
+      "macera",
+      "doğa"
+    ],
+    "reveal_summary": "Artvin: Derin vadiler, dağ yolları ve bakir manzaralarla kalabalıktan uzak, güçlü bir açık hava rotası verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Rize": {
+    "hidden_title": "Çay tepeleri ve yağmur",
+    "hidden_summary": "Çay bahçeleri, bulutlu tepeler ve şelale yollarıyla yeşilin ağır bastığı, yavaş ve nemli bir Karadeniz hissi kurar.",
+    "hidden_tags": [
+      "çay",
+      "yeşil",
+      "sakin"
+    ],
+    "reveal_summary": "Rize: Çay bahçeleri, bulutlu tepeler ve şelale yollarıyla yeşilin ağır bastığı, yavaş ve nemli bir Karadeniz hissi kurar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kapadokya": {
+    "hidden_title": "Peri bacaları ve balon sabahı",
+    "hidden_summary": "Taş vadiler, gün doğumu balonları ve mağara konaklama hissiyle çok görsel, romantik ve farklı bir rota sunar.",
+    "hidden_tags": [
+      "balon",
+      "tarih",
+      "fotoğraf"
+    ],
+    "reveal_summary": "Kapadokya: Taş vadiler, gün doğumu balonları ve mağara konaklama hissiyle çok görsel, romantik ve farklı bir rota sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Efes": {
+    "hidden_title": "Antik kent odağı",
+    "hidden_summary": "Sütunlu caddeler, tiyatro kalıntıları ve arkeoloji yoğunluğu ile tarihi doğrudan yürüyerek hissettiren bir duraktır.",
+    "hidden_tags": [
+      "antik",
+      "tarih",
+      "arkeoloji"
+    ],
+    "reveal_summary": "Efes: Sütunlu caddeler, tiyatro kalıntıları ve arkeoloji yoğunluğu ile tarihi doğrudan yürüyerek hissettiren bir duraktır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Pamukkale": {
+    "hidden_title": "Beyaz teraslar ve antik havuz",
+    "hidden_summary": "Beyaz travertenler, sıcak su fikri ve antik kent kalıntılarıyla görsel açıdan çok ayırt edici bir mola verir.",
+    "hidden_tags": [
+      "traverten",
+      "tarih",
+      "fotoğraf"
+    ],
+    "reveal_summary": "Pamukkale: Beyaz travertenler, sıcak su fikri ve antik kent kalıntılarıyla görsel açıdan çok ayırt edici bir mola verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Mardin": {
+    "hidden_title": "Taş konaklar ve Mezopotamya manzarası",
+    "hidden_summary": "Sarı taş sokaklar, teraslardan ova manzarası ve çok katmanlı kültür dokusuyla ağır tempolu, atmosferik bir keşiftir.",
+    "hidden_tags": [
+      "taş",
+      "kültür",
+      "tarih"
+    ],
+    "reveal_summary": "Mardin: Sarı taş sokaklar, teraslardan ova manzarası ve çok katmanlı kültür dokusuyla ağır tempolu, atmosferik bir keşiftir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sanliurfa": {
+    "hidden_title": "İnanç, pazar ve eski hikayeler",
+    "hidden_summary": "Balıklıgöl çevresi, çarşı kokuları ve kadim anlatılarla manevi, yerel ve tarih hissi kuvvetli bir rota olur.",
+    "hidden_tags": [
+      "inanç",
+      "çarşı",
+      "tarih"
+    ],
+    "reveal_summary": "Sanliurfa: Balıklıgöl çevresi, çarşı kokuları ve kadim anlatılarla manevi, yerel ve tarih hissi kuvvetli bir rota olur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Istanbul": {
+    "hidden_title": "Boğaz, semtler ve büyük kültür",
+    "hidden_summary": "Vapur sesleri, tarihi yarımada, müzeler ve yoğun semt hayatıyla yüksek enerjili, katmanlı bir şehir deneyimi sunar.",
+    "hidden_tags": [
+      "şehir",
+      "tarih",
+      "yemek"
+    ],
+    "reveal_summary": "Istanbul: Vapur sesleri, tarihi yarımada, müzeler ve yoğun semt hayatıyla yüksek enerjili, katmanlı bir şehir deneyimi sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Izmir": {
+    "hidden_title": "Rahat kordon ve Ege şehri",
+    "hidden_summary": "Deniz kenarı yürüyüşleri, rahat kent temposu ve yakın çevre kaçamaklarıyla hafif, pratik ve sosyal bir mola verir.",
+    "hidden_tags": [
+      "şehir",
+      "rahat",
+      "deniz"
+    ],
+    "reveal_summary": "Izmir: Deniz kenarı yürüyüşleri, rahat kent temposu ve yakın çevre kaçamaklarıyla hafif, pratik ve sosyal bir mola verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Gaziantep": {
+    "hidden_title": "Mutfak ve müze odağı",
+    "hidden_summary": "Baklava, kebap, çarşı ve güçlü müze içeriğiyle yemek merkezli ama kültür tarafı da dolu bir şehir kaçamağıdır.",
+    "hidden_tags": [
+      "yemek",
+      "müze",
+      "çarşı"
+    ],
+    "reveal_summary": "Gaziantep: Baklava, kebap, çarşı ve güçlü müze içeriğiyle yemek merkezli ama kültür tarafı da dolu bir şehir kaçamağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bursa": {
+    "hidden_title": "Osmanlı dokusu ve yeşil yamaçlar",
+    "hidden_summary": "Tarihi külliyeler, çarşılar ve dağ etekleriyle kültür, yemek ve doğa molasını dengeli tutar.",
+    "hidden_tags": [
+      "tarih",
+      "yemek",
+      "dağ"
+    ],
+    "reveal_summary": "Bursa: Tarihi külliyeler, çarşılar ve dağ etekleriyle kültür, yemek ve doğa molasını dengeli tutar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ankara": {
+    "hidden_title": "Müze, anıt ve sakin başkent",
+    "hidden_summary": "Anıtsal yapılar, müzeler ve daha düzenli şehir temposuyla kalabalık turizmden uzak bir kültür günü sunar.",
+    "hidden_tags": [
+      "müze",
+      "başkent",
+      "sakin"
+    ],
+    "reveal_summary": "Ankara: Anıtsal yapılar, müzeler ve daha düzenli şehir temposuyla kalabalık turizmden uzak bir kültür günü sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kotor": {
+    "hidden_title": "Fiyort gibi koy ve taş surlar",
+    "hidden_summary": "Dağların kapattığı koy, sur içi sokaklar ve kısa tırmanış manzaralarıyla kompakt ama etkileyici bir Adriyatik durağıdır.",
+    "hidden_tags": [
+      "koy",
+      "sur",
+      "manzara"
+    ],
+    "reveal_summary": "Kotor: Dağların kapattığı koy, sur içi sokaklar ve kısa tırmanış manzaralarıyla kompakt ama etkileyici bir Adriyatik durağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Mostar": {
+    "hidden_title": "Köprü ve nehir kenarı",
+    "hidden_summary": "Taş köprü çevresi, nehir sesi ve küçük çarşı dokusuyla kısa ama duygusu güçlü bir Balkan molası verir.",
+    "hidden_tags": [
+      "köprü",
+      "nehir",
+      "tarih"
+    ],
+    "reveal_summary": "Mostar: Taş köprü çevresi, nehir sesi ve küçük çarşı dokusuyla kısa ama duygusu güçlü bir Balkan molası verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tiran": {
+    "hidden_title": "Renkli meydanlar ve genç tempo",
+    "hidden_summary": "Geniş meydanlar, kafeler ve yakın dağ kaçamaklarıyla uygun bütçeli, rahat ve genç bir şehir hissi taşır.",
+    "hidden_tags": [
+      "şehir",
+      "bütçe",
+      "kafe"
+    ],
+    "reveal_summary": "Tiran: Geniş meydanlar, kafeler ve yakın dağ kaçamaklarıyla uygun bütçeli, rahat ve genç bir şehir hissi taşır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Beograd": {
+    "hidden_title": "Nehir kıyısı ve gece hayatı",
+    "hidden_summary": "Tuna-Sava buluşması, kaleler ve canlı gece kültürüyle sosyal, enerjik ve bütçe dostu bir şehir deneyimidir.",
+    "hidden_tags": [
+      "gece",
+      "nehir",
+      "şehir"
+    ],
+    "reveal_summary": "Beograd: Tuna-Sava buluşması, kaleler ve canlı gece kültürüyle sosyal, enerjik ve bütçe dostu bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uskup": {
+    "hidden_title": "Heykeller, çarşı ve Balkan karışımı",
+    "hidden_summary": "Taş köprü, eski çarşı ve farklı dönemlerin mimarisiyle kısa sürede çok kontrast gösteren bir şehir molasıdır.",
+    "hidden_tags": [
+      "çarşı",
+      "köprü",
+      "şehir"
+    ],
+    "reveal_summary": "Uskup: Taş köprü, eski çarşı ve farklı dönemlerin mimarisiyle kısa sürede çok kontrast gösteren bir şehir molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Baku": {
+    "hidden_title": "Hazar kıyısı ve modern siluet",
+    "hidden_summary": "Alev kuleleri, sahil bulvarı ve eski şehir dokusuyla modern parıltı ile tarih karışımı bir rota verir.",
+    "hidden_tags": [
+      "modern",
+      "sahil",
+      "tarih"
+    ],
+    "reveal_summary": "Baku: Alev kuleleri, sahil bulvarı ve eski şehir dokusuyla modern parıltı ile tarih karışımı bir rota verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tiflis": {
+    "hidden_title": "Yamaç sokaklar ve sıcak avlular",
+    "hidden_summary": "Renkli balkonlar, hamam bölgesi ve şarap sofralarıyla sıcak, yürünebilir ve karakterli bir şehir hissi kurar.",
+    "hidden_tags": [
+      "sokak",
+      "yemek",
+      "tarih"
+    ],
+    "reveal_summary": "Tiflis: Renkli balkonlar, hamam bölgesi ve şarap sofralarıyla sıcak, yürünebilir ve karakterli bir şehir hissi kurar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Semerkant": {
+    "hidden_title": "Mavi kubbeler ve İpek Yolu",
+    "hidden_summary": "Büyük meydanlar, mavi çiniler ve anıtsal medreselerle görkemli, tarih yoğun bir İpek Yolu deneyimi sunar.",
+    "hidden_tags": [
+      "kubbe",
+      "tarih",
+      "mimari"
+    ],
+    "reveal_summary": "Semerkant: Büyük meydanlar, mavi çiniler ve anıtsal medreselerle görkemli, tarih yoğun bir İpek Yolu deneyimi sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Buhara": {
+    "hidden_title": "Avlu medreseleri ve eski pazar",
+    "hidden_summary": "Daha yavaş sokaklar, avlulu yapılar ve eski ticaret hissiyle zamana yayılmış bir kültür rotasıdır.",
+    "hidden_tags": [
+      "pazar",
+      "medrese",
+      "yavaş"
+    ],
+    "reveal_summary": "Buhara: Daha yavaş sokaklar, avlulu yapılar ve eski ticaret hissiyle zamana yayılmış bir kültür rotasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Taskent": {
+    "hidden_title": "Geniş bulvar ve Sovyet-modern karışımı",
+    "hidden_summary": "Metro durakları, geniş caddeler ve pazar hayatıyla düzenli, pratik ve şehir odaklı bir Orta Asya durağıdır.",
+    "hidden_tags": [
+      "metro",
+      "pazar",
+      "şehir"
+    ],
+    "reveal_summary": "Taskent: Metro durakları, geniş caddeler ve pazar hayatıyla düzenli, pratik ve şehir odaklı bir Orta Asya durağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Marakes": {
+    "hidden_title": "Baharat, avlu ve kızıl sokaklar",
+    "hidden_summary": "Medina kalabalığı, riad avluları ve baharat kokularıyla yoğun, renkli ve duyusal bir şehir deneyimi verir.",
+    "hidden_tags": [
+      "medina",
+      "renk",
+      "pazar"
+    ],
+    "reveal_summary": "Marakes: Medina kalabalığı, riad avluları ve baharat kokularıyla yoğun, renkli ve duyusal bir şehir deneyimi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Fes": {
+    "hidden_title": "Labirent medina ve zanaat",
+    "hidden_summary": "Dar sokaklar, tabakhane manzaraları ve geleneksel üretim dokusuyla daha eski, yoğun ve kültür odaklı bir keşiftir.",
+    "hidden_tags": [
+      "zanaat",
+      "medina",
+      "tarih"
+    ],
+    "reveal_summary": "Fes: Dar sokaklar, tabakhane manzaraları ve geleneksel üretim dokusuyla daha eski, yoğun ve kültür odaklı bir keşiftir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tunus": {
+    "hidden_title": "Akdeniz şehir dokusu ve pazar",
+    "hidden_summary": "Medina, sahil esintisi ve yakın antik kalıntılarla şehir, tarih ve denizi kısa mesafede birleştirir.",
+    "hidden_tags": [
+      "medina",
+      "sahil",
+      "tarih"
+    ],
+    "reveal_summary": "Tunus: Medina, sahil esintisi ve yakın antik kalıntılarla şehir, tarih ve denizi kısa mesafede birleştirir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sidi Bou Said": {
+    "hidden_title": "Mavi beyaz sokak ve deniz manzarası",
+    "hidden_summary": "Beyaz duvarlar, mavi kapılar ve denize bakan kafelerle hafif, fotojenik ve sakin bir Akdeniz molasıdır.",
+    "hidden_tags": [
+      "mavi",
+      "kafe",
+      "deniz"
+    ],
+    "reveal_summary": "Sidi Bou Said: Beyaz duvarlar, mavi kapılar ve denize bakan kafelerle hafif, fotojenik ve sakin bir Akdeniz molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kairouan": {
+    "hidden_title": "Sessiz kutsal şehir dokusu",
+    "hidden_summary": "Sade sokaklar, cami çevresi ve geleneksel halı/pazar hissiyle daha içe dönük bir kültür durağı sunar.",
+    "hidden_tags": [
+      "inanç",
+      "sakin",
+      "tarih"
+    ],
+    "reveal_summary": "Kairouan: Sade sokaklar, cami çevresi ve geleneksel halı/pazar hissiyle daha içe dönük bir kültür durağı sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tokyo": {
+    "hidden_title": "Neon, düzen ve sonsuz seçenek",
+    "hidden_summary": "Metro ağları, küçük lokantalar ve neonlu mahallelerle yüksek tempolu, düzenli ve keşfi bitmeyen bir şehir deneyimidir.",
+    "hidden_tags": [
+      "neon",
+      "yemek",
+      "şehir"
+    ],
+    "reveal_summary": "Tokyo: Metro ağları, küçük lokantalar ve neonlu mahallelerle yüksek tempolu, düzenli ve keşfi bitmeyen bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kyoto": {
+    "hidden_title": "Tapınaklar ve mevsimlik bahçeler",
+    "hidden_summary": "Ahşap sokaklar, tapınak bahçeleri ve çay ritüeli hissiyle yavaş, zarif ve kültür ağırlıklı bir rota sunar.",
+    "hidden_tags": [
+      "tapınak",
+      "bahçe",
+      "kültür"
+    ],
+    "reveal_summary": "Kyoto: Ahşap sokaklar, tapınak bahçeleri ve çay ritüeli hissiyle yavaş, zarif ve kültür ağırlıklı bir rota sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Osaka": {
+    "hidden_title": "Sokak yemeği ve nehir ışıkları",
+    "hidden_summary": "Kanal çevresi, parlak tabelalar ve güçlü sokak yemeği kültürüyle daha rahat, lezzet odaklı bir Japonya molasıdır.",
+    "hidden_tags": [
+      "yemek",
+      "gece",
+      "şehir"
+    ],
+    "reveal_summary": "Osaka: Kanal çevresi, parlak tabelalar ve güçlü sokak yemeği kültürüyle daha rahat, lezzet odaklı bir Japonya molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Seoul": {
+    "hidden_title": "K-pop enerjisi ve saraylar",
+    "hidden_summary": "Saray avluları, alışveriş caddeleri ve hızlı gece temposuyla gelenek ile pop kültürü yan yana taşır.",
+    "hidden_tags": [
+      "pop",
+      "saray",
+      "şehir"
+    ],
+    "reveal_summary": "Seoul: Saray avluları, alışveriş caddeleri ve hızlı gece temposuyla gelenek ile pop kültürü yan yana taşır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Busan": {
+    "hidden_title": "Plaj, balık pazarı ve tepeli mahalleler",
+    "hidden_summary": "Deniz kenarı, balık pazarı ve renkli yamaç mahalleleriyle daha kıyı odaklı, rahat bir Kore rotasıdır.",
+    "hidden_tags": [
+      "plaj",
+      "pazar",
+      "tepe"
+    ],
+    "reveal_summary": "Busan: Deniz kenarı, balık pazarı ve renkli yamaç mahalleleriyle daha kıyı odaklı, rahat bir Kore rotasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Singapur": {
+    "hidden_title": "Tropik düzen ve modern şehir",
+    "hidden_summary": "Bahçeler, temiz ulaşım ve çok kültürlü yemek alanlarıyla kompakt, güvenli ve modern bir şehir deneyimi verir.",
+    "hidden_tags": [
+      "modern",
+      "yemek",
+      "bahçe"
+    ],
+    "reveal_summary": "Singapur: Bahçeler, temiz ulaşım ve çok kültürlü yemek alanlarıyla kompakt, güvenli ve modern bir şehir deneyimi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Hong Kong": {
+    "hidden_title": "Liman silueti ve dikey şehir",
+    "hidden_summary": "Feribotlar, gökdelenler, tepe manzarası ve yoğun sokak yemekleriyle sıkışık ama çok güçlü bir metropol hissi sunar.",
+    "hidden_tags": [
+      "liman",
+      "gökdelen",
+      "yemek"
+    ],
+    "reveal_summary": "Hong Kong: Feribotlar, gökdelenler, tepe manzarası ve yoğun sokak yemekleriyle sıkışık ama çok güçlü bir metropol hissi sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kuala Lumpur": {
+    "hidden_title": "Kuleler ve sokak lezzetleri",
+    "hidden_summary": "Modern kuleler, alışveriş bölgeleri ve gece pazarlarıyla uygun bütçeli, yemek odaklı bir büyük şehir molasıdır.",
+    "hidden_tags": [
+      "kule",
+      "pazar",
+      "yemek"
+    ],
+    "reveal_summary": "Kuala Lumpur: Modern kuleler, alışveriş bölgeleri ve gece pazarlarıyla uygun bütçeli, yemek odaklı bir büyük şehir molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Penang": {
+    "hidden_title": "Duvar sanatı ve sokak mutfağı",
+    "hidden_summary": "Renkli eski sokaklar, mural rotaları ve baharatlı yemeklerle yavaş yürüyerek keşfedilen bir ada şehridir.",
+    "hidden_tags": [
+      "mural",
+      "yemek",
+      "ada"
+    ],
+    "reveal_summary": "Penang: Renkli eski sokaklar, mural rotaları ve baharatlı yemeklerle yavaş yürüyerek keşfedilen bir ada şehridir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Macau": {
+    "hidden_title": "Portekiz izleri ve ışıltı",
+    "hidden_summary": "Taş meydanlar, yumurtalı tatlılar ve casino ışıklarıyla Avrupa mirası ile gösterişli geceyi karıştırır.",
+    "hidden_tags": [
+      "ışık",
+      "miras",
+      "tatlı"
+    ],
+    "reveal_summary": "Macau: Taş meydanlar, yumurtalı tatlılar ve casino ışıklarıyla Avrupa mirası ile gösterişli geceyi karıştırır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Rio de Janeiro": {
+    "hidden_title": "Plaj, tepe ve samba",
+    "hidden_summary": "İkonik tepeler, geniş plajlar ve müzikli sokak enerjisiyle dışa dönük, güneşli ve ritimli bir rota sunar.",
+    "hidden_tags": [
+      "plaj",
+      "müzik",
+      "manzara"
+    ],
+    "reveal_summary": "Rio de Janeiro: İkonik tepeler, geniş plajlar ve müzikli sokak enerjisiyle dışa dönük, güneşli ve ritimli bir rota sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Buenos Aires": {
+    "hidden_title": "Tango ve geniş bulvarlar",
+    "hidden_summary": "Kafeler, kitapçılar, tango salonları ve Avrupa etkili mahallelerle kültürlü, akşam odaklı bir şehir hissi verir.",
+    "hidden_tags": [
+      "tango",
+      "kafe",
+      "şehir"
+    ],
+    "reveal_summary": "Buenos Aires: Kafeler, kitapçılar, tango salonları ve Avrupa etkili mahallelerle kültürlü, akşam odaklı bir şehir hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Lima": {
+    "hidden_title": "Pasifik kıyısı ve gastronomi",
+    "hidden_summary": "Okyanus kıyısı, modern mahalleler ve güçlü restoran sahnesiyle yemek merkezli sofistike bir mola sunar.",
+    "hidden_tags": [
+      "yemek",
+      "okyanus",
+      "şehir"
+    ],
+    "reveal_summary": "Lima: Okyanus kıyısı, modern mahalleler ve güçlü restoran sahnesiyle yemek merkezli sofistike bir mola sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bogota": {
+    "hidden_title": "Yüksek rakım ve sanat mahalleleri",
+    "hidden_summary": "Dağ eteğinde müzeler, grafitili sokaklar ve kahve kültürüyle serin, yaratıcı bir şehir deneyimidir.",
+    "hidden_tags": [
+      "müze",
+      "kahve",
+      "sanat"
+    ],
+    "reveal_summary": "Bogota: Dağ eteğinde müzeler, grafitili sokaklar ve kahve kültürüyle serin, yaratıcı bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Santiago": {
+    "hidden_title": "And dağları önünde düzenli şehir",
+    "hidden_summary": "Geniş caddeler, şehir parkları ve arka plandaki dağ siluetiyle pratik, sakin ve modern bir mola verir.",
+    "hidden_tags": [
+      "dağ",
+      "şehir",
+      "park"
+    ],
+    "reveal_summary": "Santiago: Geniş caddeler, şehir parkları ve arka plandaki dağ siluetiyle pratik, sakin ve modern bir mola verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Patagonia": {
+    "hidden_title": "Buzul, rüzgar ve uzak yürüyüş",
+    "hidden_summary": "Sert rüzgar, büyük buzul manzaraları ve uzun yürüyüş rotalarıyla doğa gücü yüksek, zahmetli bir maceradır.",
+    "hidden_tags": [
+      "buzul",
+      "trekking",
+      "uzak"
+    ],
+    "reveal_summary": "Patagonia: Sert rüzgar, büyük buzul manzaraları ve uzun yürüyüş rotalarıyla doğa gücü yüksek, zahmetli bir maceradır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Machu Picchu": {
+    "hidden_title": "Dağ üstünde antik rota",
+    "hidden_summary": "Sisli dağ geçitleri, taş teraslar ve tarihi yürüyüş hissiyle ikonik, fiziksel olarak ödüllendirici bir deneyim sunar.",
+    "hidden_tags": [
+      "antik",
+      "dağ",
+      "yürüyüş"
+    ],
+    "reveal_summary": "Machu Picchu: Sisli dağ geçitleri, taş teraslar ve tarihi yürüyüş hissiyle ikonik, fiziksel olarak ödüllendirici bir deneyim sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Amazon": {
+    "hidden_title": "Nehir, orman ve vahşi yaşam",
+    "hidden_summary": "Yoğun nem, tekne yolculukları ve orman sesleriyle konfor yerine keşif ve doğa merakı isteyenlere uygundur.",
+    "hidden_tags": [
+      "orman",
+      "nehir",
+      "vahşi"
+    ],
+    "reveal_summary": "Amazon: Yoğun nem, tekne yolculukları ve orman sesleriyle konfor yerine keşif ve doğa merakı isteyenlere uygundur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Galapagos": {
+    "hidden_title": "Ada faunası ve berrak su",
+    "hidden_summary": "Eşsiz hayvan gözlemleri, volkanik kıyılar ve şnorkel rotalarıyla doğa belgeseli gibi bir ada deneyimi verir.",
+    "hidden_tags": [
+      "ada",
+      "hayvan",
+      "şnorkel"
+    ],
+    "reveal_summary": "Galapagos: Eşsiz hayvan gözlemleri, volkanik kıyılar ve şnorkel rotalarıyla doğa belgeseli gibi bir ada deneyimi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uyuni": {
+    "hidden_title": "Tuz düzlüğü ve sonsuz ufuk",
+    "hidden_summary": "Aynalı tuz zemini, yüksek rakım ve gerçeküstü fotoğraf sahneleriyle minimalist ama unutulmaz bir rota sunar.",
+    "hidden_tags": [
+      "tuz",
+      "fotoğraf",
+      "ufuk"
+    ],
+    "reveal_summary": "Uyuni: Aynalı tuz zemini, yüksek rakım ve gerçeküstü fotoğraf sahneleriyle minimalist ama unutulmaz bir rota sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bali": {
+    "hidden_title": "Tapınak, pirinç terası ve deniz",
+    "hidden_summary": "Pirinç tarlaları, tapınak törenleri, surf kıyıları ve wellness kültürüyle yumuşak tempolu tropik bir karışım verir.",
+    "hidden_tags": [
+      "tropik",
+      "wellness",
+      "tapınak"
+    ],
+    "reveal_summary": "Bali: Pirinç tarlaları, tapınak törenleri, surf kıyıları ve wellness kültürüyle yumuşak tempolu tropik bir karışım verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bangkok": {
+    "hidden_title": "Tapınaklar ve sokak lezzeti",
+    "hidden_summary": "Altın tapınaklar, nehir tekneleri, gece pazarları ve kaotik trafikle yoğun, lezzetli ve enerjik bir şehir sunar.",
+    "hidden_tags": [
+      "tapınak",
+      "pazar",
+      "yemek"
+    ],
+    "reveal_summary": "Bangkok: Altın tapınaklar, nehir tekneleri, gece pazarları ve kaotik trafikle yoğun, lezzetli ve enerjik bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Phuket": {
+    "hidden_title": "Plaj kulüpleri ve ada turları",
+    "hidden_summary": "Geniş plajlar, tekneyle ada gezileri ve canlı gece bölgeleriyle sosyal, güneşli ve kolay planlanan bir tatildir.",
+    "hidden_tags": [
+      "plaj",
+      "tekne",
+      "gece"
+    ],
+    "reveal_summary": "Phuket: Geniş plajlar, tekneyle ada gezileri ve canlı gece bölgeleriyle sosyal, güneşli ve kolay planlanan bir tatildir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Siem Reap": {
+    "hidden_title": "Tapınak şafakları",
+    "hidden_summary": "Dev tapınak kompleksleri, gün doğumu manzaraları ve yavaş kasaba akşamlarıyla tarih ve fotoğraf odaklıdır.",
+    "hidden_tags": [
+      "tapınak",
+      "tarih",
+      "fotoğraf"
+    ],
+    "reveal_summary": "Siem Reap: Dev tapınak kompleksleri, gün doğumu manzaraları ve yavaş kasaba akşamlarıyla tarih ve fotoğraf odaklıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Krabi": {
+    "hidden_title": "Kireçtaşı kayalıkları ve koylar",
+    "hidden_summary": "Dramatik kayalıklar, longtail tekneler ve sakin koylarla daha doğal, manzaralı ve deniz odaklı bir rota verir.",
+    "hidden_tags": [
+      "kayalık",
+      "tekne",
+      "deniz"
+    ],
+    "reveal_summary": "Krabi: Dramatik kayalıklar, longtail tekneler ve sakin koylarla daha doğal, manzaralı ve deniz odaklı bir rota verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ho Chi Minh": {
+    "hidden_title": "Motosiklet temposu ve tarih",
+    "hidden_summary": "Hızlı sokak akışı, savaş tarihi durakları ve güçlü sokak yemeğiyle canlı, yoğun ve şehir odaklıdır.",
+    "hidden_tags": [
+      "motosiklet",
+      "tarih",
+      "yemek"
+    ],
+    "reveal_summary": "Ho Chi Minh: Hızlı sokak akışı, savaş tarihi durakları ve güçlü sokak yemeğiyle canlı, yoğun ve şehir odaklıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Hanoi": {
+    "hidden_title": "Göl, eski mahalle ve kahve",
+    "hidden_summary": "Dar eski sokaklar, göl çevresi ve kahve kültürüyle daha nostaljik, yürüyüşlü ve yemek odaklı bir şehir sunar.",
+    "hidden_tags": [
+      "kahve",
+      "eski şehir",
+      "yemek"
+    ],
+    "reveal_summary": "Hanoi: Dar eski sokaklar, göl çevresi ve kahve kültürüyle daha nostaljik, yürüyüşlü ve yemek odaklı bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Goa": {
+    "hidden_title": "Plaj, koloni izleri ve rahat gece",
+    "hidden_summary": "Palmiye plajları, Portekiz etkili sokaklar ve gevşek gece temposuyla rahat, sosyal bir kıyı kaçamağıdır.",
+    "hidden_tags": [
+      "plaj",
+      "rahat",
+      "gece"
+    ],
+    "reveal_summary": "Goa: Palmiye plajları, Portekiz etkili sokaklar ve gevşek gece temposuyla rahat, sosyal bir kıyı kaçamağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Jaipur": {
+    "hidden_title": "Pembe şehir ve saraylar",
+    "hidden_summary": "Saray avluları, kaleler ve renkli pazarlarla görkemli, fotojenik ve alışveriş hissi güçlü bir kültür rotasıdır.",
+    "hidden_tags": [
+      "saray",
+      "pazar",
+      "renk"
+    ],
+    "reveal_summary": "Jaipur: Saray avluları, kaleler ve renkli pazarlarla görkemli, fotojenik ve alışveriş hissi güçlü bir kültür rotasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Varanasi": {
+    "hidden_title": "Nehir ritüelleri ve manevi yoğunluk",
+    "hidden_summary": "Ghat merdivenleri, sabah tekneleri ve tören atmosferiyle duygusu ağır, çok katmanlı bir deneyim verir.",
+    "hidden_tags": [
+      "nehir",
+      "ritüel",
+      "manevi"
+    ],
+    "reveal_summary": "Varanasi: Ghat merdivenleri, sabah tekneleri ve tören atmosferiyle duygusu ağır, çok katmanlı bir deneyim verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Punta Cana": {
+    "hidden_title": "Resort plaj ve kolay dinlenme",
+    "hidden_summary": "Beyaz kumsal, her şey dahil konfor ve düşük plan yüküyle tamamen dinlenmeye dönük tropik bir seçenek sunar.",
+    "hidden_tags": [
+      "resort",
+      "plaj",
+      "dinlenme"
+    ],
+    "reveal_summary": "Punta Cana: Beyaz kumsal, her şey dahil konfor ve düşük plan yüküyle tamamen dinlenmeye dönük tropik bir seçenek sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Havana": {
+    "hidden_title": "Renkli sokaklar ve eski arabalar",
+    "hidden_summary": "Kolonyal cepheler, müzikli meydanlar ve nostaljik araçlarla ritimli, sıcak ve fotojenik bir şehir molasıdır.",
+    "hidden_tags": [
+      "müzik",
+      "renk",
+      "tarih"
+    ],
+    "reveal_summary": "Havana: Kolonyal cepheler, müzikli meydanlar ve nostaljik araçlarla ritimli, sıcak ve fotojenik bir şehir molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Barbados": {
+    "hidden_title": "Sakin ada ve turkuaz kıyı",
+    "hidden_summary": "Yumuşak plajlar, rom kültürü ve ada temposuyla daha rahat, güneşli ve deniz odaklı bir kaçış verir.",
+    "hidden_tags": [
+      "ada",
+      "plaj",
+      "rahat"
+    ],
+    "reveal_summary": "Barbados: Yumuşak plajlar, rom kültürü ve ada temposuyla daha rahat, güneşli ve deniz odaklı bir kaçış verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Nassau": {
+    "hidden_title": "Kısa ada kaçamağı ve parlak deniz",
+    "hidden_summary": "Kristal su, liman çevresi ve kolay ada aktiviteleriyle pratik, renkli ve kısa tatil hissi taşır.",
+    "hidden_tags": [
+      "ada",
+      "deniz",
+      "liman"
+    ],
+    "reveal_summary": "Nassau: Kristal su, liman çevresi ve kolay ada aktiviteleriyle pratik, renkli ve kısa tatil hissi taşır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Montego Bay": {
+    "hidden_title": "Reggae ritmi ve sahil resortu",
+    "hidden_summary": "Plaj resortları, müzik enerjisi ve tropik akşamlarla sosyal, rahat ve güneşli bir ada deneyimidir.",
+    "hidden_tags": [
+      "reggae",
+      "resort",
+      "plaj"
+    ],
+    "reveal_summary": "Montego Bay: Plaj resortları, müzik enerjisi ve tropik akşamlarla sosyal, rahat ve güneşli bir ada deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Zanzibar": {
+    "hidden_title": "Baharat adası ve taş şehir",
+    "hidden_summary": "Beyaz kumsallar, baharat kokuları ve taş sokaklar arasında deniz ile kültürü birlikte sunar.",
+    "hidden_tags": [
+      "baharat",
+      "ada",
+      "deniz"
+    ],
+    "reveal_summary": "Zanzibar: Beyaz kumsallar, baharat kokuları ve taş sokaklar arasında deniz ile kültürü birlikte sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Serengeti": {
+    "hidden_title": "Safari ufku ve büyük göç hissi",
+    "hidden_summary": "Geniş savanlar, vahşi yaşam takibi ve gün doğumu araç rotalarıyla doğa gözlemi merkezli bir maceradır.",
+    "hidden_tags": [
+      "safari",
+      "vahşi",
+      "savan"
+    ],
+    "reveal_summary": "Serengeti: Geniş savanlar, vahşi yaşam takibi ve gün doğumu araç rotalarıyla doğa gözlemi merkezli bir maceradır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Nairobi": {
+    "hidden_title": "Şehir ve safari eşiği",
+    "hidden_summary": "Modern şehir temposu, kahve molaları ve yakın doğal yaşam alanlarıyla Afrika keşfine pratik bir başlangıç verir.",
+    "hidden_tags": [
+      "şehir",
+      "safari",
+      "kahve"
+    ],
+    "reveal_summary": "Nairobi: Modern şehir temposu, kahve molaları ve yakın doğal yaşam alanlarıyla Afrika keşfine pratik bir başlangıç verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kilimanjaro": {
+    "hidden_title": "Zirve hedefi ve fiziksel meydan okuma",
+    "hidden_summary": "Yüksek irtifa yürüyüşü, kamp düzeni ve zirve motivasyonuyla rahat tatilden çok hedef odaklı bir maceradır.",
+    "hidden_tags": [
+      "zirve",
+      "trekking",
+      "kamp"
+    ],
+    "reveal_summary": "Kilimanjaro: Yüksek irtifa yürüyüşü, kamp düzeni ve zirve motivasyonuyla rahat tatilden çok hedef odaklı bir maceradır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kigali": {
+    "hidden_title": "Düzenli tepeler ve sakin şehir",
+    "hidden_summary": "Temiz caddeler, yeşil tepeler ve ağır tarih belleğiyle sakin, düzenli ve düşünceli bir şehir molasıdır.",
+    "hidden_tags": [
+      "tepe",
+      "sakin",
+      "tarih"
+    ],
+    "reveal_summary": "Kigali: Temiz caddeler, yeşil tepeler ve ağır tarih belleğiyle sakin, düzenli ve düşünceli bir şehir molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Petra": {
+    "hidden_title": "Kayaya oyulmuş antik geçit",
+    "hidden_summary": "Dar kanyon yürüyüşü, kırmızı kaya cepheleri ve antik kent hissiyle güçlü, sinematik bir tarih rotasıdır.",
+    "hidden_tags": [
+      "kanyon",
+      "antik",
+      "kaya"
+    ],
+    "reveal_summary": "Petra: Dar kanyon yürüyüşü, kırmızı kaya cepheleri ve antik kent hissiyle güçlü, sinematik bir tarih rotasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Wadi Rum": {
+    "hidden_title": "Çöl kampı ve yıldızlı gece",
+    "hidden_summary": "Kızıl kumlar, kaya kemerleri, jeep rotaları ve yıldızlı kamp geceleriyle açık alan macerası verir.",
+    "hidden_tags": [
+      "çöl",
+      "kamp",
+      "yıldız"
+    ],
+    "reveal_summary": "Wadi Rum: Kızıl kumlar, kaya kemerleri, jeep rotaları ve yıldızlı kamp geceleriyle açık alan macerası verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Olu Deniz": {
+    "hidden_title": "Lagün ve yamaç paraşütü",
+    "hidden_summary": "Durgun mavi lagün, yüksekten süzülme fikri ve yazlık sahil düzeniyle deniz-macera dengesini kurar.",
+    "hidden_tags": [
+      "lagün",
+      "paraşüt",
+      "deniz"
+    ],
+    "reveal_summary": "Olu Deniz: Durgun mavi lagün, yüksekten süzülme fikri ve yazlık sahil düzeniyle deniz-macera dengesini kurar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kahire": {
+    "hidden_title": "Nil, müze ve piramit gölgesi",
+    "hidden_summary": "Büyük şehir kaosu, antik eser yoğunluğu ve Nil çevresiyle yorucu ama tarih açısından çok güçlü bir deneyimdir.",
+    "hidden_tags": [
+      "piramit",
+      "müze",
+      "şehir"
+    ],
+    "reveal_summary": "Kahire: Büyük şehir kaosu, antik eser yoğunluğu ve Nil çevresiyle yorucu ama tarih açısından çok güçlü bir deneyimdir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Luxor": {
+    "hidden_title": "Tapınak vadisi ve Nil kıyısı",
+    "hidden_summary": "Antik tapınaklar, mezar vadileri ve nehir kıyısı gün batımlarıyla açık hava müzesi gibi ilerler.",
+    "hidden_tags": [
+      "tapınak",
+      "nil",
+      "antik"
+    ],
+    "reveal_summary": "Luxor: Antik tapınaklar, mezar vadileri ve nehir kıyısı gün batımlarıyla açık hava müzesi gibi ilerler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Maldivler": {
+    "hidden_title": "Su üstü sakinlik ve mercan",
+    "hidden_summary": "Turkuaz lagünler, mercan şnorkeli ve izole konaklama düzeniyle romantik, pahalı ve tamamen dinlenmelik bir kaçıştır.",
+    "hidden_tags": [
+      "lagün",
+      "lüks",
+      "şnorkel"
+    ],
+    "reveal_summary": "Maldivler: Turkuaz lagünler, mercan şnorkeli ve izole konaklama düzeniyle romantik, pahalı ve tamamen dinlenmelik bir kaçıştır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Colombo": {
+    "hidden_title": "Okyanus kıyısı ve ada başlangıcı",
+    "hidden_summary": "Sahil yürüyüşleri, pazarlar ve kolonyal izlerle Sri Lanka rotasına şehirli, sıcak bir giriş verir.",
+    "hidden_tags": [
+      "okyanus",
+      "pazar",
+      "şehir"
+    ],
+    "reveal_summary": "Colombo: Sahil yürüyüşleri, pazarlar ve kolonyal izlerle Sri Lanka rotasına şehirli, sıcak bir giriş verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kathmandu": {
+    "hidden_title": "Tapınak meydanları ve dağ hazırlığı",
+    "hidden_summary": "Stupalar, kalabalık meydanlar ve trekking öncesi hazırlık atmosferiyle manevi ve dağlara yakın bir şehir sunar.",
+    "hidden_tags": [
+      "tapınak",
+      "dağ",
+      "şehir"
+    ],
+    "reveal_summary": "Kathmandu: Stupalar, kalabalık meydanlar ve trekking öncesi hazırlık atmosferiyle manevi ve dağlara yakın bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Pokhara": {
+    "hidden_title": "Göl kenarı ve Himalaya manzarası",
+    "hidden_summary": "Sakin göl kıyısı, dağ silueti ve yamaç paraşütü seçeneğiyle dinlenme ile macerayı yumuşak birleştirir.",
+    "hidden_tags": [
+      "göl",
+      "dağ",
+      "macera"
+    ],
+    "reveal_summary": "Pokhara: Sakin göl kıyısı, dağ silueti ve yamaç paraşütü seçeneğiyle dinlenme ile macerayı yumuşak birleştirir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Galle": {
+    "hidden_title": "Surlu liman ve tropik sokaklar",
+    "hidden_summary": "Kolonyal surlar, okyanus esintisi ve butik kafelerle yavaş yürüyüşlü, zarif bir ada şehri verir.",
+    "hidden_tags": [
+      "sur",
+      "okyanus",
+      "butik"
+    ],
+    "reveal_summary": "Galle: Kolonyal surlar, okyanus esintisi ve butik kafelerle yavaş yürüyüşlü, zarif bir ada şehri verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Roma": {
+    "hidden_title": "Antik katman ve meydan hayatı",
+    "hidden_summary": "Forum kalıntıları, çeşmeli meydanlar ve uzun yemek molalarıyla tarih ile gündelik hayatı iç içe sunar.",
+    "hidden_tags": [
+      "antik",
+      "meydan",
+      "yemek"
+    ],
+    "reveal_summary": "Roma: Forum kalıntıları, çeşmeli meydanlar ve uzun yemek molalarıyla tarih ile gündelik hayatı iç içe sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Floransa": {
+    "hidden_title": "Rönesans sanatı ve taş sokak",
+    "hidden_summary": "Müzeler, kubbe manzarası ve atölye hissiyle sanat ağırlıklı, yürünebilir ve zarif bir şehir deneyimidir.",
+    "hidden_tags": [
+      "sanat",
+      "müze",
+      "kubbe"
+    ],
+    "reveal_summary": "Floransa: Müzeler, kubbe manzarası ve atölye hissiyle sanat ağırlıklı, yürünebilir ve zarif bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Barselona": {
+    "hidden_title": "Mimari, plaj ve gece",
+    "hidden_summary": "Gaudi yapıları, mahalle pazarları ve deniz yakınlığıyla kültür, yemek ve sosyal hayatı aynı potada toplar.",
+    "hidden_tags": [
+      "mimari",
+      "plaj",
+      "gece"
+    ],
+    "reveal_summary": "Barselona: Gaudi yapıları, mahalle pazarları ve deniz yakınlığıyla kültür, yemek ve sosyal hayatı aynı potada toplar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Atina": {
+    "hidden_title": "Akropol ve mahalle tavernaları",
+    "hidden_summary": "Antik tepe manzarası, sıcak mahalleler ve Ege mutfağıyla tarih odaklı ama rahat bir şehir molasıdır.",
+    "hidden_tags": [
+      "antik",
+      "yemek",
+      "şehir"
+    ],
+    "reveal_summary": "Atina: Antik tepe manzarası, sıcak mahalleler ve Ege mutfağıyla tarih odaklı ama rahat bir şehir molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Santorini": {
+    "hidden_title": "Beyaz teraslar ve kaldera",
+    "hidden_summary": "Uçurum köyleri, gün batımı kalabalığı ve butik konaklama hissiyle romantik, görsel ve pahalı bir ada kaçışıdır.",
+    "hidden_tags": [
+      "ada",
+      "günbatımı",
+      "romantik"
+    ],
+    "reveal_summary": "Santorini: Uçurum köyleri, gün batımı kalabalığı ve butik konaklama hissiyle romantik, görsel ve pahalı bir ada kaçışıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Paris": {
+    "hidden_title": "Müze, bulvar ve zarif yürüyüş",
+    "hidden_summary": "Büyük müzeler, nehir kıyısı yürüyüşleri ve kafe molalarıyla klasik, estetik ve kültür yoğun bir şehir sunar.",
+    "hidden_tags": [
+      "müze",
+      "kafe",
+      "nehir"
+    ],
+    "reveal_summary": "Paris: Büyük müzeler, nehir kıyısı yürüyüşleri ve kafe molalarıyla klasik, estetik ve kültür yoğun bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Amsterdam": {
+    "hidden_title": "Kanallar ve bisikletli şehir",
+    "hidden_summary": "Kanal evleri, müzeler ve bisiklet temposuyla kompakt, rahat ve yürüyerek keşfedilen bir Avrupa molasıdır.",
+    "hidden_tags": [
+      "kanal",
+      "bisiklet",
+      "müze"
+    ],
+    "reveal_summary": "Amsterdam: Kanal evleri, müzeler ve bisiklet temposuyla kompakt, rahat ve yürüyerek keşfedilen bir Avrupa molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Londra": {
+    "hidden_title": "Müzeler ve çok merkezli metropol",
+    "hidden_summary": "Ücretsiz müzeler, pazar mahalleleri ve tiyatro akşamlarıyla geniş, çeşitli ve planlı gezmeyi sevenlere uygundur.",
+    "hidden_tags": [
+      "müze",
+      "pazar",
+      "metropol"
+    ],
+    "reveal_summary": "Londra: Ücretsiz müzeler, pazar mahalleleri ve tiyatro akşamlarıyla geniş, çeşitli ve planlı gezmeyi sevenlere uygundur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bruksel": {
+    "hidden_title": "Meydan, çikolata ve kısa şehir molası",
+    "hidden_summary": "Görkemli meydan, çizgi roman dokusu ve çikolata molalarıyla kısa, kolay ve lezzetli bir Avrupa durağıdır.",
+    "hidden_tags": [
+      "meydan",
+      "çikolata",
+      "şehir"
+    ],
+    "reveal_summary": "Bruksel: Görkemli meydan, çizgi roman dokusu ve çikolata molalarıyla kısa, kolay ve lezzetli bir Avrupa durağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Dublin": {
+    "hidden_title": "Pub kültürü ve edebi sokaklar",
+    "hidden_summary": "Canlı pub akşamları, taş sokaklar ve hikaye anlatan müzelerle samimi, müzikli bir şehir hissi verir.",
+    "hidden_tags": [
+      "pub",
+      "müzik",
+      "edebiyat"
+    ],
+    "reveal_summary": "Dublin: Canlı pub akşamları, taş sokaklar ve hikaye anlatan müzelerle samimi, müzikli bir şehir hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Oslo": {
+    "hidden_title": "Fiyort kıyısı ve sade tasarım",
+    "hidden_summary": "Deniz kıyısı mimarisi, müzeler ve yakın doğa rotalarıyla sakin, düzenli ve pahalı bir kuzey molasıdır.",
+    "hidden_tags": [
+      "fiyort",
+      "tasarım",
+      "sakin"
+    ],
+    "reveal_summary": "Oslo: Deniz kıyısı mimarisi, müzeler ve yakın doğa rotalarıyla sakin, düzenli ve pahalı bir kuzey molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Stockholm": {
+    "hidden_title": "Adalar ve kuzey zarafeti",
+    "hidden_summary": "Su yolları, tarihi ada sokakları ve tasarım mağazalarıyla ferah, estetik ve ölçülü bir şehir deneyimidir.",
+    "hidden_tags": [
+      "ada",
+      "tasarım",
+      "su"
+    ],
+    "reveal_summary": "Stockholm: Su yolları, tarihi ada sokakları ve tasarım mağazalarıyla ferah, estetik ve ölçülü bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kopenhag": {
+    "hidden_title": "Bisiklet, liman ve rahat yaşam",
+    "hidden_summary": "Renkli liman, bisiklet düzeni ve yeni nordik yemek kültürüyle konforlu, sade ve keyifli bir şehir sunar.",
+    "hidden_tags": [
+      "bisiklet",
+      "liman",
+      "yemek"
+    ],
+    "reveal_summary": "Kopenhag: Renkli liman, bisiklet düzeni ve yeni nordik yemek kültürüyle konforlu, sade ve keyifli bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Helsinki": {
+    "hidden_title": "Sakin liman ve sauna kültürü",
+    "hidden_summary": "Deniz kıyısı, tasarım mağazaları ve sauna ritüeliyle sessiz, temiz ve kısa kaçamak hissi verir.",
+    "hidden_tags": [
+      "sauna",
+      "tasarım",
+      "liman"
+    ],
+    "reveal_summary": "Helsinki: Deniz kıyısı, tasarım mağazaları ve sauna ritüeliyle sessiz, temiz ve kısa kaçamak hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tromso": {
+    "hidden_title": "Kutup gecesi ve kuzey ışığı",
+    "hidden_summary": "Karlı manzaralar, kuzey ışığı avı ve soğuk deniz kıyısı atmosferiyle özel mevsim isteyen bir rota olur.",
+    "hidden_tags": [
+      "kuzey ışığı",
+      "kar",
+      "soğuk"
+    ],
+    "reveal_summary": "Tromso: Karlı manzaralar, kuzey ışığı avı ve soğuk deniz kıyısı atmosferiyle özel mevsim isteyen bir rota olur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Dubai": {
+    "hidden_title": "Gökdelen, çöl ve lüks düzen",
+    "hidden_summary": "Yüksek kuleler, alışveriş merkezleri, çöl aktiviteleri ve kusursuz servis hissiyle gösterişli ve konfor odaklıdır.",
+    "hidden_tags": [
+      "lüks",
+      "çöl",
+      "modern"
+    ],
+    "reveal_summary": "Dubai: Yüksek kuleler, alışveriş merkezleri, çöl aktiviteleri ve kusursuz servis hissiyle gösterişli ve konfor odaklıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Abu Dabi": {
+    "hidden_title": "Müze, cami ve sakin lüks",
+    "hidden_summary": "Büyük cami, kültür adası ve daha düzenli sahil yaşamıyla gösterişten çok sakin konfor hissi verir.",
+    "hidden_tags": [
+      "cami",
+      "müze",
+      "lüks"
+    ],
+    "reveal_summary": "Abu Dabi: Büyük cami, kültür adası ve daha düzenli sahil yaşamıyla gösterişten çok sakin konfor hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Doha": {
+    "hidden_title": "Körfez silueti ve müze rotası",
+    "hidden_summary": "Modern sahil, İslam sanatı müzeleri ve çöl yakınlığıyla kompakt, sıcak ve kültürlü bir körfez molasıdır.",
+    "hidden_tags": [
+      "müze",
+      "sahil",
+      "çöl"
+    ],
+    "reveal_summary": "Doha: Modern sahil, İslam sanatı müzeleri ve çöl yakınlığıyla kompakt, sıcak ve kültürlü bir körfez molasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Muskat": {
+    "hidden_title": "Dağ, deniz ve beyaz şehir",
+    "hidden_summary": "Beyaz binalar, sert dağ fonu ve sakin kıyılarla daha doğal, ağırbaşlı ve kalabalıktan uzak bir Körfez rotasıdır.",
+    "hidden_tags": [
+      "dağ",
+      "deniz",
+      "sakin"
+    ],
+    "reveal_summary": "Muskat: Beyaz binalar, sert dağ fonu ve sakin kıyılarla daha doğal, ağırbaşlı ve kalabalıktan uzak bir Körfez rotasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Riyad": {
+    "hidden_title": "Çöl başkenti ve yeni şehir",
+    "hidden_summary": "Geniş bulvarlar, yeni kültür alanları ve çöl kenarı gezileriyle modernleşen, farklı bir başkent deneyimi verir.",
+    "hidden_tags": [
+      "başkent",
+      "çöl",
+      "modern"
+    ],
+    "reveal_summary": "Riyad: Geniş bulvarlar, yeni kültür alanları ve çöl kenarı gezileriyle modernleşen, farklı bir başkent deneyimi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "New York": {
+    "hidden_title": "Gökdelen ve mahalle enerjisi",
+    "hidden_summary": "Müzeler, parklar, farklı mahalleler ve gece ışıklarıyla hızlı, yoğun ve seçenekleri bitmeyen bir metropol sunar.",
+    "hidden_tags": [
+      "metropol",
+      "müze",
+      "gece"
+    ],
+    "reveal_summary": "New York: Müzeler, parklar, farklı mahalleler ve gece ışıklarıyla hızlı, yoğun ve seçenekleri bitmeyen bir metropol sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Los Angeles": {
+    "hidden_title": "Sahil, stüdyo ve geniş mesafe",
+    "hidden_summary": "Plajlar, sinema kültürü ve araba gerektiren dağınık mahallelerle güneşli ama plan isteyen bir şehir deneyimidir.",
+    "hidden_tags": [
+      "sinema",
+      "sahil",
+      "araba"
+    ],
+    "reveal_summary": "Los Angeles: Plajlar, sinema kültürü ve araba gerektiren dağınık mahallelerle güneşli ama plan isteyen bir şehir deneyimidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Miami": {
+    "hidden_title": "Art deco, Latin ritmi ve plaj",
+    "hidden_summary": "Renkli sahil mimarisi, Latin müziği ve gece hayatıyla sıcak, sosyal ve deniz odaklı bir şehir kaçamağıdır.",
+    "hidden_tags": [
+      "plaj",
+      "latin",
+      "gece"
+    ],
+    "reveal_summary": "Miami: Renkli sahil mimarisi, Latin müziği ve gece hayatıyla sıcak, sosyal ve deniz odaklı bir şehir kaçamağıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Toronto": {
+    "hidden_title": "Çok kültürlü mahalleler ve göl kıyısı",
+    "hidden_summary": "Göl kenarı, dünya mutfakları ve düzenli büyük şehir hissiyle kolay, güvenli ve yemek odaklı bir mola verir.",
+    "hidden_tags": [
+      "göl",
+      "yemek",
+      "şehir"
+    ],
+    "reveal_summary": "Toronto: Göl kenarı, dünya mutfakları ve düzenli büyük şehir hissiyle kolay, güvenli ve yemek odaklı bir mola verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "San Francisco": {
+    "hidden_title": "Tepeler, köprü ve yaratıcı mahalleler",
+    "hidden_summary": "Dik sokaklar, körfez manzarası ve teknoloji-kültür karışımı mahallelerle serin, karakterli bir şehir sunar.",
+    "hidden_tags": [
+      "köprü",
+      "tepe",
+      "şehir"
+    ],
+    "reveal_summary": "San Francisco: Dik sokaklar, körfez manzarası ve teknoloji-kültür karışımı mahallelerle serin, karakterli bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cancun": {
+    "hidden_title": "Resort şeridi ve Karayip denizi",
+    "hidden_summary": "Turkuaz su, resort düzeni ve yakın Maya rotalarıyla kolay, güneşli ve konforlu bir tatil seçeneğidir.",
+    "hidden_tags": [
+      "resort",
+      "deniz",
+      "maya"
+    ],
+    "reveal_summary": "Cancun: Turkuaz su, resort düzeni ve yakın Maya rotalarıyla kolay, güneşli ve konforlu bir tatil seçeneğidir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Meksiko": {
+    "hidden_title": "Müze, pazar ve dev şehir",
+    "hidden_summary": "Büyük müzeler, sokak yemeği, tarihi meydanlar ve yaratıcı mahallelerle yoğun ama çok zengin bir metropoldür.",
+    "hidden_tags": [
+      "müze",
+      "yemek",
+      "metropol"
+    ],
+    "reveal_summary": "Meksiko: Büyük müzeler, sokak yemeği, tarihi meydanlar ve yaratıcı mahallelerle yoğun ama çok zengin bir metropoldür.",
+    "text_source": "destination_text_sources.json"
+  },
+  "San Jose": {
+    "hidden_title": "Doğa rotalarına şehir kapısı",
+    "hidden_summary": "Kahve kültürü, müzeler ve yağmur ormanı/volkan gezilerine yakınlığıyla pratik bir başlangıç noktasıdır.",
+    "hidden_tags": [
+      "kahve",
+      "volkan",
+      "şehir"
+    ],
+    "reveal_summary": "San Jose: Kahve kültürü, müzeler ve yağmur ormanı/volkan gezilerine yakınlığıyla pratik bir başlangıç noktasıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Panama City": {
+    "hidden_title": "Kanal, gökdelen ve eski mahalle",
+    "hidden_summary": "Modern siluet, tarihi yarımada ve kanal mühendisliğiyle kısa sürede farklı yüzler gösteren tropik bir şehir olur.",
+    "hidden_tags": [
+      "kanal",
+      "modern",
+      "tarih"
+    ],
+    "reveal_summary": "Panama City: Modern siluet, tarihi yarımada ve kanal mühendisliğiyle kısa sürede farklı yüzler gösteren tropik bir şehir olur.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cartagena": {
+    "hidden_title": "Renkli sur içi ve Karayip akşamı",
+    "hidden_summary": "Kolonyal balkonlar, sıcak meydanlar ve deniz esintisiyle romantik, renkli ve yürüyüş odaklı bir şehir sunar.",
+    "hidden_tags": [
+      "renk",
+      "sur",
+      "karayip"
+    ],
+    "reveal_summary": "Cartagena: Kolonyal balkonlar, sıcak meydanlar ve deniz esintisiyle romantik, renkli ve yürüyüş odaklı bir şehir sunar.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sydney": {
+    "hidden_title": "Liman, opera ve şehir plajı",
+    "hidden_summary": "İkonik liman, feribotlar ve surf plajlarıyla açık havada yaşayan, enerjik ve rahat bir metropol hissi verir.",
+    "hidden_tags": [
+      "liman",
+      "plaj",
+      "şehir"
+    ],
+    "reveal_summary": "Sydney: İkonik liman, feribotlar ve surf plajlarıyla açık havada yaşayan, enerjik ve rahat bir metropol hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Melbourne": {
+    "hidden_title": "Kafe sokakları ve sanat havası",
+    "hidden_summary": "Gizli pasajlar, kahve kültürü, galeri ve spor etkinlikleriyle daha kültürlü, serin ve mahalle odaklıdır.",
+    "hidden_tags": [
+      "kafe",
+      "sanat",
+      "mahalle"
+    ],
+    "reveal_summary": "Melbourne: Gizli pasajlar, kahve kültürü, galeri ve spor etkinlikleriyle daha kültürlü, serin ve mahalle odaklıdır.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Queenstown": {
+    "hidden_title": "Göl kıyısında adrenalin",
+    "hidden_summary": "Dağ gölü, bungee/jetboat seçenekleri ve yürüyüş rotalarıyla küçük ama macera yoğun bir doğa üssüdür.",
+    "hidden_tags": [
+      "macera",
+      "göl",
+      "dağ"
+    ],
+    "reveal_summary": "Queenstown: Dağ gölü, bungee/jetboat seçenekleri ve yürüyüş rotalarıyla küçük ama macera yoğun bir doğa üssüdür.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Suva": {
+    "hidden_title": "Pasifik başkenti ve yerel pazar",
+    "hidden_summary": "Tropik yağmur, pazar hayatı ve yerel gündelik ritimle resorttan çok gerçek ada yaşamı hissi verir.",
+    "hidden_tags": [
+      "pazar",
+      "ada",
+      "yerel"
+    ],
+    "reveal_summary": "Suva: Tropik yağmur, pazar hayatı ve yerel gündelik ritimle resorttan çok gerçek ada yaşamı hissi verir.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Papeete": {
+    "hidden_title": "Lagün kapısı ve Polinezya pazarı",
+    "hidden_summary": "Renkli pazarlar, liman çevresi ve uzak ada hissiyle pahalı ama çok özel bir Pasifik başlangıcıdır.",
+    "hidden_tags": [
+      "lagün",
+      "pazar",
+      "pasifik"
+    ],
+    "reveal_summary": "Papeete: Renkli pazarlar, liman çevresi ve uzak ada hissiyle pahalı ama çok özel bir Pasifik başlangıcıdır.",
+    "text_source": "destination_text_sources.json"
+  }
+}

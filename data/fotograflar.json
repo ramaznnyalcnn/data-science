@@ -1,0 +1,367 @@
+{
+  "kategoriler": [
+    {
+      "id": "k1",
+      "seviye": 1,
+      "vektor_tipi": "fizik",
+      "soru": "Nasıl bir ortam seni daha çok çekiyor?",
+      "soru_en": "Which environment appeals to you more?",
+      "sol": {
+        "dosya": "k1_sol.jpg",
+        "aciklama": "Turkuaz suya açılan geniş bir sahil; güneş, yüzme ve deniz odaklı bir rota",
+        "aciklama_en": "A wide shore opening to turquoise water; a sun, swimming and sea-first route",
+        "vektor": {
+          "deniz": 0.9, "doga": 0.2, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.4, "sakin": 0.3, "doga_spor": 0.1,
+          "su_spor": 0.5, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.5, "fiyat": 0.5
+        }
+      },
+      "sag": {
+        "dosya": "k1_sag.jpg",
+        "aciklama": "Dağların çevrelediği sakin bir göl; temiz hava, yürüyüş ve doğayla baş başa kalma",
+        "aciklama_en": "A calm lake framed by mountains; fresh air, walking and time close to nature",
+        "vektor": {
+          "deniz": 0.0, "doga": 1.0, "tarih": 0.1, "kultur": 0.2,
+          "eglence": 0.2, "sakin": 0.7, "doga_spor": 0.7,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.3,
+          "yemek": 0.3, "ulasim_kolayligi": 0.2, "fiyat": 0.3
+        }
+      }
+    },
+    {
+      "id": "k2",
+      "seviye": 1,
+      "vektor_tipi": "fizik",
+      "soru": "Hangi atmosfer seni daha çok çekiyor?",
+      "soru_en": "Which atmosphere draws you more?",
+      "sol": {
+        "dosya": "k2_sol.jpg",
+        "aciklama": "Dar taş sokaklar ve eski cepheler; yürüyerek keşfedilen tarihi bir şehir dokusu",
+        "aciklama_en": "Narrow stone streets and old facades; a historic city texture explored on foot",
+        "vektor": {
+          "deniz": 0.1, "doga": 0.2, "tarih": 0.9, "kultur": 0.9,
+          "eglence": 0.3, "sakin": 0.5, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.6, "ulasim_kolayligi": 0.6, "fiyat": 0.4
+        }
+      },
+      "sag": {
+        "dosya": "k2_sag.jpg",
+        "aciklama": "Kar çizgisinin üstünde aktif bir kış günü; kayak, soğuk hava ve dağ ritmi",
+        "aciklama_en": "An active winter day above the snow line; skiing, cold air and mountain rhythm",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.7, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.5, "sakin": 0.3, "doga_spor": 0.6,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 1.0,
+          "yemek": 0.3, "ulasim_kolayligi": 0.3, "fiyat": 0.6
+        }
+      }
+    }
+  ],
+  "turlar": [
+    {
+      "id": 1,
+      "seviye": 2,
+      "kategori": "deniz",
+      "vektor_tipi": "fizik",
+      "soru": "Denizde ne yapmayı tercih edersin?",
+      "soru_en": "What do you prefer doing at the sea?",
+      "sol": {
+        "dosya": "tur1_sol.jpg",
+        "aciklama": "Dalgaların ve plaj hareketinin öne çıktığı enerjik bir sahil günü",
+        "aciklama_en": "An energetic beach day shaped by waves, movement and a lively shore",
+        "vektor": {
+          "deniz": 0.9, "doga": 0.1, "tarih": 0.0, "kultur": 0.0,
+          "eglence": 0.7, "sakin": 0.1, "doga_spor": 0.2,
+          "su_spor": 0.6, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.5, "fiyat": 0.6
+        }
+      },
+      "sag": {
+        "dosya": "tur1_sag.jpg",
+        "aciklama": "Kalabalıktan uzak berrak bir koy; yüzme, kitap ve yavaş öğleden sonraları",
+        "aciklama_en": "A clear cove away from the crowd; swimming, reading and slow afternoons",
+        "vektor": {
+          "deniz": 0.9, "doga": 0.4, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.1, "sakin": 0.9, "doga_spor": 0.3,
+          "su_spor": 0.4, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.3, "fiyat": 0.3
+        }
+      }
+    },
+    {
+      "id": 2,
+      "seviye": 2,
+      "kategori": "deniz",
+      "vektor_tipi": "sosyal",
+      "soru": "Akşamları nasıl geçirmek istersin?",
+      "soru_en": "How would you like to spend your evenings?",
+      "sol": {
+        "dosya": "tur2_sol.jpg",
+        "aciklama": "Müzik, kalabalık ve geç saatlere uzayan sokak enerjisi",
+        "aciklama_en": "Music, crowds and street energy that carries late into the night",
+        "vektor": {
+          "deniz": 0.3, "doga": 0.0, "tarih": 0.0, "kultur": 0.2,
+          "eglence": 1.0, "sakin": 0.0, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.4, "ulasim_kolayligi": 0.7, "fiyat": 0.7
+        }
+      },
+      "sag": {
+        "dosya": "tur2_sag.jpg",
+        "aciklama": "Loş ışıklı sakin bir köy akşamı; uzun yemekler ve düşük tempolu sohbetler",
+        "aciklama_en": "A quiet village evening under warm lights; long dinners and low-tempo conversation",
+        "vektor": {
+          "deniz": 0.1, "doga": 0.5, "tarih": 0.3, "kultur": 0.8,
+          "eglence": 0.1, "sakin": 0.9, "doga_spor": 0.2,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.7, "ulasim_kolayligi": 0.2, "fiyat": 0.2
+        }
+      }
+    },
+    {
+      "id": 3,
+      "seviye": 2,
+      "kategori": "doga",
+      "vektor_tipi": "fizik",
+      "soru": "Doğada ne yapmayı tercih edersin?",
+      "soru_en": "What do you prefer doing in nature?",
+      "sol": {
+        "dosya": "tur3_sol.jpg",
+        "aciklama": "Gün doğumunda yükselen balonlar; manzara, yükseklik ve unutulmaz bir deneyim",
+        "aciklama_en": "Balloons rising at sunrise; scenery, height and a memorable experience",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.7, "tarih": 0.2, "kultur": 0.2,
+          "eglence": 0.6, "sakin": 0.4, "doga_spor": 0.5,
+          "su_spor": 0.0, "hava_spor": 1.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.4, "fiyat": 0.7
+        }
+      },
+      "sag": {
+        "dosya": "tur3_sag.jpg",
+        "aciklama": "Ağaçların arasında sessiz bir patika; temiz hava ve kendi ritminde yürüyüş",
+        "aciklama_en": "A quiet path between trees; fresh air and a walk at your own pace",
+        "vektor": {
+          "deniz": 0.0, "doga": 1.0, "tarih": 0.0, "kultur": 0.2,
+          "eglence": 0.1, "sakin": 0.9, "doga_spor": 0.8,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.2, "fiyat": 0.2
+        }
+      }
+    },
+    {
+      "id": 4,
+      "seviye": 2,
+      "kategori": "doga",
+      "vektor_tipi": "fizik",
+      "soru": "Hangi doğa ortamı daha çok seni çekiyor?",
+      "soru_en": "Which natural setting draws you more?",
+      "sol": {
+        "dosya": "tur4_sol.jpg",
+        "aciklama": "Yüksek rotalarda hareketli bir gün; tırmanış hissi, keşif ve fiziksel enerji",
+        "aciklama_en": "A day on higher routes; a climbing feel, exploration and physical energy",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.9, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.5, "sakin": 0.3, "doga_spor": 1.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.2, "fiyat": 0.3
+        }
+      },
+      "sag": {
+        "dosya": "tur4_sag.jpg",
+        "aciklama": "Durgun bir dağ gölü; yansıma, sessizlik ve manzaraya uzun uzun bakma",
+        "aciklama_en": "A still mountain lake; reflection, silence and time spent with the view",
+        "vektor": {
+          "deniz": 0.0, "doga": 1.0, "tarih": 0.0, "kultur": 0.2,
+          "eglence": 0.1, "sakin": 0.9, "doga_spor": 0.3,
+          "su_spor": 0.1, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.2, "fiyat": 0.2
+        }
+      }
+    },
+    {
+      "id": 5,
+      "seviye": 2,
+      "kategori": "tarih",
+      "vektor_tipi": "sosyal",
+      "soru": "Tarihi yerlerden ne bekliyorsun?",
+      "soru_en": "What do you expect from historical places?",
+      "sol": {
+        "dosya": "tur5_sol.jpg",
+        "aciklama": "Antik taşlar ve kalıntılar arasında yavaş keşif; tarih hissi güçlü bir durak",
+        "aciklama_en": "A slow walk through ancient stones and ruins; a place with a strong sense of history",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.2, "tarih": 1.0, "kultur": 0.5,
+          "eglence": 0.1, "sakin": 0.6, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.3, "ulasim_kolayligi": 0.4, "fiyat": 0.4
+        }
+      },
+      "sag": {
+        "dosya": "tur5_sag.jpg",
+        "aciklama": "Dans, ritim ve kalabalıkla yaşayan bir kültür anı; izlemekten çok içinde olma hissi",
+        "aciklama_en": "Dance, rhythm and a living cultural moment; less observing, more being inside it",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.2, "tarih": 0.4, "kultur": 1.0,
+          "eglence": 0.6, "sakin": 0.3, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.8, "ulasim_kolayligi": 0.5, "fiyat": 0.3
+        }
+      }
+    },
+    {
+      "id": 6,
+      "seviye": 2,
+      "kategori": "genel",
+      "vektor_tipi": "sosyal",
+      "soru": "Bütçe konusunda nasıl düşünüyorsun?",
+      "soru_en": "How do you think about budget?",
+      "sol": {
+        "dosya": "tur6_sol.jpg",
+        "aciklama": "Yerel pazar tezgahları ve sokak lezzetleri; uygun bütçeyle şehrin tadını çıkarma",
+        "aciklama_en": "Local market stalls and street food; tasting the city on a practical budget",
+        "vektor": {
+          "deniz": 0.1, "doga": 0.1, "tarih": 0.2, "kultur": 0.7,
+          "eglence": 0.3, "sakin": 0.4, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 1.0, "ulasim_kolayligi": 0.6, "fiyat": 0.2
+        }
+      },
+      "sag": {
+        "dosya": "tur6_sag.jpg",
+        "aciklama": "Havuz, servis ve konforun öne çıktığı rahat bir resort molası",
+        "aciklama_en": "A comfortable resort break where the pool, service and ease come first",
+        "vektor": {
+          "deniz": 0.7, "doga": 0.2, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.7, "sakin": 0.5, "doga_spor": 0.1,
+          "su_spor": 0.3, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.6, "ulasim_kolayligi": 0.7, "fiyat": 1.0
+        }
+      }
+    },
+    {
+      "id": 7,
+      "seviye": 2,
+      "kategori": "genel",
+      "vektor_tipi": "sosyal",
+      "soru": "Hangi atmosfer daha çok sana göre?",
+      "soru_en": "Which atmosphere suits you more?",
+      "sol": {
+        "dosya": "tur7_sol.jpg",
+        "aciklama": "Işıkları hiç sönmeyen merkezi caddeler; yemek, kültür ve şehir temposu",
+        "aciklama_en": "Central streets that stay bright; food, culture and the pace of the city",
+        "vektor": {
+          "deniz": 0.2, "doga": 0.0, "tarih": 0.5, "kultur": 1.0,
+          "eglence": 0.9, "sakin": 0.0, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.8, "ulasim_kolayligi": 0.9, "fiyat": 0.7
+        }
+      },
+      "sag": {
+        "dosya": "tur7_sag.jpg",
+        "aciklama": "Sisli vadilere açılan tenha yollar; sessizlik, mesafe ve yavaş keşif",
+        "aciklama_en": "Remote roads opening to misty valleys; silence, distance and slow discovery",
+        "vektor": {
+          "deniz": 0.0, "doga": 0.9, "tarih": 0.2, "kultur": 0.5,
+          "eglence": 0.1, "sakin": 1.0, "doga_spor": 0.3,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.5, "ulasim_kolayligi": 0.1, "fiyat": 0.2
+        }
+      }
+    },
+    {
+      "id": 8,
+      "seviye": 2,
+      "kategori": "genel",
+      "vektor_tipi": "fizik",
+      "soru": "Su aktiviteleri hakkında ne düşünüyorsun?",
+      "soru_en": "How do you feel about water activities?",
+      "sol": {
+        "dosya": "tur8_sol.jpg",
+        "aciklama": "Suyun altında renkli bir dünya; dalış, şnorkel ve aktif deniz deneyimi",
+        "aciklama_en": "A colorful world below the surface; diving, snorkeling and active sea time",
+        "vektor": {
+          "deniz": 0.9, "doga": 0.3, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.5, "sakin": 0.3, "doga_spor": 0.3,
+          "su_spor": 1.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.4, "fiyat": 0.6
+        }
+      },
+      "sag": {
+        "dosya": "tur8_sag.jpg",
+        "aciklama": "Gün batımında sahil boyunca yavaş bir yürüyüş; deniz var ama tempo düşük",
+        "aciklama_en": "A slow sunset walk along the shore; the sea is present, but the pace stays low",
+        "vektor": {
+          "deniz": 0.6, "doga": 0.4, "tarih": 0.1, "kultur": 0.3,
+          "eglence": 0.2, "sakin": 0.8, "doga_spor": 0.3,
+          "su_spor": 0.1, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.3, "ulasim_kolayligi": 0.3, "fiyat": 0.3
+        }
+      }
+    },
+    {
+      "id": 9,
+      "seviye": 2,
+      "kategori": "kis",
+      "vektor_tipi": "fizik",
+      "mevsim_sinyal": true,
+      "soru": "Tatil mevsimi denince aklına ne geliyor?",
+      "soru_en": "What comes to mind when you think of vacation season?",
+      "sol": {
+        "dosya": "k2_sag.jpg",
+        "aciklama": "Karlı pistlerde aktif bir tatil; soğuk hava, hız ve kış sporu enerjisi",
+        "aciklama_en": "An active holiday on snowy slopes; cold air, speed and winter-sport energy",
+        "mevsim": 1,
+        "vektor": {
+          "deniz": 0.0, "doga": 0.7, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.5, "sakin": 0.3, "doga_spor": 0.6,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 1.0,
+          "yemek": 0.3, "ulasim_kolayligi": 0.4, "fiyat": 0.7
+        }
+      },
+      "sag": {
+        "dosya": "k1_sol.jpg",
+        "aciklama": "Sıcak güneş ve mavi su etrafında kurulan klasik yaz tatili hissi",
+        "aciklama_en": "A classic summer-holiday feeling built around warm sun and blue water",
+        "mevsim": 0,
+        "vektor": {
+          "deniz": 0.9, "doga": 0.3, "tarih": 0.0, "kultur": 0.1,
+          "eglence": 0.6, "sakin": 0.4, "doga_spor": 0.1,
+          "su_spor": 0.5, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.3, "ulasim_kolayligi": 0.6, "fiyat": 0.6
+        }
+      }
+    },
+    {
+      "id": 10,
+      "seviye": 2,
+      "kategori": "genel",
+      "vektor_tipi": "sosyal",
+      "soru": "Gezi sırasında ulaşım nasıl olmalı?",
+      "soru_en": "How should getting around work on your trip?",
+      "sol": {
+        "dosya": "tur7_sol.jpg",
+        "aciklama": "Yürüyerek ve toplu taşımayla kolay akan merkezi bir şehir rotası",
+        "aciklama_en": "A central city route that works easily on foot and by public transport",
+        "vektor": {
+          "deniz": 0.1, "doga": 0.1, "tarih": 0.5, "kultur": 0.7,
+          "eglence": 0.5, "sakin": 0.3, "doga_spor": 0.0,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.6, "ulasim_kolayligi": 1.0, "fiyat": 0.3
+        }
+      },
+      "sag": {
+        "dosya": "tur7_sag.jpg",
+        "aciklama": "Araçla ulaşılan uzak manzaralar; planlı ama daha özgür bir keşif günü",
+        "aciklama_en": "Distant views reached by car; a planned but freer day of exploration",
+        "vektor": {
+          "deniz": 0.0, "doga": 1.0, "tarih": 0.1, "kultur": 0.2,
+          "eglence": 0.1, "sakin": 0.9, "doga_spor": 0.5,
+          "su_spor": 0.0, "hava_spor": 0.0, "kis_spor": 0.0,
+          "yemek": 0.2, "ulasim_kolayligi": 0.1, "fiyat": 0.3
+        }
+      }
+    }
+  ]
+}

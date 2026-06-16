@@ -1,0 +1,126 @@
+id,sehir,region_id,country,visa_free,deniz,doga,tarih,kultur,doga_spor,su_spor,hava_spor,kis_spor,eglence,sakin,yemek,ulasim_kolayligi,fiyat,mevsim
+Bodrum,Bodrum,region_01_ege_kiyilari,Turkiye,True,0.92,0.08,0.212,0.08,0.08,0.479,0.08,0.08,0.9,0.18,0.08,0.242,0.82,0
+Marmaris,Marmaris,region_01_ege_kiyilari,Turkiye,True,0.9,0.08,0.08,0.08,0.106,0.82,0.08,0.212,0.86,0.309,0.08,0.242,0.383,0
+Fethiye,Fethiye,region_01_ege_kiyilari,Turkiye,True,0.86,0.78,0.08,0.08,0.597,0.399,0.95,0.08,0.08,0.393,0.08,0.242,0.206,0
+Cesme,Cesme,region_01_ege_kiyilari,Turkiye,True,0.88,0.08,0.08,0.08,0.08,0.88,0.08,0.08,0.76,0.309,0.08,0.242,0.88,0
+Datca,Datca,region_01_ege_kiyilari,Turkiye,True,0.82,0.08,0.08,0.08,0.08,0.371,0.08,0.08,0.08,0.92,0.08,0.242,0.3,0
+Antalya,Antalya,region_02_akdeniz_sahili,Turkiye,True,0.578,0.309,0.737,0.08,0.08,0.402,0.08,0.08,0.212,0.08,0.08,0.242,0.285,2
+Alanya,Alanya,region_02_akdeniz_sahili,Turkiye,True,0.653,0.309,0.212,0.08,0.08,0.402,0.08,0.08,0.212,0.08,0.08,0.242,0.206,0
+Kas,Kas,region_02_akdeniz_sahili,Turkiye,True,0.578,0.309,0.08,0.154,0.08,0.402,0.08,0.08,0.173,0.08,0.08,0.242,0.285,2
+Side,Side,region_02_akdeniz_sahili,Turkiye,True,0.557,0.309,0.08,0.08,0.08,0.402,0.08,0.08,0.08,0.08,0.173,0.242,0.206,2
+Kemer,Kemer,region_02_akdeniz_sahili,Turkiye,True,0.641,0.309,0.08,0.08,0.08,0.402,0.08,0.08,0.08,0.133,0.08,0.242,0.285,2
+Trabzon,Trabzon,region_03_karadeniz,Turkiye,True,0.08,0.721,0.614,0.379,0.363,0.08,0.08,0.08,0.08,0.415,0.173,0.315,0.206,2
+Uzungol,Uzungol,region_03_karadeniz,Turkiye,True,0.08,0.734,0.08,0.08,0.58,0.08,0.08,0.08,0.08,0.465,0.42,0.242,0.206,2
+Ayder,Ayder,region_03_karadeniz,Turkiye,True,0.08,0.846,0.08,0.08,0.347,0.08,0.08,0.08,0.08,0.574,0.08,0.242,0.206,2
+Artvin,Artvin,region_03_karadeniz,Turkiye,True,0.08,0.557,0.08,0.154,0.406,0.193,0.08,0.08,0.173,0.415,0.08,0.284,0.206,1
+Rize,Rize,region_03_karadeniz,Turkiye,True,0.08,0.557,0.333,0.08,0.29,0.08,0.08,0.08,0.08,0.415,0.08,0.242,0.206,2
+Kapadokya,Kapadokya,region_04_tarihi_turkiye,Turkiye,True,0.08,0.7,0.86,0.515,0.159,0.08,0.95,0.08,0.08,0.08,0.08,0.242,0.206,2
+Efes,Efes,region_04_tarihi_turkiye,Turkiye,True,0.08,0.45,0.914,0.609,0.08,0.08,0.08,0.08,0.08,0.55,0.08,0.242,0.206,2
+Pamukkale,Pamukkale,region_04_tarihi_turkiye,Turkiye,True,0.08,0.379,0.832,0.464,0.08,0.08,0.08,0.08,0.212,0.08,0.08,0.242,0.206,2
+Mardin,Mardin,region_04_tarihi_turkiye,Turkiye,True,0.08,0.08,0.768,0.554,0.08,0.08,0.08,0.08,0.08,0.173,0.349,0.242,0.206,2
+Sanliurfa,Sanliurfa,region_04_tarihi_turkiye,Turkiye,True,0.08,0.08,0.626,0.464,0.08,0.08,0.08,0.08,0.08,0.48,0.72,0.242,0.206,2
+Istanbul,Istanbul,region_05_turkiye_sehirleri,Turkiye,True,0.08,0.08,0.95,0.95,0.08,0.08,0.08,0.08,0.08,0.08,0.88,0.921,0.2,2
+Izmir,Izmir,region_05_turkiye_sehirleri,Turkiye,True,0.08,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.568,0.2,2
+Gaziantep,Gaziantep,region_05_turkiye_sehirleri,Turkiye,True,0.08,0.08,0.586,0.72,0.08,0.08,0.08,0.08,0.08,0.08,0.98,0.552,0.25,2
+Bursa,Bursa,region_05_turkiye_sehirleri,Turkiye,True,0.08,0.08,0.449,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.591,0.2,2
+Ankara,Ankara,region_05_turkiye_sehirleri,Turkiye,True,0.08,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.568,0.2,2
+Kotor,Kotor,region_06_balkanlar,Karadag,True,0.08,0.08,0.433,0.433,0.08,0.08,0.08,0.08,0.08,0.309,0.08,0.242,0.17,2
+Mostar,Mostar,region_06_balkanlar,Bosna Hersek,True,0.08,0.08,0.433,0.433,0.08,0.08,0.08,0.08,0.08,0.309,0.08,0.284,0.17,2
+Tiran,Tiran,region_06_balkanlar,Arnavutluk,True,0.08,0.08,0.433,0.433,0.08,0.08,0.08,0.08,0.08,0.309,0.08,0.452,0.17,2
+Beograd,Beograd,region_06_balkanlar,Sirbistan,True,0.08,0.08,0.433,0.433,0.08,0.08,0.08,0.08,0.08,0.309,0.08,0.667,0.17,2
+Uskup,Uskup,region_06_balkanlar,Kuzey Makedonya,True,0.08,0.08,0.469,0.433,0.08,0.08,0.08,0.08,0.08,0.309,0.08,0.519,0.17,2
+Baku,Baku,region_07_kafkasya_ve_ipek_yolu,Azerbaycan,True,0.08,0.08,0.464,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.34,0.374,0.161,2
+Tiflis,Tiflis,region_07_kafkasya_ve_ipek_yolu,Gurcistan,True,0.08,0.08,0.464,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.34,0.374,0.161,2
+Semerkant,Semerkant,region_07_kafkasya_ve_ipek_yolu,Ozbekistan,True,0.08,0.08,0.464,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.34,0.284,0.161,2
+Buhara,Buhara,region_07_kafkasya_ve_ipek_yolu,Ozbekistan,True,0.08,0.08,0.507,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.34,0.374,0.161,2
+Taskent,Taskent,region_07_kafkasya_ve_ipek_yolu,Ozbekistan,True,0.08,0.08,0.464,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.34,0.284,0.161,2
+Marakes,Marakes,region_08_kuzey_afrika,Fas,True,0.08,0.08,0.477,0.477,0.08,0.08,0.08,0.08,0.55,0.08,0.75,0.284,0.161,2
+Fes,Fes,region_08_kuzey_afrika,Fas,True,0.08,0.08,0.477,0.477,0.08,0.08,0.08,0.08,0.08,0.52,0.68,0.284,0.161,2
+Tunus,Tunus,region_08_kuzey_afrika,Tunus,True,0.58,0.08,0.699,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.58,0.242,0.161,0
+Sidi Bou Said,Sidi Bou Said,region_08_kuzey_afrika,Tunus,True,0.65,0.08,0.52,0.477,0.08,0.08,0.08,0.08,0.08,0.82,0.08,0.284,0.161,2
+Kairouan,Kairouan,region_08_kuzey_afrika,Tunus,True,0.08,0.08,0.52,0.477,0.08,0.08,0.08,0.193,0.08,0.68,0.42,0.284,0.161,1
+Tokyo,Tokyo,region_09_japonya_ve_guney_kore,Japonya,True,0.08,0.08,0.08,0.88,0.08,0.08,0.08,0.08,0.78,0.08,0.82,0.921,0.206,2
+Kyoto,Kyoto,region_09_japonya_ve_guney_kore,Japonya,True,0.08,0.08,0.92,0.95,0.08,0.08,0.08,0.08,0.08,0.6,0.415,0.696,0.206,2
+Osaka,Osaka,region_09_japonya_ve_guney_kore,Japonya,True,0.08,0.112,0.08,0.495,0.08,0.08,0.08,0.08,0.173,0.08,0.415,0.616,0.206,2
+Seoul,Seoul,region_09_japonya_ve_guney_kore,Guney Kore,True,0.08,0.08,0.08,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.582,0.206,2
+Busan,Busan,region_09_japonya_ve_guney_kore,Guney Kore,True,0.08,0.08,0.08,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.566,0.206,2
+Singapur,Singapur,region_10_singapur_ve_malezya,Singapur,True,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.566,0.206,2
+Hong Kong,Hong Kong,region_10_singapur_ve_malezya,Hong Kong,True,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.566,0.206,2
+Kuala Lumpur,Kuala Lumpur,region_10_singapur_ve_malezya,Malezya,True,0.08,0.08,0.193,0.39,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.728,0.206,2
+Penang,Penang,region_10_singapur_ve_malezya,Malezya,True,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.582,0.206,2
+Macau,Macau,region_10_singapur_ve_malezya,Macau,True,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.566,0.206,2
+Rio de Janeiro,Rio de Janeiro,region_11_latin_amerika_sehirleri,Brezilya,True,0.08,0.08,0.08,0.452,0.08,0.08,0.08,0.08,0.452,0.08,0.08,0.568,0.206,2
+Buenos Aires,Buenos Aires,region_11_latin_amerika_sehirleri,Arjantin,True,0.08,0.08,0.08,0.452,0.08,0.08,0.08,0.08,0.452,0.08,0.08,0.568,0.206,2
+Lima,Lima,region_11_latin_amerika_sehirleri,Peru,True,0.08,0.08,0.08,0.452,0.08,0.08,0.08,0.08,0.452,0.08,0.08,0.568,0.206,2
+Bogota,Bogota,region_11_latin_amerika_sehirleri,Kolombiya,True,0.08,0.08,0.08,0.452,0.08,0.08,0.08,0.08,0.452,0.08,0.08,0.632,0.206,2
+Santiago,Santiago,region_11_latin_amerika_sehirleri,Sili,True,0.08,0.08,0.08,0.452,0.08,0.08,0.08,0.08,0.452,0.08,0.08,0.568,0.206,2
+Patagonia,Patagonia,region_12_guney_amerika_doga,Arjantin/Sili,True,0.08,0.98,0.08,0.08,0.324,0.08,0.08,0.08,0.08,0.78,0.08,0.242,0.206,2
+Machu Picchu,Machu Picchu,region_12_guney_amerika_doga,Peru,True,0.08,0.636,0.95,0.08,0.85,0.08,0.08,0.08,0.08,0.08,0.08,0.242,0.206,2
+Amazon,Amazon,region_12_guney_amerika_doga,Brezilya,True,0.08,0.613,0.08,0.08,0.82,0.08,0.08,0.08,0.08,0.75,0.08,0.242,0.206,2
+Galapagos,Galapagos,region_12_guney_amerika_doga,Ekvador,True,0.78,0.613,0.08,0.08,0.209,0.08,0.08,0.08,0.08,0.72,0.08,0.242,0.206,2
+Uyuni,Uyuni,region_12_guney_amerika_doga,Bolivya,True,0.08,0.601,0.08,0.08,0.62,0.08,0.08,0.08,0.08,0.85,0.08,0.242,0.206,0
+Bali,Bali,region_13_guneydogu_asya,Endonezya,True,0.477,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.284,0.356,2
+Bangkok,Bangkok,region_13_guneydogu_asya,Tayland,True,0.477,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.284,0.356,2
+Phuket,Phuket,region_13_guneydogu_asya,Tayland,True,0.477,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.242,0.356,2
+Siem Reap,Siem Reap,region_13_guneydogu_asya,Kambocya,True,0.477,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.284,0.356,2
+Krabi,Krabi,region_13_guneydogu_asya,Tayland,True,0.477,0.08,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.08,0.433,0.242,0.356,2
+Ho Chi Minh,Ho Chi Minh,region_14_vietnam_ve_hindistan,Vietnam,True,0.08,0.08,0.39,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.242,0.152,2
+Hanoi,Hanoi,region_14_vietnam_ve_hindistan,Vietnam,True,0.08,0.112,0.39,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.284,0.152,2
+Goa,Goa,region_14_vietnam_ve_hindistan,Hindistan,True,0.08,0.08,0.39,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.374,0.152,2
+Jaipur,Jaipur,region_14_vietnam_ve_hindistan,Hindistan,True,0.08,0.08,0.39,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.582,0.152,2
+Varanasi,Varanasi,region_14_vietnam_ve_hindistan,Hindistan,True,0.08,0.08,0.39,0.495,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.452,0.152,2
+Punta Cana,Punta Cana,region_15_karayipler,Dominik Cumhuriyeti,True,0.621,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.242,0.515,2
+Havana,Havana,region_15_karayipler,Kuba,True,0.601,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.374,0.485,2
+Barbados,Barbados,region_15_karayipler,Barbados,True,0.601,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.284,0.485,2
+Nassau,Nassau,region_15_karayipler,Bahamalar,True,0.601,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.284,0.485,2
+Montego Bay,Montego Bay,region_15_karayipler,Jamaika,True,0.601,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.284,0.485,2
+Zanzibar,Zanzibar,region_16_dogu_afrika,Tanzanya,True,0.9,0.576,0.55,0.08,0.202,0.08,0.08,0.08,0.08,0.72,0.08,0.242,0.206,2
+Serengeti,Serengeti,region_16_dogu_afrika,Tanzanya,True,0.08,0.98,0.08,0.08,0.72,0.08,0.08,0.08,0.08,0.78,0.08,0.242,0.206,2
+Nairobi,Nairobi,region_16_dogu_afrika,Kenya,True,0.08,0.588,0.08,0.58,0.202,0.08,0.08,0.08,0.48,0.08,0.08,0.374,0.206,2
+Kilimanjaro,Kilimanjaro,region_16_dogu_afrika,Tanzanya,True,0.08,0.588,0.08,0.08,0.88,0.08,0.08,0.08,0.08,0.8,0.08,0.242,0.206,2
+Kigali,Kigali,region_16_dogu_afrika,Ruanda,True,0.08,0.576,0.08,0.58,0.202,0.08,0.08,0.08,0.08,0.62,0.08,0.374,0.206,2
+Petra,Petra,region_17_orta_dogu_tarihi,Urdun,True,0.08,0.55,0.98,0.452,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.345,0.206,2
+Wadi Rum,Wadi Rum,region_17_orta_dogu_tarihi,Urdun,True,0.08,0.9,0.55,0.45,0.75,0.08,0.08,0.08,0.08,0.82,0.08,0.242,0.206,2
+Olu Deniz,Olu Deniz,region_17_orta_dogu_tarihi,Urdun,True,0.92,0.75,0.12,0.18,0.08,0.08,0.9,0.08,0.08,0.55,0.08,0.242,0.206,2
+Kahire,Kahire,region_17_orta_dogu_tarihi,Misir,True,0.08,0.08,0.576,0.452,0.08,0.08,0.08,0.08,0.45,0.08,0.58,0.284,0.206,2
+Luxor,Luxor,region_17_orta_dogu_tarihi,Misir,True,0.08,0.08,0.98,0.78,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.519,0.206,2
+Maldivler,Maldivler,region_18_guney_asya_adalari,Maldivler,True,0.98,0.452,0.08,0.415,0.08,0.88,0.08,0.08,0.08,0.82,0.08,0.284,0.9,0
+Colombo,Colombo,region_18_guney_asya_adalari,Sri Lanka,True,0.402,0.452,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.582,0.206,2
+Kathmandu,Kathmandu,region_18_guney_asya_adalari,Nepal,True,0.402,0.452,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.374,0.206,2
+Pokhara,Pokhara,region_18_guney_asya_adalari,Nepal,True,0.402,0.452,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.582,0.206,1
+Galle,Galle,region_18_guney_asya_adalari,Sri Lanka,True,0.402,0.452,0.08,0.415,0.08,0.08,0.08,0.08,0.08,0.39,0.08,0.374,0.206,2
+Roma,Roma,region_19_guney_avrupa,Italya,False,0.08,0.112,0.698,0.514,0.08,0.08,0.08,0.08,0.08,0.08,0.464,0.414,0.26,2
+Floransa,Floransa,region_19_guney_avrupa,Italya,False,0.08,0.08,0.538,0.514,0.08,0.08,0.08,0.08,0.08,0.08,0.464,0.452,0.26,2
+Barselona,Barselona,region_19_guney_avrupa,Ispanya,False,0.08,0.08,0.538,0.514,0.08,0.08,0.08,0.08,0.08,0.08,0.464,0.582,0.26,0
+Atina,Atina,region_19_guney_avrupa,Yunanistan,False,0.08,0.08,0.495,0.514,0.08,0.08,0.08,0.08,0.08,0.08,0.464,0.452,0.26,2
+Santorini,Santorini,region_19_guney_avrupa,Yunanistan,False,0.08,0.08,0.495,0.514,0.08,0.08,0.08,0.08,0.08,0.08,0.464,0.242,0.26,2
+Paris,Paris,region_20_bati_avrupa,Fransa,False,0.08,0.08,0.82,0.95,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.882,0.82,2
+Amsterdam,Amsterdam,region_20_bati_avrupa,Hollanda,False,0.08,0.08,0.476,0.539,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.607,0.29,2
+Londra,Londra,region_20_bati_avrupa,Ingiltere,False,0.08,0.08,0.433,0.539,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.607,0.29,2
+Bruksel,Bruksel,region_20_bati_avrupa,Belcika,False,0.08,0.08,0.433,0.539,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.67,0.29,2
+Dublin,Dublin,region_20_bati_avrupa,Irlanda,False,0.08,0.08,0.433,0.539,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.607,0.29,2
+Oslo,Oslo,region_21_iskandinavya,Norvec,False,0.08,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.08,0.5,0.284,2
+Stockholm,Stockholm,region_21_iskandinavya,Isvec,False,0.08,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.08,0.55,0.284,0
+Kopenhag,Kopenhag,region_21_iskandinavya,Danimarka,False,0.08,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.08,0.5,0.284,2
+Helsinki,Helsinki,region_21_iskandinavya,Finlandiya,False,0.08,0.477,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.415,0.08,0.534,0.284,2
+Tromso,Tromso,region_21_iskandinavya,Norvec,False,0.08,0.86,0.08,0.08,0.08,0.08,0.08,0.75,0.08,0.7,0.08,0.484,0.284,1
+Dubai,Dubai,region_22_korfez,BAE,False,0.291,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.8,0.08,0.08,0.898,0.98,2
+Abu Dabi,Abu Dabi,region_22_korfez,BAE,False,0.291,0.08,0.48,0.68,0.08,0.08,0.08,0.08,0.55,0.08,0.08,0.651,0.673,2
+Doha,Doha,region_22_korfez,Katar,True,0.291,0.08,0.45,0.65,0.08,0.08,0.08,0.08,0.52,0.08,0.08,0.587,0.673,2
+Muskat,Muskat,region_22_korfez,Umman,True,0.58,0.08,0.72,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.587,0.673,2
+Riyad,Riyad,region_22_korfez,Suudi Arabistan,True,0.291,0.08,0.6,0.52,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.621,0.673,2
+New York,New York,region_23_kuzey_amerika,ABD,False,0.08,0.08,0.08,0.88,0.08,0.08,0.08,0.08,0.9,0.08,0.08,0.944,0.82,2
+Los Angeles,Los Angeles,region_23_kuzey_amerika,ABD,False,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.464,0.08,0.08,0.6,0.29,2
+Miami,Miami,region_23_kuzey_amerika,ABD,False,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.464,0.08,0.08,0.6,0.29,2
+Toronto,Toronto,region_23_kuzey_amerika,Kanada,False,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.464,0.08,0.08,0.616,0.29,2
+San Francisco,San Francisco,region_23_kuzey_amerika,ABD,False,0.08,0.08,0.08,0.39,0.08,0.08,0.08,0.08,0.464,0.08,0.08,0.6,0.29,2
+Cancun,Cancun,region_24_meksika_ve_orta_amerika,Meksika,True,0.41,0.08,0.39,0.464,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.242,0.285,2
+Meksiko,Meksiko,region_24_meksika_ve_orta_amerika,Meksika,True,0.39,0.08,0.39,0.464,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.284,0.206,2
+San Jose,San Jose,region_24_meksika_ve_orta_amerika,Kosta Rika,True,0.39,0.08,0.39,0.464,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.374,0.206,2
+Panama City,Panama City,region_24_meksika_ve_orta_amerika,Panama,True,0.39,0.08,0.39,0.464,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.284,0.206,2
+Cartagena,Cartagena,region_24_meksika_ve_orta_amerika,Kolombiya,True,0.39,0.08,0.39,0.464,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.242,0.206,2
+Sydney,Sydney,region_25_okyanusya,Avustralya,False,0.452,0.564,0.08,0.08,0.179,0.08,0.08,0.08,0.72,0.08,0.62,0.75,0.272,2
+Melbourne,Melbourne,region_25_okyanusya,Avustralya,False,0.452,0.514,0.08,0.62,0.179,0.08,0.08,0.08,0.68,0.08,0.8,0.7,0.272,2
+Queenstown,Queenstown,region_25_okyanusya,Yeni Zelanda,False,0.472,0.92,0.08,0.08,0.914,0.08,0.08,0.08,0.08,0.08,0.08,0.242,0.351,2
+Suva,Suva,region_25_okyanusya,Fiji,False,0.452,0.514,0.38,0.08,0.179,0.08,0.08,0.08,0.08,0.65,0.08,0.284,0.272,2
+Papeete,Papeete,region_25_okyanusya,Fransiz Polinezyasi,False,0.452,0.514,0.08,0.08,0.179,0.08,0.08,0.08,0.08,0.08,0.08,0.374,0.272,2

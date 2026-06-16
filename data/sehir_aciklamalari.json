@@ -1,0 +1,102 @@
+{
+  "Abant": {
+    "TR": "Abant Bolu iline bağlı İstanbul ve Ankara'ya yakın konumuyla hafta sonu kaçamak destinasyonu olarak popülerdir. Abant Gölü çevreleyen ormanlar ve yüksek yaylalar sakin doğa manzaraları sunar.",
+    "EN": "A peaceful lakeside forest escape within easy reach of Istanbul and Ankara — ideal for a weekend surrounded by nature and fresh air."
+  },
+  "Alanya": {
+    "TR": "Alanya Antalya iline bağlı bütçe dostu bir tatil beldesidir. Kleopatra plajı dünyanın en güzel kumsallarından biri olarak bilinir.",
+    "EN": "A budget-friendly Mediterranean beach town known for Cleopatra Beach — one of the world's most beautiful stretches of sand."
+  },
+  "Antalya": {
+    "TR": "Antalya Türkiye'nin en büyük turizm şehirlerinden biridir. Uzun kumsalları ve mavi bayrraklı plajları meşhurdur.",
+    "EN": "Turkey's largest tourism hub, blending ancient Roman ruins in its old quarter with long sandy beaches and modern resort facilities."
+  },
+  "Ayder": {
+    "TR": "Ayder Rize iline bağlı yaylacılık geleneğinin yaşatıldığı Karadeniz yaylasıdır. Şelaleleri ve yoğun orman örtüsü ile doğa harikasıdır.",
+    "EN": "A traditional Black Sea highland where cascading waterfalls, dense forests, and thermal springs create an unforgettable natural retreat."
+  },
+  "Ayvalik": {
+    "TR": "Ayvalık Balıkesir iline bağlı zeytinlikleriyle Ege kıyısında sakin bir kasabadır. Adalı manzarası küçük balıkçı tekneleri ve nostaljik taş evleri romantik bir atmosfer yaratır.",
+    "EN": "A quietly charming Aegean town of olive groves, island views, and nostalgic stone streets — a favorite escape for artists and writers."
+  },
+  "Bodrum": {
+    "TR": "Bodrum Muğla iline bağlı turistik bir ilçedir. Ege ve Akdeniz'in buluştuğu bu nokta berrak turkuaz suları ve uzun plajları ile bilinir.",
+    "EN": "A vibrant coastal town where the Aegean meets the Mediterranean, famous for its lively nightlife, crystal-clear turquoise waters, and historic castle."
+  },
+  "Cesme": {
+    "TR": "Çeşme İzmir iline bağlı lüks tatil beldesidir. Turkuaz denizi ve rüzgarıyla ünlüdür özellikle sörf ve rüzgar sörfü için ideal koşullar sunar.",
+    "EN": "A chic Aegean resort town famous for its turquoise waters, strong winds perfect for windsurfing, and trendy boutique hotels."
+  },
+  "Datca": {
+    "TR": "Datça Muğla iline bağlı yarımadanın ucunda yer alan kirlenmemiş doğasıyla ünlü sakin bir ilçedir. Ulaşımı diğer Ege beldelerine kıyasla görece zordur bu durum kalabalıktan kaçmak isteyenlerin tercih etmesini sağlar.",
+    "EN": "A remote peninsula paradise, difficult to reach but rewarding with pristine coves, crystal-clear bays, and an unhurried local pace."
+  },
+  "Efes": {
+    "TR": "Efes İzmir iline bağlı Selçuk ilçesinde yer alan Türkiye'nin en önemli antik kentlerinden biridir. Roma dönemine ait tiyatro kütüphane tapınak ve meydan yapıları büyük ölçüde korunmuştur.",
+    "EN": "One of the best-preserved ancient cities in the world — walk among grand Roman theaters, temples, and marble streets thousands of years old."
+  },
+  "Fethiye": {
+    "TR": "Fethiye Muğla iline bağlı hem deniz hem doğa açısından zengin bir ilçedir. Ölüdeniz lagünü turkuaz rengiyle dünya genelinde tanınan bir doğa harikasıdır.",
+    "EN": "A nature lover's paradise where the famous Ölüdeniz lagoon meets towering mountains — a top destination for paragliding and boat tours."
+  },
+  "Gaziantep": {
+    "TR": "Gaziantep UNESCO tarafından Yaratıcı Şehirler Ağı'na kabul edilmiş bir gastronomi şehridir. Türk mutfağının en zengin örneklerinin sergilendiği yerdir.",
+    "EN": "A UNESCO Creative City of Gastronomy, world-renowned for its baklava, kebabs, and one of Turkey's finest culinary traditions."
+  },
+  "Gocek": {
+    "TR": "Göcek Muğla iline bağlı lüks yat turizminin merkezi olan sakin bir marina kasabasıdır. Çevresindeki koylar ve adacıklar mavi yürüyüş rotasının parçasıdır.",
+    "EN": "A tranquil yacht marina town surrounded by hidden coves and pine-forested hills, beloved by sailors and those seeking quiet luxury."
+  },
+  "Istanbul": {
+    "TR": "İstanbul Türkiye'nin en büyük şehri ve tarihi başkentidir. Ayasofya Topkapı Sarayı Kapalıçarşı Sultanahmet Camii dünyaca ünlü tarihi yapılardır.",
+    "EN": "A city straddling two continents, where thousands of years of history meet a vibrant modern culture, world-class cuisine, and grand bazaars."
+  },
+  "Kackarlar": {
+    "TR": "Kaçkar Dağları Rize ve Artvin illeri sınırında yer alan Türkiye'nin en sarp ve bakir dağ silsilesidir. Deniz seviyesinden 3937 metreye ulaşan zirveleriyle dağcıların ve trekker'ların gözdesidir.",
+    "EN": "Turkey's wildest mountain range, rising to nearly 4000 meters with glacial lakes, untouched alpine meadows, and demanding trekking routes."
+  },
+  "Kapadokya": {
+    "TR": "Kapadokya Nevşehir iline bağlı eşsiz coğrafi yapısıyla dünyaca ünlü bir destinasyondur. Peri bacaları volkanik tüf kayaçların aşınmasıyla oluşmuş özgün yer şekilleridir.",
+    "EN": "A surreal landscape of fairy chimneys and underground cities, best known for its iconic hot air balloon rides at sunrise."
+  },
+  "Kartalkaya": {
+    "TR": "Kartalkaya Bolu iline bağlı Ankara ve İstanbul'a yakınlığıyla Orta Anadolu'nun önemli kayak merkezidir. Kış sezonunda kayak snowboard ve kızak aktiviteleri yapılabilir.",
+    "EN": "A convenient ski resort in the Bolu mountains, popular with weekend skiers from Ankara and Istanbul for its accessible slopes."
+  },
+  "Mardin": {
+    "TR": "Mardin Güneydoğu Anadolu'da yer alan tarihi taş evleriyle ünlü kadim bir kenttir. Mezopotamya ovasına hakim konumuyla eşsiz bir panorama sunar.",
+    "EN": "An ancient stone city perched above the Mesopotamian plains, celebrated for its multi-cultural heritage, intricate architecture, and rich local cuisine."
+  },
+  "Marmaris": {
+    "TR": "Marmaris Muğla iline bağlı ve Türkiye'nin önemli turistik merkezlerinden biridir. Uzun sahil şeridi ve güzel plajları ile tanınır.",
+    "EN": "A popular resort town with a long coastline, beautiful beaches, and an energetic bar street that comes alive at night."
+  },
+  "Palandoken": {
+    "TR": "Palandöken Erzurum iline bağlı kayak ve kış sporları açısından Türkiye'nin en önemli merkezlerinden biridir. Pist uzunluğu ve eğimi açısından Uludağ ile kıyaslandığında daha zorlu ve uzun pistler sunar.",
+    "EN": "A challenging ski destination in eastern Turkey with long, steep runs favored by experienced skiers seeking authentic winter adventure."
+  },
+  "Pamukkale": {
+    "TR": "Pamukkale Denizli iline bağlı UNESCO Dünya Mirası listesinde yer alan doğa harikasıdır. Beyaz traverten terasları kalsiyum karbonat birikimiyle oluşmuş benzersiz bir coğrafi yapıdır.",
+    "EN": "A UNESCO World Heritage site featuring dazzling white calcium terraces and ancient thermal pools used for healing since Roman times."
+  },
+  "Sanliurfa": {
+    "TR": "Şanlıurfa peygamberler şehri olarak bilinen derin tarihi ve dini öneme sahip bir kenttir. İbrahim ile ilgili efsaneleriyle ünlü kutsal bir noktadır.",
+    "EN": "Known as the City of Prophets, this deeply spiritual destination features sacred pools, ancient bazaars, and one of the oldest settlements on Earth."
+  },
+  "Sirince": {
+    "TR": "Şirince İzmir iline bağlı Selçuk ilçesinde yer alan küçük bir köydür. Rum mimarisi taş evler ve bağ evleriyle tarihi dokusu korunmuştur.",
+    "EN": "A picturesque Greek-style village of vine-covered stone houses, artisan fruit wines, and village breakfasts tucked into the hills above Ephesus."
+  },
+  "Trabzon": {
+    "TR": "Trabzon Karadeniz kıyısında konumlanan tarihi ve kültürel açıdan zengin bir kenttir. Sümela Manastırı kayalıklara oyulmuş Bizans dönemi yapısıyla eşsiz bir tarihi öneme sahiptir.",
+    "EN": "A historic Black Sea port city surrounded by lush green forests, home to the cliff-carved Sümela Monastery and hearty local cuisine."
+  },
+  "Uludag": {
+    "TR": "Uludağ Bursa iline bağlı Türkiye'nin en popüler kayak merkezidir. Kış sezonunda kayak snowboard ve kızak gibi kış sporları için ziyaretçi yoğunluğu çok yüksektir.",
+    "EN": "Turkey's most popular ski resort, offering quality slopes, winter festivals, and luxury mountain lodges just outside Bursa."
+  },
+  "Uzungol": {
+    "TR": "Uzungöl Trabzon iline bağlı dağların arasında bir göl çevresinde şekillenmiş sakin bir beldedir. Göl manzarası ve çevreleyen dağlar fotoğrafçılık için mükemmel bir doğa sunar.",
+    "EN": "A serene mountain lake village nestled between misty peaks in the Black Sea region — perfect for those seeking pure natural tranquility."
+  }
+}

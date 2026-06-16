@@ -1,0 +1,16 @@
+"""Editorial travel design tokens used by the Streamlit UI."""
+
+PRIMARY = "#0B3D5C"
+ACCENT = "#C8A062"
+SUCCESS = "#5B7553"
+WARNING = "#C66B4A"
+PAPER = "#FAF7F2"
+LINEN = "#F0EBE3"
+STONE = "#B8B0A3"
+SLATE = "#4A5159"
+INK = "#1A1F26"
+
+DARK_BG = "#0E1419"
+DARK_SURFACE = "#161C24"
+DARK_BORDER = "#242C36"
+DARK_TEXT = "#E8E4DC"

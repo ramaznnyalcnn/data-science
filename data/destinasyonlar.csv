@@ -1,0 +1,126 @@
+bolge_id,bolge_adi,sehir,ulke,tr_vize,us_vize,fiyat_seviye,en_iyi_mevsim,l1_deniz,l1_doga,l1_tarih,l1_eglence,l1_sakin,l1_sehir_hayati,l1_macera,l1_luks,l2_kultur,l2_su_spor,l2_hava_spor,l2_doga_spor,l2_yemek,l2_fotografik,kis_spor
+1,Ege Kiyilari,Bodrum,Turkiye,vizesiz,vizesiz,luks,yaz,0.920,0.080,0.212,0.900,0.180,0.080,0.080,0.820,0.080,0.479,0.080,0.080,0.080,0.080,0.080
+1,Ege Kiyilari,Marmaris,Turkiye,vizesiz,vizesiz,orta,yaz,0.900,0.080,0.080,0.860,0.309,0.080,0.173,0.383,0.080,0.820,0.080,0.080,0.080,0.080,0.212
+1,Ege Kiyilari,Fethiye,Turkiye,vizesiz,vizesiz,dusuk,yaz,0.860,0.780,0.080,0.080,0.393,0.080,0.880,0.206,0.080,0.399,0.950,0.487,0.080,0.080,0.080
+1,Ege Kiyilari,Cesme,Turkiye,vizesiz,vizesiz,luks,yaz,0.880,0.080,0.080,0.760,0.309,0.080,0.080,0.880,0.080,0.880,0.080,0.080,0.080,0.080,0.080
+1,Ege Kiyilari,Datca,Turkiye,vizesiz,vizesiz,orta,yaz,0.820,0.080,0.080,0.080,0.920,0.080,0.080,0.300,0.080,0.371,0.080,0.080,0.080,0.133,0.080
+2,Akdeniz Sahili,Antalya,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.578,0.309,0.737,0.212,0.080,0.080,0.080,0.285,0.080,0.402,0.080,0.080,0.080,0.080,0.080
+2,Akdeniz Sahili,Alanya,Turkiye,vizesiz,vizesiz,dusuk,yaz,0.653,0.309,0.212,0.212,0.080,0.080,0.080,0.206,0.080,0.402,0.080,0.080,0.080,0.193,0.080
+2,Akdeniz Sahili,Kas,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.578,0.309,0.080,0.173,0.080,0.080,0.080,0.285,0.154,0.402,0.080,0.080,0.080,0.080,0.080
+2,Akdeniz Sahili,Side,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.557,0.309,0.080,0.080,0.080,0.080,0.080,0.206,0.080,0.402,0.080,0.080,0.173,0.080,0.080
+2,Akdeniz Sahili,Kemer,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.641,0.309,0.080,0.080,0.133,0.080,0.080,0.285,0.080,0.402,0.080,0.080,0.080,0.080,0.080
+3,Karadeniz,Trabzon,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.721,0.614,0.080,0.415,0.173,0.212,0.206,0.379,0.080,0.080,0.422,0.173,0.433,0.080
+3,Karadeniz,Uzungol,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.734,0.080,0.080,0.465,0.080,0.080,0.206,0.080,0.080,0.080,0.371,0.080,0.433,0.080
+3,Karadeniz,Ayder,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.846,0.080,0.080,0.574,0.080,0.173,0.206,0.080,0.080,0.080,0.414,0.080,0.433,0.080
+3,Karadeniz,Artvin,Turkiye,vizesiz,vizesiz,dusuk,kis,0.080,0.557,0.080,0.173,0.415,0.133,0.364,0.206,0.154,0.193,0.080,0.422,0.080,0.433,0.080
+3,Karadeniz,Rize,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.557,0.333,0.080,0.415,0.080,0.080,0.206,0.080,0.080,0.080,0.371,0.080,0.433,0.080
+4,Tarihi Turkiye,Kapadokya,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.700,0.860,0.080,0.080,0.080,0.173,0.206,0.515,0.080,0.950,0.154,0.080,0.950,0.080
+4,Tarihi Turkiye,Efes,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.914,0.080,0.080,0.080,0.080,0.206,0.609,0.080,0.080,0.080,0.080,0.371,0.080
+4,Tarihi Turkiye,Pamukkale,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.379,0.832,0.212,0.080,0.080,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.371,0.080
+4,Tarihi Turkiye,Mardin,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.768,0.080,0.173,0.080,0.080,0.206,0.554,0.080,0.080,0.080,0.349,0.473,0.080
+4,Tarihi Turkiye,Sanliurfa,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.626,0.080,0.080,0.080,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.371,0.080
+5,Turkiye Sehirleri,Istanbul,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.950,0.080,0.080,0.950,0.080,0.200,0.950,0.080,0.080,0.080,0.880,0.080,0.080
+5,Turkiye Sehirleri,Izmir,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.497,0.080,0.200,0.415,0.080,0.080,0.080,0.390,0.080,0.080
+5,Turkiye Sehirleri,Gaziantep,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.586,0.080,0.080,0.477,0.080,0.250,0.720,0.080,0.080,0.080,0.980,0.080,0.080
+5,Turkiye Sehirleri,Bursa,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.449,0.080,0.080,0.527,0.080,0.200,0.415,0.080,0.080,0.080,0.390,0.080,0.080
+5,Turkiye Sehirleri,Ankara,Turkiye,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.497,0.080,0.200,0.415,0.080,0.080,0.080,0.390,0.080,0.080
+6,Balkanlar,Kotor,Karadag,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.309,0.080,0.080,0.170,0.433,0.080,0.080,0.080,0.080,0.080,0.080
+6,Balkanlar,Mostar,Bosna Hersek,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.309,0.133,0.080,0.170,0.433,0.080,0.080,0.080,0.080,0.080,0.080
+6,Balkanlar,Tiran,Arnavutluk,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.309,0.349,0.080,0.170,0.433,0.080,0.080,0.080,0.080,0.080,0.080
+6,Balkanlar,Beograd,Sirbistan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.309,0.624,0.080,0.170,0.433,0.080,0.080,0.080,0.080,0.080,0.080
+6,Balkanlar,Uskup,Kuzey Makedonya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.469,0.080,0.309,0.435,0.080,0.170,0.433,0.080,0.080,0.080,0.080,0.080,0.080
+7,Kafkasya ve Ipek Yolu,Baku,Azerbaycan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.464,0.080,0.080,0.249,0.080,0.161,0.477,0.080,0.080,0.080,0.340,0.080,0.080
+7,Kafkasya ve Ipek Yolu,Tiflis,Gurcistan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.464,0.080,0.080,0.249,0.080,0.161,0.477,0.080,0.080,0.080,0.340,0.080,0.080
+7,Kafkasya ve Ipek Yolu,Semerkant,Ozbekistan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.464,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.340,0.080,0.080
+7,Kafkasya ve Ipek Yolu,Buhara,Ozbekistan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.507,0.080,0.080,0.249,0.080,0.161,0.477,0.080,0.080,0.080,0.340,0.080,0.080
+7,Kafkasya ve Ipek Yolu,Taskent,Ozbekistan,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.464,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.340,0.080,0.080
+8,Kuzey Afrika,Marakes,Fas,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.477,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.080,0.440,0.080
+8,Kuzey Afrika,Fes,Fas,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.477,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.080,0.440,0.080
+8,Kuzey Afrika,Tunus,Tunus,vizesiz,vizesiz,dusuk,yaz,0.212,0.080,0.699,0.080,0.080,0.080,0.080,0.161,0.477,0.080,0.080,0.080,0.080,0.440,0.080
+8,Kuzey Afrika,Sidi Bou Said,Tunus,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.520,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.080,0.440,0.080
+8,Kuzey Afrika,Kairouan,Tunus,vizesiz,vizesiz,dusuk,kis,0.080,0.080,0.520,0.080,0.080,0.133,0.080,0.161,0.477,0.080,0.080,0.080,0.080,0.440,0.193
+9,Japonya ve Guney Kore,Tokyo,Japonya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.780,0.080,0.950,0.080,0.206,0.880,0.080,0.080,0.080,0.820,0.080,0.080
+9,Japonya ve Guney Kore,Kyoto,Japonya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.920,0.080,0.600,0.661,0.080,0.206,0.950,0.080,0.080,0.080,0.415,0.080,0.080
+9,Japonya ve Guney Kore,Osaka,Japonya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.112,0.080,0.173,0.080,0.559,0.080,0.206,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+9,Japonya ve Guney Kore,Seoul,Guney Kore,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.516,0.080,0.206,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+9,Japonya ve Guney Kore,Busan,Guney Kore,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.495,0.080,0.206,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+10,Singapur ve Malezya,Singapur,Singapur,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.495,0.080,0.206,0.390,0.080,0.080,0.080,0.433,0.080,0.080
+10,Singapur ve Malezya,Hong Kong,Hong Kong,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.495,0.080,0.206,0.390,0.080,0.080,0.080,0.433,0.080,0.080
+10,Singapur ve Malezya,Kuala Lumpur,Malezya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.193,0.080,0.080,0.702,0.080,0.206,0.390,0.080,0.080,0.080,0.433,0.080,0.080
+10,Singapur ve Malezya,Penang,Malezya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.516,0.080,0.206,0.390,0.080,0.080,0.080,0.433,0.080,0.080
+10,Singapur ve Malezya,Macau,Macau,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.080,0.080,0.495,0.080,0.206,0.390,0.080,0.080,0.080,0.433,0.080,0.080
+11,Latin Amerika Sehirleri,Rio de Janeiro,Brezilya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.452,0.080,0.497,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.080,0.080
+11,Latin Amerika Sehirleri,Buenos Aires,Arjantin,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.452,0.080,0.497,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.080,0.080
+11,Latin Amerika Sehirleri,Lima,Peru,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.452,0.080,0.497,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.080,0.080
+11,Latin Amerika Sehirleri,Bogota,Kolombiya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.452,0.080,0.579,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.080,0.080
+11,Latin Amerika Sehirleri,Santiago,Sili,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.452,0.080,0.497,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.080,0.080
+12,Guney Amerika Doga,Patagonia,Arjantin/Sili,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.980,0.080,0.080,0.780,0.080,0.950,0.206,0.080,0.080,0.080,0.080,0.080,0.920,0.080
+12,Guney Amerika Doga,Machu Picchu,Peru,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.636,0.193,0.080,0.080,0.080,0.539,0.206,0.080,0.080,0.080,0.080,0.080,0.539,0.080
+12,Guney Amerika Doga,Amazon,Brezilya,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.613,0.080,0.080,0.080,0.080,0.539,0.206,0.080,0.080,0.080,0.080,0.080,0.539,0.080
+12,Guney Amerika Doga,Galapagos,Ekvador,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.613,0.080,0.080,0.080,0.080,0.539,0.206,0.080,0.080,0.080,0.080,0.080,0.539,0.080
+12,Guney Amerika Doga,Uyuni,Bolivya,vizesiz,vizesiz,dusuk,yaz,0.080,0.601,0.080,0.080,0.080,0.080,0.539,0.206,0.080,0.080,0.080,0.080,0.080,0.539,0.080
+13,Guneydogu Asya,Bali,Endonezya,kapida,kapida,orta,dort_mevsim,0.477,0.080,0.080,0.080,0.080,0.133,0.080,0.356,0.415,0.080,0.080,0.080,0.433,0.080,0.080
+13,Guneydogu Asya,Bangkok,Tayland,vizesiz,vizesiz,orta,dort_mevsim,0.477,0.080,0.080,0.080,0.080,0.133,0.080,0.356,0.415,0.080,0.080,0.080,0.433,0.080,0.080
+13,Guneydogu Asya,Phuket,Tayland,vizesiz,vizesiz,orta,dort_mevsim,0.477,0.080,0.080,0.080,0.080,0.080,0.080,0.356,0.415,0.080,0.080,0.080,0.433,0.080,0.080
+13,Guneydogu Asya,Siem Reap,Kambocya,kapida,kapida,orta,dort_mevsim,0.477,0.080,0.080,0.080,0.080,0.133,0.080,0.356,0.415,0.080,0.080,0.080,0.433,0.080,0.080
+13,Guneydogu Asya,Krabi,Tayland,vizesiz,vizesiz,orta,dort_mevsim,0.477,0.080,0.080,0.080,0.080,0.080,0.080,0.356,0.415,0.080,0.080,0.080,0.433,0.080,0.080
+14,Vietnam ve Hindistan,Ho Chi Minh,Vietnam,evize,evize,dusuk,dort_mevsim,0.080,0.080,0.390,0.080,0.080,0.080,0.080,0.152,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+14,Vietnam ve Hindistan,Hanoi,Vietnam,evize,evize,dusuk,dort_mevsim,0.080,0.112,0.390,0.080,0.080,0.133,0.080,0.152,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+14,Vietnam ve Hindistan,Goa,Hindistan,evize,evize,dusuk,dort_mevsim,0.080,0.080,0.390,0.080,0.080,0.249,0.080,0.152,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+14,Vietnam ve Hindistan,Jaipur,Hindistan,evize,evize,dusuk,dort_mevsim,0.080,0.080,0.390,0.080,0.080,0.515,0.080,0.152,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+14,Vietnam ve Hindistan,Varanasi,Hindistan,evize,evize,dusuk,dort_mevsim,0.080,0.080,0.390,0.080,0.080,0.349,0.080,0.152,0.495,0.080,0.080,0.080,0.415,0.080,0.080
+15,Karayipler,Punta Cana,Dominik Cumhuriyeti,vizesiz,vizesiz,orta,dort_mevsim,0.621,0.080,0.080,0.080,0.390,0.080,0.080,0.515,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+15,Karayipler,Havana,Kuba,vizesiz,kisitli,orta,dort_mevsim,0.601,0.080,0.080,0.080,0.390,0.249,0.080,0.485,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+15,Karayipler,Barbados,Barbados,vizesiz,vizesiz,orta,dort_mevsim,0.601,0.080,0.080,0.080,0.390,0.133,0.080,0.485,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+15,Karayipler,Nassau,Bahamalar,vizesiz,vizesiz,orta,dort_mevsim,0.601,0.080,0.080,0.080,0.390,0.133,0.080,0.485,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+15,Karayipler,Montego Bay,Jamaika,vizesiz,vizesiz,orta,dort_mevsim,0.601,0.080,0.080,0.080,0.390,0.133,0.080,0.485,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+16,Dogu Afrika,Zanzibar,Tanzanya,evize,evize,dusuk,dort_mevsim,0.080,0.576,0.080,0.080,0.080,0.080,0.514,0.206,0.080,0.080,0.080,0.080,0.080,0.495,0.080
+16,Dogu Afrika,Serengeti,Tanzanya,evize,evize,dusuk,dort_mevsim,0.080,0.980,0.080,0.080,0.080,0.080,0.880,0.206,0.080,0.080,0.080,0.080,0.080,0.900,0.080
+16,Dogu Afrika,Nairobi,Kenya,evize,evize,dusuk,dort_mevsim,0.080,0.588,0.080,0.080,0.080,0.249,0.514,0.206,0.080,0.080,0.080,0.080,0.080,0.495,0.080
+16,Dogu Afrika,Kilimanjaro,Tanzanya,evize,evize,dusuk,dort_mevsim,0.080,0.588,0.080,0.080,0.080,0.080,0.564,0.206,0.080,0.080,0.080,0.212,0.080,0.495,0.080
+16,Dogu Afrika,Kigali,Ruanda,evize,evize,dusuk,dort_mevsim,0.080,0.576,0.080,0.080,0.080,0.249,0.514,0.206,0.080,0.080,0.080,0.080,0.080,0.495,0.080
+17,Orta Dogu Tarihi,Petra,Urdun,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.550,0.980,0.080,0.080,0.212,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.920,0.080
+17,Orta Dogu Tarihi,Wadi Rum,Urdun,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.173,0.619,0.080,0.080,0.080,0.212,0.206,0.452,0.080,0.080,0.212,0.080,0.433,0.080
+17,Orta Dogu Tarihi,Olu Deniz,Urdun,vizesiz,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.576,0.080,0.080,0.080,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.433,0.080
+17,Orta Dogu Tarihi,Kahire,Misir,kapida,kapida,dusuk,dort_mevsim,0.080,0.080,0.576,0.080,0.080,0.133,0.080,0.206,0.452,0.080,0.080,0.080,0.080,0.433,0.080
+17,Orta Dogu Tarihi,Luxor,Misir,kapida,kapida,dusuk,dort_mevsim,0.080,0.080,0.980,0.080,0.080,0.435,0.080,0.206,0.780,0.080,0.080,0.080,0.080,0.820,0.080
+18,Guney Asya Adalari,Maldivler,Maldivler,kapida,kapida,luks,yaz,0.980,0.452,0.080,0.080,0.820,0.133,0.080,0.900,0.415,0.880,0.080,0.080,0.080,0.080,0.080
+18,Guney Asya Adalari,Colombo,Sri Lanka,evize,evize,dusuk,dort_mevsim,0.402,0.452,0.080,0.080,0.390,0.515,0.080,0.206,0.415,0.080,0.080,0.080,0.080,0.080,0.080
+18,Guney Asya Adalari,Kathmandu,Nepal,kapida,kapida,dusuk,dort_mevsim,0.402,0.452,0.080,0.080,0.390,0.249,0.080,0.206,0.415,0.080,0.080,0.080,0.080,0.080,0.080
+18,Guney Asya Adalari,Pokhara,Nepal,kapida,kapida,dusuk,kis,0.402,0.452,0.080,0.080,0.390,0.515,0.080,0.206,0.415,0.080,0.080,0.080,0.080,0.080,0.080
+18,Guney Asya Adalari,Galle,Sri Lanka,evize,evize,dusuk,dort_mevsim,0.402,0.452,0.080,0.080,0.390,0.249,0.080,0.206,0.415,0.080,0.080,0.080,0.080,0.080,0.080
+19,Guney Avrupa,Roma,Italya,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.112,0.698,0.080,0.080,0.300,0.080,0.260,0.514,0.080,0.080,0.080,0.464,0.080,0.080
+19,Guney Avrupa,Floransa,Italya,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.538,0.080,0.080,0.349,0.080,0.260,0.514,0.080,0.080,0.080,0.464,0.133,0.080
+19,Guney Avrupa,Barselona,Ispanya,vizeli,vizesiz,dusuk,yaz,0.080,0.080,0.538,0.080,0.080,0.515,0.080,0.260,0.514,0.080,0.080,0.080,0.464,0.080,0.080
+19,Guney Avrupa,Atina,Yunanistan,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.495,0.080,0.080,0.349,0.080,0.260,0.514,0.080,0.080,0.080,0.464,0.080,0.080
+19,Guney Avrupa,Santorini,Yunanistan,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.495,0.080,0.080,0.080,0.080,0.260,0.514,0.080,0.080,0.080,0.464,0.080,0.080
+20,Bati Avrupa,Paris,Fransa,vizeli,vizesiz,luks,dort_mevsim,0.080,0.080,0.820,0.080,0.080,0.900,0.080,0.820,0.950,0.080,0.080,0.080,0.080,0.080,0.080
+20,Bati Avrupa,Amsterdam,Hollanda,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.476,0.080,0.080,0.547,0.080,0.290,0.539,0.080,0.080,0.080,0.080,0.080,0.080
+20,Bati Avrupa,Londra,Ingiltere,vizeli,evize,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.080,0.547,0.080,0.290,0.539,0.080,0.080,0.080,0.080,0.080,0.080
+20,Bati Avrupa,Bruksel,Belcika,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.080,0.628,0.080,0.290,0.539,0.080,0.080,0.080,0.080,0.080,0.080
+20,Bati Avrupa,Dublin,Irlanda,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.433,0.080,0.080,0.547,0.080,0.290,0.539,0.080,0.080,0.080,0.080,0.080,0.080
+21,Iskandinavya,Oslo,Norvec,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.477,0.080,0.080,0.415,0.410,0.080,0.284,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+21,Iskandinavya,Stockholm,Isvec,vizeli,vizesiz,dusuk,yaz,0.080,0.477,0.080,0.080,0.415,0.474,0.080,0.284,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+21,Iskandinavya,Kopenhag,Danimarka,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.477,0.080,0.080,0.415,0.410,0.080,0.284,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+21,Iskandinavya,Helsinki,Finlandiya,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.477,0.080,0.080,0.415,0.454,0.080,0.284,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+21,Iskandinavya,Tromso,Norvec,vizeli,vizesiz,dusuk,kis,0.080,0.860,0.080,0.080,0.700,0.390,0.080,0.284,0.080,0.080,0.080,0.080,0.080,0.860,0.750
+22,Korfez,Dubai,BAE,vizeli,vizesiz,luks,dort_mevsim,0.291,0.080,0.080,0.800,0.080,0.920,0.080,0.980,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+22,Korfez,Abu Dabi,BAE,vizeli,vizesiz,yuksek,dort_mevsim,0.291,0.080,0.080,0.080,0.080,0.604,0.080,0.673,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+22,Korfez,Doha,Katar,kapida,vizesiz,yuksek,dort_mevsim,0.291,0.080,0.080,0.080,0.080,0.522,0.080,0.673,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+22,Korfez,Muskat,Umman,kapida,evize,yuksek,dort_mevsim,0.291,0.080,0.080,0.080,0.080,0.522,0.080,0.673,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+22,Korfez,Riyad,Suudi Arabistan,kapida,evize,yuksek,dort_mevsim,0.291,0.080,0.080,0.080,0.080,0.566,0.080,0.673,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+23,Kuzey Amerika,New York,ABD,vizeli,vizesiz,luks,dort_mevsim,0.080,0.080,0.080,0.900,0.080,0.980,0.080,0.820,0.880,0.080,0.080,0.080,0.080,0.080,0.080
+23,Kuzey Amerika,Los Angeles,ABD,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.464,0.080,0.539,0.080,0.290,0.390,0.080,0.080,0.080,0.080,0.080,0.080
+23,Kuzey Amerika,Miami,ABD,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.464,0.080,0.539,0.080,0.290,0.390,0.080,0.080,0.080,0.080,0.173,0.080
+23,Kuzey Amerika,Toronto,Kanada,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.464,0.080,0.559,0.080,0.290,0.390,0.080,0.080,0.080,0.080,0.080,0.080
+23,Kuzey Amerika,San Francisco,ABD,vizeli,vizesiz,dusuk,dort_mevsim,0.080,0.080,0.080,0.464,0.080,0.539,0.080,0.290,0.390,0.080,0.080,0.080,0.080,0.080,0.080
+24,Meksika ve Orta Amerika,Cancun,Meksika,vizesiz,vizesiz,dusuk,dort_mevsim,0.410,0.080,0.390,0.080,0.080,0.080,0.080,0.285,0.464,0.080,0.080,0.080,0.080,0.080,0.080
+24,Meksika ve Orta Amerika,Meksiko,Meksika,vizesiz,vizesiz,dusuk,dort_mevsim,0.390,0.080,0.390,0.080,0.080,0.133,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.080,0.080
+24,Meksika ve Orta Amerika,San Jose,Kosta Rika,vizesiz,vizesiz,dusuk,dort_mevsim,0.390,0.080,0.390,0.080,0.080,0.249,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.080,0.080
+24,Meksika ve Orta Amerika,Panama City,Panama,vizesiz,vizesiz,dusuk,dort_mevsim,0.390,0.080,0.390,0.080,0.080,0.133,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.080,0.080
+24,Meksika ve Orta Amerika,Cartagena,Kolombiya,vizesiz,vizesiz,dusuk,dort_mevsim,0.390,0.080,0.390,0.080,0.080,0.080,0.080,0.206,0.464,0.080,0.080,0.080,0.080,0.080,0.080
+25,Okyanusya,Sydney,Avustralya,vizeli,evize,dusuk,dort_mevsim,0.452,0.564,0.080,0.080,0.080,0.133,0.433,0.272,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+25,Okyanusya,Melbourne,Avustralya,vizeli,evize,dusuk,dort_mevsim,0.452,0.514,0.080,0.080,0.080,0.133,0.433,0.272,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+25,Okyanusya,Queenstown,Yeni Zelanda,vizeli,evize,orta,dort_mevsim,0.472,0.920,0.080,0.080,0.080,0.080,0.950,0.351,0.080,0.080,0.080,0.900,0.080,0.080,0.080
+25,Okyanusya,Suva,Fiji,vizeli,kapida,dusuk,dort_mevsim,0.452,0.514,0.080,0.080,0.080,0.133,0.433,0.272,0.080,0.080,0.080,0.080,0.080,0.080,0.080
+25,Okyanusya,Papeete,Fransiz Polinezyasi,vizeli,vizesiz,dusuk,dort_mevsim,0.452,0.514,0.080,0.080,0.080,0.249,0.433,0.272,0.080,0.080,0.080,0.080,0.080,0.080,0.080

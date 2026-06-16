@@ -1,0 +1,13 @@
+# Copy to /etc/cloudflared/config.yml after creating the tunnel.
+# Replace <UUID> and <your-domain> with real deployment values.
+tunnel: travel-rec
+credentials-file: /etc/cloudflared/<UUID>.json
+
+ingress:
+  - hostname: rec.<your-domain>
+    service: http://127.0.0.1:8500
+    originRequest:
+      noTLSVerify: true
+      disableChunkedEncoding: false
+      connectTimeout: 30s
+  - service: http_status:404

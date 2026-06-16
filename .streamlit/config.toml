@@ -1,0 +1,14 @@
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+enableWebsocketCompression = true
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+fastReruns = true

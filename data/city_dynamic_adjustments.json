@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "description": "Generated from data/sessions.jsonl by scripts/update_dynamic_city_adjustments.py",
+    "session_count": 0,
+    "city_count": 0
+  },
+  "cities": {}
+}

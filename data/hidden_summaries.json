@@ -1,0 +1,1355 @@
+{
+  "Bodrum": {
+    "hidden_title": "Kiyi ve su deneyimi, canli sosyal tempo odakli",
+    "hidden_summary": "Kiyi atmosferi; kiyi ve su deneyimi odagi guclu, canli sosyal tempo ve konfor tarafiyla desteklenen hareketli bir deneyim verir. Metin sinyalleri: eglence, luks, sorf.",
+    "hidden_tags": [
+      "deniz",
+      "eglence",
+      "luks",
+      "su_spor"
+    ],
+    "reveal_summary": "Bodrum: Gece hayati son derece aktif olup bar sokaklari bu rota'nin en canli eglence merkezlerinden biridir. One cikan eksenler: kiyi ve su deneyimi, canli sosyal tempo, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Marmaris": {
+    "hidden_title": "Kiyi ve su deneyimi + canli sosyal tempo",
+    "hidden_summary": "Kiyi atmosferi; kiyi ve su deneyimi, canli sosyal tempo ve su sporlari dengesini arayanlar icin hareketli bir rota sunar. Metin sinyalleri: deniz, eglence, dalis.",
+    "hidden_tags": [
+      "deniz",
+      "eglence",
+      "su_spor"
+    ],
+    "reveal_summary": "Marmaris: Tekne turlari ve su sporlari aktiviteleri mevcuttur sorf dalis ve jet ski yapilabilir. One cikan eksenler: kiyi ve su deneyimi, canli sosyal tempo, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Fethiye": {
+    "hidden_title": "Havadan deneyimler ve kiyi ve su deneyimi",
+    "hidden_summary": "Kiyi atmosferi; havadan deneyimler isteyen, ayni zamanda macera ve kiyi ve su deneyimi bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: parasutu, macera, deniz, doga.",
+    "hidden_tags": [
+      "hava_spor",
+      "macera",
+      "deniz",
+      "doga",
+      "doga_spor"
+    ],
+    "reveal_summary": "Fethiye: Yamac parasutu icin Babadag dagindan atlanan noktalar meshurdur hava sporunun baskenti sayilir. One cikan eksenler: havadan deneyimler, macera, kiyi ve su deneyimi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cesme": {
+    "hidden_title": "Kiyi ve su deneyimi, konfor odakli",
+    "hidden_summary": "Kiyi atmosferi; kiyi ve su deneyimi odagi guclu, konfor ve su sporlari tarafiyla desteklenen hareketli bir deneyim verir. Metin sinyalleri: resort, luks, sorf.",
+    "hidden_tags": [
+      "deniz",
+      "luks",
+      "su_spor",
+      "eglence"
+    ],
+    "reveal_summary": "Cesme: A chic Aegean resort town famous for its turquoise waters, strong winds perfect for windsurfing, and trendy boutique hotels. One cikan eksenler: kiyi ve su deneyimi, konfor, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Datca": {
+    "hidden_title": "Sakin kacis, kiyi ve su deneyimi odakli",
+    "hidden_summary": "Kiyi atmosferi; sakin kacis odagi guclu, kiyi ve su deneyimi ve dengeli tempo tarafiyla desteklenen sakin tempolu bir deneyim verir. Metin sinyalleri: sakin.",
+    "hidden_tags": [
+      "sakin",
+      "deniz"
+    ],
+    "reveal_summary": "Datca: bu rota Mugla iline bagli yarimadanin ucunda yer alan kirlenmemis dogasiyla unlu sakin bir ilcedir. One cikan eksenler: sakin kacis, kiyi ve su deneyimi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Antalya": {
+    "hidden_title": "Tarihi doku ve su sporlari",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kiyi ve su deneyimi ve su sporlari bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: tarihi, resort.",
+    "hidden_tags": [
+      "tarih",
+      "deniz",
+      "su_spor"
+    ],
+    "reveal_summary": "Antalya: Kaleici tarihi semti Roma ve Osmanli doneminden kalma tarihi yapilar antik sutunlar ve muzeler barindirir. One cikan eksenler: tarihi doku, kiyi ve su deneyimi, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Alanya": {
+    "hidden_title": "Kiyi ve su deneyimi ve kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi isteyen, ayni zamanda su sporlari ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: deniz.",
+    "hidden_tags": [
+      "deniz",
+      "su_spor"
+    ],
+    "reveal_summary": "Alanya: Deniz magaralari dogal guzellik sunar tekne turlarinda ziyaret edilir. One cikan eksenler: kiyi ve su deneyimi, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kas": {
+    "hidden_title": "Su sporlari ile kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi hissini su sporlari ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: resort.",
+    "hidden_tags": [
+      "deniz",
+      "su_spor"
+    ],
+    "reveal_summary": "Kas: As a tourist resort, it is relatively unspoiled. One cikan eksenler: kiyi ve su deneyimi, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Side": {
+    "hidden_title": "Kiyi ve su deneyimi, su sporlari odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi odagi guclu, su sporlari ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "deniz",
+      "su_spor"
+    ],
+    "reveal_summary": "Side: bu rota or Sides may refer to: ikonik noktalar of a polygon Face of a polyhedron Places bu rota, bu rota, a city in bu rota bu rota , a town of Ainis,. One cikan eksenler: kiyi ve su deneyimi, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kemer": {
+    "hidden_title": "Kiyi ve su deneyimi + su sporlari",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi, su sporlari ve dengeli tempo dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: koy.",
+    "hidden_tags": [
+      "deniz",
+      "su_spor"
+    ],
+    "reveal_summary": "Kemer: History bu rota was the ancient Greek city of Idyros, member of the ikonik noktalar, which after the Ottoman era was called ikonik noktalar until a 23. One cikan eksenler: kiyi ve su deneyimi, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Trabzon": {
+    "hidden_title": "Dogal manzara + tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, tarihi doku ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: dag, tarihi, trekking.",
+    "hidden_tags": [
+      "doga",
+      "tarih",
+      "fotografik",
+      "doga_spor",
+      "sakin"
+    ],
+    "reveal_summary": "Trabzon: Bolgenin zengin yesil dogasi orman yollari ve yayla kulturu trekking icin uygundur. One cikan eksenler: dogal manzara, tarihi doku, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uzungol": {
+    "hidden_title": "Dogal manzara + sakin kacis",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, sakin kacis ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: doga, sakin.",
+    "hidden_tags": [
+      "doga",
+      "sakin",
+      "fotografik"
+    ],
+    "reveal_summary": "Uzungol: bu rota Trabzon iline bagli daglarin arasinda bir gol cevresinde sekillenmis sakin bir beldedir. One cikan eksenler: dogal manzara, sakin kacis, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ayder": {
+    "hidden_title": "Dogal manzara, sakin kacis odakli",
+    "hidden_summary": "Doga odakli bir rota; dogal manzara odagi guclu, sakin kacis ve fotografik sahneler tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: doga, sakin, kamp.",
+    "hidden_tags": [
+      "doga",
+      "sakin",
+      "fotografik",
+      "doga_spor"
+    ],
+    "reveal_summary": "Ayder: Dag yuruyusleri doga gezileri ve kamp aktiviteleri yapilabilir. One cikan eksenler: dogal manzara, sakin kacis, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Artvin": {
+    "hidden_title": "Dogal manzara + fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, fotografik sahneler ve aktif doga dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: trekking.",
+    "hidden_tags": [
+      "doga",
+      "fotografik",
+      "doga_spor",
+      "sakin"
+    ],
+    "reveal_summary": "Artvin: ikonik noktalar are among the most-popular venues for trekking holidays in bu rota. One cikan eksenler: dogal manzara, fotografik sahneler, aktif doga.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Rize": {
+    "hidden_title": "Dogal manzara ve sakin kacis",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara isteyen, ayni zamanda fotografik sahneler ve sakin kacis bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "doga",
+      "fotografik",
+      "sakin"
+    ],
+    "reveal_summary": "Rize: ikonik noktalar bolgesinin dogusunda kalan bu rota, Osmanli doneminde ikonik noktalar'nda yer almistir. One cikan eksenler: dogal manzara, fotografik sahneler, sakin kacis.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kapadokya": {
+    "hidden_title": "Havadan deneyimler, fotografik sahneler odakli",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; havadan deneyimler odagi guclu, fotografik sahneler ve tarihi doku tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: balon, tarihi, doga.",
+    "hidden_tags": [
+      "hava_spor",
+      "fotografik",
+      "tarih",
+      "doga",
+      "kultur"
+    ],
+    "reveal_summary": "Kapadokya: Yeralti sehirleri tarihi oneme sahip antik tunel sistemleridir. One cikan eksenler: havadan deneyimler, fotografik sahneler, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Efes": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; tarihi doku hissini kulturel kesif ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: tarihi, kultur.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Efes: Dunyanin her yerinden arkeoloji tarihi ve kultur meraklilari ziyaret eder. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Pamukkale": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; tarihi doku hissini kulturel kesif ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: tarihi.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Pamukkale: Hierapolis antik kenti tarihi tiyatrosu nekropolu ve kaynaklari ile onemli arkeolojik bir alandir. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Mardin": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; tarihi doku hissini kulturel kesif ve fotografik sahneler ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: tarihi, yerel, panorama.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Mardin: Artuklular doneminden kalma tarihi cami medrese ve kiliseler bulunur. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sanliurfa": {
+    "hidden_title": "Tarihi doku, kulturel kesif odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku odagi guclu, kulturel kesif ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: tarihi.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Sanliurfa: bu rota peygamberler sehri olarak bilinen derin tarihi ve dini oneme sahip bir kenttir. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Istanbul": {
+    "hidden_title": "Tarihi doku ve kulturel kesif",
+    "hidden_summary": "Kent enerjisi yuksek bir durak; tarihi doku isteyen, ayni zamanda kent enerjisi ve kulturel kesif bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: tarihi, sehir, kulturel, cuisine.",
+    "hidden_tags": [
+      "tarih",
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Istanbul: bu rota, bu rota'nin ekonomik, kulturel ve tarihi merkezini olusturan en kalabalik sehridir. One cikan eksenler: tarihi doku, kent enerjisi, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Izmir": {
+    "hidden_title": "Kulturel kesif ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini kulturel kesif ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur"
+    ],
+    "reveal_summary": "Izmir: It is on the Aegean coast of Anatolia, and is the capital of bu rota Province. One cikan eksenler: kent enerjisi, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Gaziantep": {
+    "hidden_title": "Kulturel kesif ile yerel lezzetler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; yerel lezzetler hissini kulturel kesif ve tarihi doku ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: gastronomi, kulturel, tarihi.",
+    "hidden_tags": [
+      "yemek",
+      "kultur",
+      "tarih",
+      "sehir"
+    ],
+    "reveal_summary": "Gaziantep: bu rota UNESCO tarafindan ikonik noktalar'na kabul edilmis bir gastronomi sehridir. One cikan eksenler: yerel lezzetler, kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bursa": {
+    "hidden_title": "Kent enerjisi, tarihi doku odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, tarihi doku ve kulturel kesif tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: sehir, tarih.",
+    "hidden_tags": [
+      "sehir",
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Bursa: Tarih boyunca Bithynia, Roma ve Bizans gibi medeniyetlere ev sahipligi yapan kent; ikonik noktalar'nun ilk baskenti olmasiyla tarihsel bir oneme sahip. One cikan eksenler: kent enerjisi, tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ankara": {
+    "hidden_title": "Kent enerjisi ve kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda kulturel kesif ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur"
+    ],
+    "reveal_summary": "Ankara: bu rota is the capital city of bu rota. One cikan eksenler: kent enerjisi, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kotor": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku hissini kulturel kesif ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Kotor: The city has a population of 13,347 and is the administrative center of bu rota Municipality. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Mostar": {
+    "hidden_title": "Tarihi doku ve tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Mostar: bu rota is a city and the administrative centre of Herzegovina-ikonik noktalar of the Federation of Bosnia and Herzegovina, an entity of Bosnia and He. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tiran": {
+    "hidden_title": "Tarihi doku ve tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Tiran: The site of present-day Tirana has been continuously inhabited since the ikonik noktalar and was likely the core of the Illyrian kingdom of the Taulan. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Beograd": {
+    "hidden_title": "Kent enerjisi + tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, tarihi doku ve kulturel kesif dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: metro.",
+    "hidden_tags": [
+      "sehir",
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Beograd: According to the 2022 census, the population of Belgrade city proper stands at 1,197,114, its contiguous urban area has 1,298,661 inhabitants, while p. One cikan eksenler: kent enerjisi, tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uskup": {
+    "hidden_title": "Tarihi doku + kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku, kent enerjisi ve kulturel kesif dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: roma, capital.",
+    "hidden_tags": [
+      "tarih",
+      "sehir",
+      "kultur"
+    ],
+    "reveal_summary": "Uskup: The city has a diverse population, with ethnic Macedonians forming a majority and Albanians a significant minority, alongside Roma, Turks, Serbs, and. One cikan eksenler: tarihi doku, kent enerjisi, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Baku": {
+    "hidden_title": "Tarihi doku ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini tarihi doku ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Baku: bu rota is 28 metres below sea level, which makes it the lowest lying national capital in the world and the largest city in the world below sea level. One cikan eksenler: kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tiflis": {
+    "hidden_title": "Tarihi doku ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini tarihi doku ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Tiflis: Between 1801 and 1917, then part of the ikonik noktalar, it was the seat of the ikonik noktalar, governing both the northern and southern sides of the. One cikan eksenler: kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Semerkant": {
+    "hidden_title": "Kulturel kesif ve kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif isteyen, ayni zamanda tarihi doku ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Semerkant: Samarkand is the capital of the ikonik noktalar and a district-level city, that includes the urban-type settlements Kimyogarlar, Farhod and Khishrav. One cikan eksenler: kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Buhara": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku hissini kulturel kesif ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: unesco.",
+    "hidden_tags": [
+      "tarih",
+      "kultur"
+    ],
+    "reveal_summary": "Buhara: UNESCO has listed the historic center of Bukhara as a ikonik noktalar. One cikan eksenler: tarihi doku, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Taskent": {
+    "hidden_title": "Kulturel kesif ve kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif isteyen, ayni zamanda tarihi doku ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Taskent: Tashkent's history stretches back centuries as part of the ancient ikonik noktalar, the network of trade routes that connected East and West. One cikan eksenler: kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Marakes": {
+    "hidden_title": "Tarihi doku + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku, kulturel kesif ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Marakes: It is one of the four imperial cities of Morocco and is the capital of the Marrakesh-Safi region. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Fes": {
+    "hidden_title": "Tarihi doku ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Fes: Located to the northwest of the ikonik noktalar, it is surrounded by hills and the old city is centered around the ikonik noktalar flowing from west t. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tunus": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku hissini kulturel kesif ve fotografik sahneler ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: roma.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Tunus: Yeni kurulmakta olan ikonik noktalar icin ilk gercek tehdit olmuslardir. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sidi Bou Said": {
+    "hidden_title": "Tarihi doku + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku, kulturel kesif ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: unesco.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Sidi Bou Said: The village was added to Tunisia's UNESCO ikonik noktalar for ikonik noktalar inscription in April 2024 under the title \"Village de bu rota: Harmonie. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kairouan": {
+    "hidden_title": "Tarihi doku ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: unesco.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Kairouan: bu rota , also spelled ikonik noktalar or Kairwan , is the capital of the bu rota Governorate in Tunisia and a UNESCO ikonik noktalar. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tokyo": {
+    "hidden_title": "Kent enerjisi ve yerel lezzetler",
+    "hidden_summary": "Kent enerjisi yuksek bir durak; kent enerjisi isteyen, ayni zamanda kulturel kesif ve yerel lezzetler bekleyen gezginlere hareketli bir alternatif olur. Metin sinyalleri: metro.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "yemek",
+      "eglence"
+    ],
+    "reveal_summary": "Tokyo: The bu rota ikonik noktalar, which opened in 1927, is the oldest underground metro line in Asia. One cikan eksenler: kent enerjisi, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kyoto": {
+    "hidden_title": "Kulturel kesif ve kent enerjisi",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; kulturel kesif isteyen, ayni zamanda tarihi doku ve kent enerjisi bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: unesco, capital.",
+    "hidden_tags": [
+      "kultur",
+      "tarih",
+      "sehir",
+      "sakin",
+      "yemek"
+    ],
+    "reveal_summary": "Kyoto: It is home to numerous Buddhist temples, Shinto shrines, palaces and gardens, some of which have been designated collectively as a ikonik noktalar by. One cikan eksenler: kulturel kesif, tarihi doku, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Osaka": {
+    "hidden_title": "Kulturel kesif ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini kulturel kesif ve yerel lezzetler ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Osaka: It is the capital of and most populous city in bu rota Prefecture, and the third-most populous city in Japan, following the special wards of Tokyo and. One cikan eksenler: kent enerjisi, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Seoul": {
+    "hidden_title": "Kent enerjisi + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, kulturel kesif ve yerel lezzetler dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Seoul: bu rota, officially bu rota ikonik noktalar, is the capital and largest city of ikonik noktalar, and the largest city in the whole of Korea. One cikan eksenler: kent enerjisi, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Busan": {
+    "hidden_title": "Kent enerjisi, kulturel kesif odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, kulturel kesif ve yerel lezzetler tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Busan: Alternatively romanized as Pusan, it is the economic, cultural and educational center of southeastern ikonik noktalar, with its port being ikonik nokt. One cikan eksenler: kent enerjisi, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Singapur": {
+    "hidden_title": "Kent enerjisi, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, yerel lezzetler ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "sehir",
+      "yemek"
+    ],
+    "reveal_summary": "Singapur: The country is about one degree of latitude north of the equator, off the southern tip of the ikonik noktalar, bordering the Strait of Malacca to the. One cikan eksenler: kent enerjisi, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Hong Kong": {
+    "hidden_title": "Yerel lezzetler ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "sehir",
+      "yemek"
+    ],
+    "reveal_summary": "Hong Kong: With 7.5 million residents in a 1,114-square-kilometre territory, bu rota is the fourth-most densely populated region in the world. One cikan eksenler: kent enerjisi, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kuala Lumpur": {
+    "hidden_title": "Yerel lezzetler ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: metro.",
+    "hidden_tags": [
+      "sehir",
+      "yemek"
+    ],
+    "reveal_summary": "Kuala Lumpur: bu rota is well connected with neighbouring urban metro regions such as ikonik noktalar via the rapidly expanding ikonik noktalar System. One cikan eksenler: kent enerjisi, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Penang": {
+    "hidden_title": "Kent enerjisi, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, yerel lezzetler ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "yemek"
+    ],
+    "reveal_summary": "Penang: It is divided into two parts by the Strait of Malacca: bu rota Island to the west, where the capital city ikonik noktalar is located, and ikonik nokta. One cikan eksenler: kent enerjisi, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Macau": {
+    "hidden_title": "Yerel lezzetler ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "sehir",
+      "yemek"
+    ],
+    "reveal_summary": "Macau: It consists of the bu rota Peninsula, the islands of Taipa and Coloane, the Cotai reclamation zone between Taipa and Coloane, and several smaller isle. One cikan eksenler: kent enerjisi, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Rio de Janeiro": {
+    "hidden_title": "Canli sosyal tempo ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini canli sosyal tempo ve kulturel kesif ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur"
+    ],
+    "reveal_summary": "Rio de Janeiro: bu rota, also known simply as Rio, is the capital of the state of bu rota. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Buenos Aires": {
+    "hidden_title": "Kent enerjisi + canli sosyal tempo",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, canli sosyal tempo ve kulturel kesif dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur"
+    ],
+    "reveal_summary": "Buenos Aires: bu rota, officially the ikonik noktalar of bu rota, is the capital and largest city of Argentina. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Lima": {
+    "hidden_title": "Canli sosyal tempo ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini canli sosyal tempo ve kulturel kesif ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur"
+    ],
+    "reveal_summary": "Lima: bu rota is the capital and largest city of bu rota, as well as a primate city. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bogota": {
+    "hidden_title": "Kent enerjisi + canli sosyal tempo",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, canli sosyal tempo ve kulturel kesif dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur"
+    ],
+    "reveal_summary": "Bogota: The city is administered as the ikonik noktalar, as well as the capital of, though not politically part of, the surrounding department of Cundinamarca. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Santiago": {
+    "hidden_title": "Kent enerjisi ve kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda canli sosyal tempo ve kulturel kesif bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur"
+    ],
+    "reveal_summary": "Santiago: bu rota, also known as bu rota de Chile, is the capital and largest city of Chile and one of the largest cities in the Americas. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Patagonia": {
+    "hidden_title": "Dogal manzara + macera",
+    "hidden_summary": "Doga odakli bir rota; dogal manzara, macera ve fotografik sahneler dengesini arayanlar icin sakin tempolu bir rota sunar.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik",
+      "sakin"
+    ],
+    "reveal_summary": "Patagonia: The northern limit of the region is not precisely defined; the Colorado and Barrancas rivers, which run from the Andes to the Atlantic, are commonly c. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Machu Picchu": {
+    "hidden_title": "Dogal manzara ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara isteyen, ayni zamanda macera ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: canyon.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Machu Picchu: It is situated in the ikonik noktalar of ikonik noktalar about 80 kilometers northwest of Cusco, above the ikonik noktalar and along the ikonik noktal. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Amazon": {
+    "hidden_title": "Dogal manzara ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara isteyen, ayni zamanda macera ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: park.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Amazon: Four nations have \"Amazonas\" as the name of one of their first-level administrative regions, and France uses the name \"ikonik noktalar\" for ikonik nok. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Galapagos": {
+    "hidden_title": "Macera ile dogal manzara",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara hissini macera ve fotografik sahneler ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: park.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Galapagos: All of these islands are protected as part of Ecuador's bu rota ikonik noktalar and ikonik noktalar. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Uyuni": {
+    "hidden_title": "Dogal manzara ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara isteyen, ayni zamanda macera ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Uyuni: Salar de bu rota is also a climatological transitional zone since the towering tropical cumulus congestus and cumulonimbus incus clouds that form in t. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bali": {
+    "hidden_title": "Kiyi ve su deneyimi + yerel lezzetler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi, yerel lezzetler ve kulturel kesif dengesini arayanlar icin orta tempolu bir rota sunar.",
+    "hidden_tags": [
+      "deniz",
+      "yemek",
+      "kultur"
+    ],
+    "reveal_summary": "Bali: East of Java and west of Lombok, the province includes the island of bu rota and a few smaller offshore islands, notably ikonik noktalar, ikonik nokta. One cikan eksenler: kiyi ve su deneyimi, yerel lezzetler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bangkok": {
+    "hidden_title": "Kiyi ve su deneyimi, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi odagi guclu, yerel lezzetler ve kulturel kesif tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "deniz",
+      "yemek",
+      "kultur"
+    ],
+    "reveal_summary": "Bangkok: Over 17.4 million people live within the surrounding bu rota ikonik noktalar as of the 2021 estimate, making bu rota a megacity and an extreme primate. One cikan eksenler: kiyi ve su deneyimi, yerel lezzetler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Phuket": {
+    "hidden_title": "Kiyi ve su deneyimi, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi odagi guclu, yerel lezzetler ve kulturel kesif tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "deniz",
+      "yemek",
+      "kultur"
+    ],
+    "reveal_summary": "Phuket: It consists of the island of bu rota, the country's largest island, and another 32 smaller islands off its coast. One cikan eksenler: kiyi ve su deneyimi, yerel lezzetler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Siem Reap": {
+    "hidden_title": "Kiyi ve su deneyimi ve kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi isteyen, ayni zamanda yerel lezzetler ve kulturel kesif bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "deniz",
+      "yemek",
+      "kultur"
+    ],
+    "reveal_summary": "Siem Reap: In and around the city there are museums, traditional Apsara dance performances, a Cambodian cultural village, souvenir and handicraft shops, silk far. One cikan eksenler: kiyi ve su deneyimi, yerel lezzetler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Krabi": {
+    "hidden_title": "Kiyi ve su deneyimi, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi odagi guclu, yerel lezzetler ve kulturel kesif tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "deniz",
+      "yemek",
+      "kultur"
+    ],
+    "reveal_summary": "Krabi: bu rota is a province of southern Thailand, on the shore of the ikonik noktalar. One cikan eksenler: kiyi ve su deneyimi, yerel lezzetler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Ho Chi Minh": {
+    "hidden_title": "Yerel lezzetler ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Ho Chi Minh: A committed MarxistLeninist, Ho played a central role in establishing the ikonik noktalar in 1930 and later led its successor, the Workers' Party of b. One cikan eksenler: kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Hanoi": {
+    "hidden_title": "Yerel lezzetler ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Hanoi: bu rota's urban area has architectural styles, including French colonial architecture, brutalist apartments and disorganized alleys and tube houses st. One cikan eksenler: kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Goa": {
+    "hidden_title": "Yerel lezzetler ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini yerel lezzetler ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Goa: It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and south, with the ikonik noktalar forming its western coas. One cikan eksenler: kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Jaipur": {
+    "hidden_title": "Kulturel kesif ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini kulturel kesif ve yerel lezzetler ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Jaipur: Located 268 km from the national capital ikonik noktalar, bu rota is also known as the ikonik noktalar due to the dominant colour scheme of its buildi. One cikan eksenler: kent enerjisi, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Varanasi": {
+    "hidden_title": "Kulturel kesif, yerel lezzetler odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif odagi guclu, yerel lezzetler ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Varanasi: bu rota , or Kashi, is a city on the Ganges river in northern India that has a central place in the traditions of pilgrimage, death, and mourning in t. One cikan eksenler: kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Punta Cana": {
+    "hidden_title": "Konfor ile kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi hissini konfor ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: resort.",
+    "hidden_tags": [
+      "deniz",
+      "luks"
+    ],
+    "reveal_summary": "Punta Cana: bu rota is a resort town in the easternmost region of the ikonik noktalar. One cikan eksenler: kiyi ve su deneyimi, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Havana": {
+    "hidden_title": "Konfor ile kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi hissini konfor ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "deniz",
+      "luks"
+    ],
+    "reveal_summary": "Havana: The population in 2021 was 2,142,939 inhabitants, and its area is 728.26 km2 for the capital city and 8,475.57 km2 for the metropolitan zone. One cikan eksenler: kiyi ve su deneyimi, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Barbados": {
+    "hidden_title": "Kiyi ve su deneyimi ve kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi isteyen, ayni zamanda konfor ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "deniz",
+      "luks"
+    ],
+    "reveal_summary": "Barbados: It is part of the ikonik noktalar of the ikonik noktalar and is the easternmost island of the Caribbean region. One cikan eksenler: kiyi ve su deneyimi, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Nassau": {
+    "hidden_title": "Konfor ile kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi hissini konfor ve dengeli tempo ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "deniz",
+      "luks"
+    ],
+    "reveal_summary": "Nassau: ikonik noktalar, the major airport for ikonik noktalar, is located about 16 kilometres west of the city centre of bu rota, and has daily flights to an. One cikan eksenler: kiyi ve su deneyimi, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Montego Bay": {
+    "hidden_title": "Kiyi ve su deneyimi, konfor odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kiyi ve su deneyimi odagi guclu, konfor ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "deniz",
+      "luks"
+    ],
+    "reveal_summary": "Montego Bay: Eventually, Jamaica was emancipated on August 1, 1834 which granted all new children born or children under the age of six \"free\" status, but held ind. One cikan eksenler: kiyi ve su deneyimi, konfor.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Zanzibar": {
+    "hidden_title": "Dogal manzara, macera odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, macera ve fotografik sahneler tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Zanzibar: List of islands Main islands ikonik noktalar the largest island, colloquially referred to as bu rota, has 896,721 inhabitants ikonik noktalar the seco. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Serengeti": {
+    "hidden_title": "Dogal manzara ve macera",
+    "hidden_summary": "Doga odakli bir rota; dogal manzara isteyen, ayni zamanda fotografik sahneler ve macera bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: park.",
+    "hidden_tags": [
+      "doga",
+      "fotografik",
+      "macera"
+    ],
+    "reveal_summary": "Serengeti: The bu rota ikonik noktalar is a large national park in northern Tanzania that stretches over 14,763 km2. One cikan eksenler: dogal manzara, fotografik sahneler, macera.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Nairobi": {
+    "hidden_title": "Dogal manzara + macera",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, macera ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: park.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Nairobi: Nicknamed the \"ikonik noktalar under the Sun\", bu rota is uniquely notable for being the only capital city in the world that hosts a national park wit. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kilimanjaro": {
+    "hidden_title": "Dogal manzara, macera odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, macera ve fotografik sahneler tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: park, hiking.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Kilimanjaro: As one of the ikonik noktalar, bu rota is a major hiking and climbing destination. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kigali": {
+    "hidden_title": "Dogal manzara, macera odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, macera ve fotografik sahneler tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "doga",
+      "macera",
+      "fotografik"
+    ],
+    "reveal_summary": "Kigali: Founded in 1907 as a German administrative outpost, it served as a minor administrative centre until it became the national capital at independence in. One cikan eksenler: dogal manzara, macera, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Petra": {
+    "hidden_title": "Tarihi doku + fotografik sahneler",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; tarihi doku, fotografik sahneler ve dogal manzara dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: tarihi.",
+    "hidden_tags": [
+      "tarih",
+      "fotografik",
+      "doga",
+      "kultur"
+    ],
+    "reveal_summary": "Petra: bu rota veya sakinleri tarafindan bilinen ismiyle Raqmu, bu rota'un guneyinde yer alan tarihi ve arkeolojik bir sehirdir. One cikan eksenler: tarihi doku, fotografik sahneler, dogal manzara.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Wadi Rum": {
+    "hidden_title": "Tarihi doku, kulturel kesif odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku odagi guclu, kulturel kesif ve fotografik sahneler tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: unesco.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Wadi Rum: The bu rota ikonik noktalar has been a UNESCO ikonik noktalar site since 2011. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Olu Deniz": {
+    "hidden_title": "Tarihi doku ve fotografik sahneler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve fotografik sahneler bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Olu Deniz: ikonik noktalar , also known by other names, is a landlocked salt lake bordered by Jordan to the east, the ikonik noktalar to the west and Israel to t. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kahire": {
+    "hidden_title": "Tarihi doku + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku, kulturel kesif ve fotografik sahneler dengesini arayanlar icin orta tempolu bir rota sunar.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "fotografik"
+    ],
+    "reveal_summary": "Kahire: 6000 years ago, as the Giza pyramid complex and the ancient cities of Memphis and Heliopolis are today within the city. One cikan eksenler: tarihi doku, kulturel kesif, fotografik sahneler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Luxor": {
+    "hidden_title": "Tarihi doku ve kulturel kesif",
+    "hidden_summary": "Tarihi dokuya yaslanan bir rota; tarihi doku isteyen, ayni zamanda fotografik sahneler ve kulturel kesif bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "tarih",
+      "fotografik",
+      "kultur",
+      "sehir"
+    ],
+    "reveal_summary": "Luxor: The city was regarded in the ancient Egyptian texts as wAs.t , which meant \"city of the sceptre\", and later in ikonik noktalar as ta jpt (conventional. One cikan eksenler: tarihi doku, fotografik sahneler, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Maldivler": {
+    "hidden_title": "Kiyi ve su deneyimi + konfor",
+    "hidden_summary": "Kiyi atmosferi; kiyi ve su deneyimi, konfor ve su sporlari dengesini arayanlar icin sakin tempolu bir rota sunar.",
+    "hidden_tags": [
+      "deniz",
+      "luks",
+      "su_spor",
+      "sakin",
+      "doga"
+    ],
+    "reveal_summary": "Maldivler: ikonik noktalar, officially the Republic of Maldives, and historically known as the ikonik noktalar, is an archipelagic country in ikonik noktalar, lo. One cikan eksenler: kiyi ve su deneyimi, konfor, su sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Colombo": {
+    "hidden_title": "Dogal manzara ile kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi hissini dogal manzara ve kulturel kesif ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "doga",
+      "kultur",
+      "deniz"
+    ],
+    "reveal_summary": "Colombo: bu rota is the largest city of bu rota by population, serving as the country's executive and judicial capital. One cikan eksenler: kent enerjisi, dogal manzara, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kathmandu": {
+    "hidden_title": "Dogal manzara, kulturel kesif odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, kulturel kesif ve kiyi ve su deneyimi tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "doga",
+      "kultur",
+      "deniz"
+    ],
+    "reveal_summary": "Kathmandu: ikonik noktalar name bu rota comes from Kasthamandap, a building that stood in bu rota ikonik noktalar and was completely destroyed by the April 2015. One cikan eksenler: dogal manzara, kulturel kesif, kiyi ve su deneyimi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Pokhara": {
+    "hidden_title": "Kent enerjisi ve kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda dogal manzara ve kulturel kesif bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "doga",
+      "kultur",
+      "deniz"
+    ],
+    "reveal_summary": "Pokhara: The first settlement of the valley is theorized to have taken place when the first King of Kaski, ikonik noktalar , made Batulechaur in the northern s. One cikan eksenler: kent enerjisi, dogal manzara, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Galle": {
+    "hidden_title": "Dogal manzara, kulturel kesif odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, kulturel kesif ve kiyi ve su deneyimi tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "doga",
+      "kultur",
+      "deniz"
+    ],
+    "reveal_summary": "Galle: bu rota is the provincial capital and largest city of ikonik noktalar, bu rota and is the capital of bu rota District. One cikan eksenler: dogal manzara, kulturel kesif, kiyi ve su deneyimi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Roma": {
+    "hidden_title": "Kulturel kesif ile tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku hissini kulturel kesif ve yerel lezzetler ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Roma: bu rota or bu rota may refer to: People, characters, figures, names bu rota or Romani people, an ethnic group living mostly in Europe and the Americas. One cikan eksenler: tarihi doku, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Floransa": {
+    "hidden_title": "Tarihi doku ve yerel lezzetler",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku isteyen, ayni zamanda kulturel kesif ve yerel lezzetler bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: unesco.",
+    "hidden_tags": [
+      "tarih",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Floransa: Located about 275 kilometres northwest of Rome, Florence attracts many millions of tourists each year, and UNESCO declared the ikonik noktalar of Flor. One cikan eksenler: tarihi doku, kulturel kesif, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Barselona": {
+    "hidden_title": "Kent enerjisi ile tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; tarihi doku hissini kent enerjisi ve kulturel kesif ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: unesco, capital.",
+    "hidden_tags": [
+      "tarih",
+      "sehir",
+      "kultur",
+      "yemek"
+    ],
+    "reveal_summary": "Barselona: Particularly renowned are the architectural works of ikonik noktalar and ikonik noktalar i Montaner, which have been designated UNESCO ikonik noktalar. One cikan eksenler: tarihi doku, kent enerjisi, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Atina": {
+    "hidden_title": "Kulturel kesif, tarihi doku odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif odagi guclu, tarihi doku ve yerel lezzetler tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "kultur",
+      "tarih",
+      "yemek"
+    ],
+    "reveal_summary": "Atina: ikonik noktalar of Athens , which constitutes a small administrative unit of the entire urban area, had a population of 643,452 in 2021, within its of. One cikan eksenler: kulturel kesif, tarihi doku, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Santorini": {
+    "hidden_title": "Tarihi doku ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini tarihi doku ve yerel lezzetler ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur",
+      "tarih",
+      "yemek"
+    ],
+    "reveal_summary": "Santorini: The municipality of bu rota includes the inhabited islands of bu rota and Therasia, and the uninhabited islands of ikonik noktalar, ikonik noktalar, A. One cikan eksenler: kulturel kesif, tarihi doku, yerel lezzetler.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Paris": {
+    "hidden_title": "Kent enerjisi ile kulturel kesif",
+    "hidden_summary": "Kent enerjisi yuksek bir durak; kulturel kesif hissini kent enerjisi ve tarihi doku ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "kultur",
+      "sehir",
+      "tarih",
+      "luks"
+    ],
+    "reveal_summary": "Paris: bu rota is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 , and a metropolitan popu. One cikan eksenler: kulturel kesif, kent enerjisi, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Amsterdam": {
+    "hidden_title": "Kent enerjisi ve tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda kulturel kesif ve tarihi doku bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital, unesco.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Amsterdam: Located in the Dutch province of ikonik noktalar, bu rota is colloquially referred to as the \"Venice of the North\", for its large number of canals, no. One cikan eksenler: kent enerjisi, kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Londra": {
+    "hidden_title": "Kent enerjisi + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, kulturel kesif ve tarihi doku dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Londra: London is the capital and largest city of England and the ikonik noktalar, with a population of 9.1 million people in 2024. One cikan eksenler: kent enerjisi, kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Bruksel": {
+    "hidden_title": "Kent enerjisi + kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi, kulturel kesif ve tarihi doku dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Bruksel: Brussels, officially the Brussels-ikonik noktalar, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the c. One cikan eksenler: kent enerjisi, kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Dublin": {
+    "hidden_title": "Kent enerjisi ve tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda kulturel kesif ve tarihi doku bekleyen gezginlere orta tempolu bir alternatif olur. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "kultur",
+      "tarih"
+    ],
+    "reveal_summary": "Dublin: bu rota is the capital and largest city of Ireland. One cikan eksenler: kent enerjisi, kulturel kesif, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Oslo": {
+    "hidden_title": "Dogal manzara, sakin kacis odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, sakin kacis ve kent enerjisi tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "doga",
+      "sakin",
+      "sehir"
+    ],
+    "reveal_summary": "Oslo: bu rota is the capital and most populous city of Norway. One cikan eksenler: dogal manzara, sakin kacis, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Stockholm": {
+    "hidden_title": "Dogal manzara + kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, kent enerjisi ve sakin kacis dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: metro.",
+    "hidden_tags": [
+      "doga",
+      "sehir",
+      "sakin"
+    ],
+    "reveal_summary": "Stockholm: The bu rota metro, opened in 1950, is well known for the decor of its stations; it has been called the longest art gallery in the world. One cikan eksenler: dogal manzara, kent enerjisi, sakin kacis.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Kopenhag": {
+    "hidden_title": "Dogal manzara, sakin kacis odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, sakin kacis ve kent enerjisi tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "doga",
+      "sakin",
+      "sehir"
+    ],
+    "reveal_summary": "Kopenhag: Copenhagen is the capital and most populous city of both the country of Denmark and the wider Kingdom of Denmark, with a population of 667,000 people. One cikan eksenler: dogal manzara, sakin kacis, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Helsinki": {
+    "hidden_title": "Kent enerjisi ile dogal manzara",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara hissini kent enerjisi ve sakin kacis ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "doga",
+      "sehir",
+      "sakin"
+    ],
+    "reveal_summary": "Helsinki: About 694,000 people live in the municipality, with 1.3 million in the capital region and 1.6 million in the metropolitan area. One cikan eksenler: dogal manzara, kent enerjisi, sakin kacis.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Tromso": {
+    "hidden_title": "Dogal manzara + fotografik sahneler",
+    "hidden_summary": "Doga odakli bir rota; dogal manzara, fotografik sahneler ve kis sporlari dengesini arayanlar icin sakin tempolu bir rota sunar.",
+    "hidden_tags": [
+      "doga",
+      "fotografik",
+      "kis_spor",
+      "sakin"
+    ],
+    "reveal_summary": "Tromso: The city is located on the island of Tromsoya which sits in the Tromsoysundet strait, just off the mainland of ikonik noktalar. One cikan eksenler: dogal manzara, fotografik sahneler, kis sporlari.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Dubai": {
+    "hidden_title": "Konfor, kent enerjisi odakli",
+    "hidden_summary": "Kent enerjisi yuksek bir durak; konfor odagi guclu, kent enerjisi ve canli sosyal tempo tarafiyla desteklenen hareketli bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "luks",
+      "sehir",
+      "eglence"
+    ],
+    "reveal_summary": "Dubai: bu rota is the most populous city in the ikonik noktalar and the capital of the Emirate of bu rota. One cikan eksenler: konfor, kent enerjisi, canli sosyal tempo.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Abu Dabi": {
+    "hidden_title": "Konfor + kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; konfor, kent enerjisi ve dengeli tempo dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "luks",
+      "sehir"
+    ],
+    "reveal_summary": "Abu Dabi: The city is the seat of the ikonik noktalar District, the capital city of the Emirate of ikonik noktalar, and the UAE's second-most populous city, aft. One cikan eksenler: konfor, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Doha": {
+    "hidden_title": "Konfor + kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; konfor, kent enerjisi ve dengeli tempo dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "luks",
+      "sehir"
+    ],
+    "reveal_summary": "Doha: bu rota is the capital city and main financial hub of Qatar. One cikan eksenler: konfor, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Muskat": {
+    "hidden_title": "Konfor, kent enerjisi odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; konfor odagi guclu, kent enerjisi ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "luks",
+      "sehir"
+    ],
+    "reveal_summary": "Muskat: Muscat is the capital and most populous city of Oman. One cikan eksenler: konfor, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Riyad": {
+    "hidden_title": "Konfor, kent enerjisi odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; konfor odagi guclu, kent enerjisi ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "luks",
+      "sehir"
+    ],
+    "reveal_summary": "Riyad: It is also the capital of the ikonik noktalar and the centre of the ikonik noktalar. One cikan eksenler: konfor, kent enerjisi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "New York": {
+    "hidden_title": "Canli sosyal tempo ile kent enerjisi",
+    "hidden_summary": "Kent enerjisi yuksek bir durak; kent enerjisi hissini canli sosyal tempo ve kulturel kesif ile birlestiren hareketli bir seyahat secenegidir.",
+    "hidden_tags": [
+      "sehir",
+      "eglence",
+      "kultur",
+      "luks"
+    ],
+    "reveal_summary": "New York: bu rota is a global center of finance and commerce, culture, technology, entertainment and media, academics and scientific output, the arts and fashio. One cikan eksenler: kent enerjisi, canli sosyal tempo, kulturel kesif.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Los Angeles": {
+    "hidden_title": "Kent enerjisi, canli sosyal tempo odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, canli sosyal tempo ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "sehir",
+      "eglence"
+    ],
+    "reveal_summary": "Los Angeles: Even as its population shrinks fastest nationwide, Greater bu rota, a combined statistical area that includes the bu rota and RiversideSan Bernardino. One cikan eksenler: kent enerjisi, canli sosyal tempo.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Miami": {
+    "hidden_title": "Kent enerjisi, canli sosyal tempo odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, canli sosyal tempo ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "sehir",
+      "eglence"
+    ],
+    "reveal_summary": "Miami: The bu rota metropolitan area in ikonik noktalar has an estimated 6.39 million residents, ranking as the fifth-largest metropolitan area in the Southe. One cikan eksenler: kent enerjisi, canli sosyal tempo.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Toronto": {
+    "hidden_title": "Kent enerjisi, canli sosyal tempo odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi odagi guclu, canli sosyal tempo ve dengeli tempo tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "sehir",
+      "eglence"
+    ],
+    "reveal_summary": "Toronto: bu rota is the most populous city in Canada and the capital city of the Canadian province of Ontario. One cikan eksenler: kent enerjisi, canli sosyal tempo.",
+    "text_source": "destination_text_sources.json"
+  },
+  "San Francisco": {
+    "hidden_title": "Kent enerjisi ve kent enerjisi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kent enerjisi isteyen, ayni zamanda canli sosyal tempo ve dengeli tempo bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "sehir",
+      "eglence"
+    ],
+    "reveal_summary": "San Francisco: bu rota, officially the City and County of bu rota, is the fourth-most populous city in California and the 17th-most populous in the ikonik noktalar,. One cikan eksenler: kent enerjisi, canli sosyal tempo.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cancun": {
+    "hidden_title": "Kulturel kesif + kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif, kiyi ve su deneyimi ve dengeli tempo dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: resort.",
+    "hidden_tags": [
+      "kultur",
+      "deniz"
+    ],
+    "reveal_summary": "Cancun: bu rota is located just north of Mexico's Caribbean coast resort area known as the ikonik noktalar. One cikan eksenler: kulturel kesif, kiyi ve su deneyimi.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Meksiko": {
+    "hidden_title": "Kiyi ve su deneyimi ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini kiyi ve su deneyimi ve tarihi doku ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur"
+    ],
+    "reveal_summary": "Meksiko: It is one of the most important cultural and financial centers in the world, and is classified as an Alpha world city according to the Globalization a. One cikan eksenler: kulturel kesif, kiyi ve su deneyimi, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "San Jose": {
+    "hidden_title": "Kiyi ve su deneyimi ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini kiyi ve su deneyimi ve tarihi doku ile birlestiren orta tempolu bir seyahat secenegidir. Metin sinyalleri: capital.",
+    "hidden_tags": [
+      "kultur"
+    ],
+    "reveal_summary": "San Jose: Together with several other cantons of the central valley, including Alajuela, Heredia and Cartago, it forms the country's ikonik noktalar, with an es. One cikan eksenler: kulturel kesif, kiyi ve su deneyimi, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Panama City": {
+    "hidden_title": "Kiyi ve su deneyimi ile kulturel kesif",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif hissini kiyi ve su deneyimi ve tarihi doku ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "kultur"
+    ],
+    "reveal_summary": "Panama City: It has a total population of 410,354 in the city proper and 1,086,990 in the bu rota District, which includes the outer corregimientos of the city. One cikan eksenler: kulturel kesif, kiyi ve su deneyimi, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Cartagena": {
+    "hidden_title": "Kulturel kesif ve tarihi doku",
+    "hidden_summary": "Dengeli ve karakterli bir durak; kulturel kesif isteyen, ayni zamanda kiyi ve su deneyimi ve tarihi doku bekleyen gezginlere orta tempolu bir alternatif olur.",
+    "hidden_tags": [
+      "kultur"
+    ],
+    "reveal_summary": "Cartagena: The city's strategic location between the Magdalena and Sinu rivers also gave it easy access to the interior of ikonik noktalar and made it a main por. One cikan eksenler: kulturel kesif, kiyi ve su deneyimi, tarihi doku.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Sydney": {
+    "hidden_title": "Dogal manzara + kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, kiyi ve su deneyimi ve macera dengesini arayanlar icin orta tempolu bir rota sunar. Metin sinyalleri: park.",
+    "hidden_tags": [
+      "doga",
+      "deniz",
+      "macera"
+    ],
+    "reveal_summary": "Sydney: Located on Australia's east coast, the metropolis surrounds bu rota Harbour and extends about 80 kilometres from the ikonik noktalar in the east to th. One cikan eksenler: dogal manzara, kiyi ve su deneyimi, macera.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Melbourne": {
+    "hidden_title": "Dogal manzara, kiyi ve su deneyimi odakli",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara odagi guclu, kiyi ve su deneyimi ve macera tarafiyla desteklenen orta tempolu bir deneyim verir.",
+    "hidden_tags": [
+      "doga",
+      "deniz",
+      "macera"
+    ],
+    "reveal_summary": "Melbourne: The name is also used to specifically refer to the local government area named City of bu rota, whose area is centred on the bu rota central business. One cikan eksenler: dogal manzara, kiyi ve su deneyimi, macera.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Queenstown": {
+    "hidden_title": "Macera, dogal manzara odakli",
+    "hidden_summary": "Doga odakli bir rota; macera odagi guclu, dogal manzara ve aktif doga tarafiyla desteklenen orta tempolu bir deneyim verir. Metin sinyalleri: resort.",
+    "hidden_tags": [
+      "macera",
+      "doga",
+      "doga_spor",
+      "deniz"
+    ],
+    "reveal_summary": "Queenstown: bu rota is a resort town in Otago in the south-west of ikonik noktalar's ikonik noktalar. One cikan eksenler: macera, dogal manzara, aktif doga.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Suva": {
+    "hidden_title": "Kiyi ve su deneyimi ile dogal manzara",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara hissini kiyi ve su deneyimi ve macera ile birlestiren orta tempolu bir seyahat secenegidir.",
+    "hidden_tags": [
+      "doga",
+      "deniz",
+      "macera"
+    ],
+    "reveal_summary": "Suva: The city is on the southeast coast of the island of ikonik noktalar, in ikonik noktalar, ikonik noktalar. One cikan eksenler: dogal manzara, kiyi ve su deneyimi, macera.",
+    "text_source": "destination_text_sources.json"
+  },
+  "Papeete": {
+    "hidden_title": "Dogal manzara + kiyi ve su deneyimi",
+    "hidden_summary": "Dengeli ve karakterli bir durak; dogal manzara, kiyi ve su deneyimi ve macera dengesini arayanlar icin orta tempolu bir rota sunar.",
+    "hidden_tags": [
+      "doga",
+      "deniz",
+      "macera"
+    ],
+    "reveal_summary": "Papeete: The commune of bu rota is located on the island of Tahiti, in the administrative subdivision of the ikonik noktalar, of which bu rota is the administr. One cikan eksenler: dogal manzara, kiyi ve su deneyimi, macera.",
+    "text_source": "destination_text_sources.json"
+  }
+}

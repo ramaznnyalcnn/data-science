@@ -1,0 +1,131 @@
+{
+  "questions": [
+    {
+      "id": "q_budget",
+      "priority": 0.9,
+      "targets": ["fiyat", "ulasim_kolayligi"],
+      "text": {
+        "TR": "Seyahat butcesi senin icin nasil bir sinir koyar?",
+        "EN": "How strongly should budget shape the trip?"
+      },
+      "answers": [
+        {"id": "low", "label": {"TR": "Uygun fiyat ve kolay ulasim oncelikli", "EN": "Low cost and easy transport first"}, "vector": {"fiyat": 0.15, "ulasim_kolayligi": 0.85}},
+        {"id": "mid", "label": {"TR": "Dengeli olsun, iyi deneyim icin esnerim", "EN": "Balanced; I can stretch for a good experience"}, "vector": {"fiyat": 0.45, "ulasim_kolayligi": 0.65}},
+        {"id": "high", "label": {"TR": "Konfor ve kalite icin daha cok harcarim", "EN": "I will spend more for comfort and quality"}, "vector": {"fiyat": 0.85, "ulasim_kolayligi": 0.45}}
+      ]
+    },
+    {
+      "id": "q_food_culture",
+      "priority": 0.82,
+      "targets": ["yemek", "kultur"],
+      "text": {
+        "TR": "Yerel deneyimde hangi taraf daha guclu olsun?",
+        "EN": "Which local experience should be stronger?"
+      },
+      "answers": [
+        {"id": "food", "label": {"TR": "Lezzet, pazar ve sokak yemekleri", "EN": "Food, markets and street tastes"}, "vector": {"yemek": 0.95, "kultur": 0.55, "fiyat": 0.35}},
+        {"id": "culture", "label": {"TR": "Gelenek, yerel yasam ve otantik atmosfer", "EN": "Tradition, local life and authentic atmosphere"}, "vector": {"kultur": 0.92, "yemek": 0.55, "sakin": 0.55}},
+        {"id": "balanced", "label": {"TR": "Ikisi de dengeli olsun", "EN": "A balanced mix of both"}, "vector": {"yemek": 0.72, "kultur": 0.72}}
+      ]
+    },
+    {
+      "id": "q_history_or_modern",
+      "priority": 0.78,
+      "targets": ["tarih", "kultur", "eglence"],
+      "text": {
+        "TR": "Gezide hangi hikaye seni daha cok ceker?",
+        "EN": "What kind of story attracts you more on a trip?"
+      },
+      "answers": [
+        {"id": "ancient", "label": {"TR": "Antik kentler, mimari ve tarihi izler", "EN": "Ancient sites, architecture and history"}, "vector": {"tarih": 0.95, "kultur": 0.65, "sakin": 0.45}},
+        {"id": "living", "label": {"TR": "Yasayan mahalleler, carsi ve yerel ritim", "EN": "Living districts, bazaars and local rhythm"}, "vector": {"kultur": 0.85, "yemek": 0.65, "ulasim_kolayligi": 0.65}},
+        {"id": "modern", "label": {"TR": "Canli sosyal ortam, etkinlik ve gece hayati", "EN": "Social energy, events and nightlife"}, "vector": {"eglence": 0.92, "fiyat": 0.65, "kultur": 0.4}}
+      ]
+    },
+    {
+      "id": "q_pace",
+      "priority": 0.86,
+      "targets": ["eglence", "sakin"],
+      "text": {
+        "TR": "Tatil temposu nasil hissettirmeli?",
+        "EN": "What pace should the trip have?"
+      },
+      "answers": [
+        {"id": "quiet", "label": {"TR": "Sessiz, yavas ve dinlenme odakli", "EN": "Quiet, slow and restful"}, "vector": {"sakin": 0.95, "eglence": 0.18}},
+        {"id": "balanced", "label": {"TR": "Gunduz sakin, aksam sosyal", "EN": "Calm by day, social by evening"}, "vector": {"sakin": 0.62, "eglence": 0.62}},
+        {"id": "active", "label": {"TR": "Hareketli, kalabalik ve enerjik", "EN": "Busy, social and energetic"}, "vector": {"eglence": 0.92, "sakin": 0.18}}
+      ]
+    },
+    {
+      "id": "q_nature_water",
+      "priority": 0.84,
+      "targets": ["deniz", "doga", "su_spor"],
+      "text": {
+        "TR": "Acik havada hangi sahne sana daha yakin?",
+        "EN": "Which outdoor scene feels closer to you?"
+      },
+      "answers": [
+        {"id": "sea", "label": {"TR": "Deniz, koylar ve sahil gunleri", "EN": "Sea, bays and coastal days"}, "vector": {"deniz": 0.95, "su_spor": 0.62, "sakin": 0.45}},
+        {"id": "green", "label": {"TR": "Orman, yayla ve dogal manzara", "EN": "Forests, highlands and natural scenery"}, "vector": {"doga": 0.95, "doga_spor": 0.58, "sakin": 0.65}},
+        {"id": "water_active", "label": {"TR": "Yuzme, dalis ve su aktivitesi", "EN": "Swimming, diving and water activity"}, "vector": {"su_spor": 0.92, "deniz": 0.82, "eglence": 0.52}}
+      ]
+    },
+    {
+      "id": "q_activity",
+      "priority": 0.8,
+      "targets": ["doga_spor", "hava_spor", "su_spor", "kis_spor"],
+      "text": {
+        "TR": "Aktif bir gun planinda hangisi daha cazip gelir?",
+        "EN": "Which active day plan sounds more appealing?"
+      },
+      "answers": [
+        {"id": "trail", "label": {"TR": "Yuruyus, rota ve manzara pesinde olmak", "EN": "Hiking, routes and viewpoints"}, "vector": {"doga_spor": 0.9, "doga": 0.82, "sakin": 0.48}},
+        {"id": "air", "label": {"TR": "Yamac parasutu veya yuksek adrenalini denemek", "EN": "Paragliding or a high-adrenaline activity"}, "vector": {"hava_spor": 0.92, "doga_spor": 0.62, "eglence": 0.58}},
+        {"id": "snow_motion", "label": {"TR": "Karli dag havasinda hareketli spor temposu", "EN": "Sporty mountain days in snowy weather"}, "vector": {"kis_spor": 0.78, "doga_spor": 0.66, "fiyat": 0.62}},
+        {"id": "light", "label": {"TR": "Cok yorulmadan hafif aktivite yeterli", "EN": "Light activity without getting too tired"}, "vector": {"doga_spor": 0.35, "sakin": 0.72}}
+      ]
+    },
+    {
+      "id": "q_mobility",
+      "priority": 0.76,
+      "targets": ["ulasim_kolayligi", "doga", "sakin"],
+      "text": {
+        "TR": "Ulasim ve mesafe konusunda hangisi sana uyar?",
+        "EN": "Which transport and distance style fits you?"
+      },
+      "answers": [
+        {"id": "central", "label": {"TR": "Merkezi, yurunebilir ve pratik olsun", "EN": "Central, walkable and practical"}, "vector": {"ulasim_kolayligi": 0.95, "eglence": 0.52}},
+        {"id": "remote", "label": {"TR": "Uzak olsa da dogasi guclu olsun", "EN": "Remote is fine if nature is strong"}, "vector": {"ulasim_kolayligi": 0.28, "doga": 0.92, "sakin": 0.72}},
+        {"id": "balanced", "label": {"TR": "Cok zor olmasin ama kalabalik da olmasin", "EN": "Not too hard, but not crowded either"}, "vector": {"ulasim_kolayligi": 0.62, "sakin": 0.68}}
+      ]
+    },
+    {
+      "id": "q_trip_identity",
+      "priority": 0.7,
+      "targets": ["deniz", "tarih", "kultur", "eglence", "sakin"],
+      "text": {
+        "TR": "Bu seyahatin ana karakteri ne olsun?",
+        "EN": "What should be the main character of this trip?"
+      },
+      "answers": [
+        {"id": "coastal_social", "label": {"TR": "Sahil, sosyal tempo ve keyifli mekanlar", "EN": "Coast, social pace and enjoyable venues"}, "vector": {"deniz": 0.82, "eglence": 0.78, "yemek": 0.58}},
+        {"id": "heritage", "label": {"TR": "Kultur, tarih ve anlamli kesif", "EN": "Culture, history and meaningful discovery"}, "vector": {"tarih": 0.86, "kultur": 0.88, "sakin": 0.52}},
+        {"id": "reset", "label": {"TR": "Sakinlik, dogal ortam ve zihinsel mola", "EN": "Quiet, nature and a mental reset"}, "vector": {"sakin": 0.92, "doga": 0.82, "eglence": 0.2}}
+      ]
+    },
+    {
+      "id": "q_safety_quality",
+      "priority": 0.88,
+      "targets": ["safety", "pollution", "livability", "health_risk"],
+      "text": {
+        "TR": "Güvenlik ve şehir kalitesi konusunda hangisi sana daha yakın?",
+        "EN": "Which safety and city-quality preference fits you better?"
+      },
+      "answers": [
+        {"id": "safe_clean", "label": {"TR": "Güvenli, temiz ve kolay yaşanabilir yerler öncelikli", "EN": "Safe, clean and easy-to-handle places first"}, "vector": {"safety": 0.95, "pollution": 0.90, "livability": 0.85, "health_risk": 0.88}},
+        {"id": "balanced_risk", "label": {"TR": "Biraz karmaşa olabilir ama genel risk düşük kalsın", "EN": "Some friction is fine, but overall risk should stay low"}, "vector": {"safety": 0.72, "pollution": 0.62, "livability": 0.65, "health_risk": 0.68}},
+        {"id": "experience_first", "label": {"TR": "Deneyim güçlü olsun; kalabalık/kirlilik beni çok durdurmaz", "EN": "Prioritize the experience; crowding or pollution will not stop me"}, "vector": {"safety": 0.50, "pollution": 0.35, "livability": 0.45, "health_risk": 0.45, "eglence": 0.78, "kultur": 0.70}}
+      ]
+    }
+  ]
+}

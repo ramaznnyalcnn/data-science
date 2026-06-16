@@ -1,0 +1,19 @@
+[Unit]
+Description=Travel Recommender Streamlit
+After=network.target
+
+[Service]
+Type=simple
+User=travel-rec
+WorkingDirectory=/opt/travel-recommender
+ExecStart=/opt/travel-recommender/venv/bin/streamlit run app/main.py
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/travel-recommender/data
+ProtectHome=read-only
+
+[Install]
+WantedBy=multi-user.target

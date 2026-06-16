@@ -1,0 +1,777 @@
+[
+  {
+    "id": "region_01_ege_kiyilari",
+    "name": "Ege Kiyilari",
+    "country_scope": [
+      "Turkiye"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Bodrum",
+      "Marmaris",
+      "Fethiye",
+      "Cesme",
+      "Datca"
+    ],
+    "hidden_description": "Kiyi Ve Su Deneyimi, su sporlari ve canli sosyal tempo ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Ege Kiyilari; Turkiye odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 1.0,
+      "spring": 0.5,
+      "autumn": 0.0,
+      "winter": 0.0
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_02_akdeniz_sahili",
+    "name": "Akdeniz Sahili",
+    "country_scope": [
+      "Turkiye"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Antalya",
+      "Alanya",
+      "Kas",
+      "Side",
+      "Kemer"
+    ],
+    "hidden_description": "Kiyi Ve Su Deneyimi, su sporlari ve dogal manzara ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Akdeniz Sahili; Turkiye odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.76,
+      "spring": 0.9,
+      "autumn": 0.8,
+      "winter": 0.4
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_03_karadeniz",
+    "name": "Karadeniz",
+    "country_scope": [
+      "Turkiye"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Trabzon",
+      "Uzungol",
+      "Ayder",
+      "Artvin",
+      "Rize"
+    ],
+    "hidden_description": "Dogal Manzara, sakin kacis ve fotografik sahneler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Karadeniz; Turkiye odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.56,
+      "spring": 0.8,
+      "autumn": 0.86,
+      "winter": 0.6
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_04_tarihi_turkiye",
+    "name": "Tarihi Turkiye",
+    "country_scope": [
+      "Turkiye"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Kapadokya",
+      "Efes",
+      "Pamukkale",
+      "Mardin",
+      "Sanliurfa"
+    ],
+    "hidden_description": "Tarihi Doku, kulturel kesif ve fotografik sahneler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Tarihi Turkiye; Turkiye odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_05_turkiye_sehirleri",
+    "name": "Turkiye Sehirleri",
+    "country_scope": [
+      "Turkiye"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Istanbul",
+      "Izmir",
+      "Gaziantep",
+      "Bursa",
+      "Ankara"
+    ],
+    "hidden_description": "Yerel Lezzetler, kent enerjisi ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Turkiye Sehirleri; Turkiye odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_06_balkanlar",
+    "name": "Balkanlar",
+    "country_scope": [
+      "Arnavutluk",
+      "Bosna Hersek",
+      "Karadag",
+      "Kuzey Makedonya",
+      "Sirbistan"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Kotor",
+      "Mostar",
+      "Tiran",
+      "Beograd",
+      "Uskup"
+    ],
+    "hidden_description": "Tarihi Doku, kulturel kesif ve kent enerjisi ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Balkanlar; Arnavutluk, Bosna Hersek, Karadag, Kuzey Makedonya odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_07_kafkasya_ve_ipek_yolu",
+    "name": "Kafkasya ve Ipek Yolu",
+    "country_scope": [
+      "Azerbaycan",
+      "Gurcistan",
+      "Ozbekistan"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Baku",
+      "Tiflis",
+      "Semerkant",
+      "Buhara",
+      "Taskent"
+    ],
+    "hidden_description": "Kulturel Kesif, tarihi doku ve yerel lezzetler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Kafkasya ve Ipek Yolu; Azerbaycan, Gurcistan, Ozbekistan odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_08_kuzey_afrika",
+    "name": "Kuzey Afrika",
+    "country_scope": [
+      "Fas",
+      "Tunus"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Marakes",
+      "Fes",
+      "Tunus",
+      "Sidi Bou Said",
+      "Kairouan"
+    ],
+    "hidden_description": "Tarihi Doku, kulturel kesif ve fotografik sahneler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Kuzey Afrika; Fas, Tunus odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.62,
+      "spring": 0.7,
+      "autumn": 0.66,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_09_japonya_ve_guney_kore",
+    "name": "Japonya ve Guney Kore",
+    "country_scope": [
+      "Guney Kore",
+      "Japonya"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Seoul",
+      "Busan"
+    ],
+    "hidden_description": "Kulturel Kesif, kent enerjisi ve yerel lezzetler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Japonya ve Guney Kore; Guney Kore, Japonya odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_10_singapur_ve_malezya",
+    "name": "Singapur ve Malezya",
+    "country_scope": [
+      "Hong Kong",
+      "Macau",
+      "Malezya",
+      "Singapur"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Singapur",
+      "Hong Kong",
+      "Kuala Lumpur",
+      "Penang",
+      "Macau"
+    ],
+    "hidden_description": "Kent Enerjisi, yerel lezzetler ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Singapur ve Malezya; Hong Kong, Macau, Malezya, Singapur odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_11_latin_amerika_sehirleri",
+    "name": "Latin Amerika Sehirleri",
+    "country_scope": [
+      "Arjantin",
+      "Brezilya",
+      "Kolombiya",
+      "Peru",
+      "Sili"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Rio de Janeiro",
+      "Buenos Aires",
+      "Lima",
+      "Bogota",
+      "Santiago"
+    ],
+    "hidden_description": "Kent Enerjisi, canli sosyal tempo ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Latin Amerika Sehirleri; Arjantin, Brezilya, Kolombiya, Peru odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_12_guney_amerika_doga",
+    "name": "Guney Amerika Doga",
+    "country_scope": [
+      "Arjantin/Sili",
+      "Bolivya",
+      "Brezilya",
+      "Ekvador",
+      "Peru"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Patagonia",
+      "Machu Picchu",
+      "Amazon",
+      "Galapagos",
+      "Uyuni"
+    ],
+    "hidden_description": "Dogal Manzara, macera ve fotografik sahneler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Guney Amerika Doga; Arjantin/Sili, Bolivya, Brezilya, Ekvador odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.76,
+      "spring": 0.9,
+      "autumn": 0.8,
+      "winter": 0.4
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_13_guneydogu_asya",
+    "name": "Guneydogu Asya",
+    "country_scope": [
+      "Endonezya",
+      "Kambocya",
+      "Tayland"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Bali",
+      "Bangkok",
+      "Phuket",
+      "Siem Reap",
+      "Krabi"
+    ],
+    "hidden_description": "Kiyi Ve Su Deneyimi, yerel lezzetler ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Guneydogu Asya; Endonezya, Kambocya, Tayland odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_14_vietnam_ve_hindistan",
+    "name": "Vietnam ve Hindistan",
+    "country_scope": [
+      "Hindistan",
+      "Vietnam"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Ho Chi Minh",
+      "Hanoi",
+      "Goa",
+      "Jaipur",
+      "Varanasi"
+    ],
+    "hidden_description": "Kulturel Kesif, yerel lezzetler ve tarihi doku ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Vietnam ve Hindistan; Hindistan, Vietnam odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_15_karayipler",
+    "name": "Karayipler",
+    "country_scope": [
+      "Bahamalar",
+      "Barbados",
+      "Dominik Cumhuriyeti",
+      "Jamaika",
+      "Kuba"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Punta Cana",
+      "Havana",
+      "Barbados",
+      "Nassau",
+      "Montego Bay"
+    ],
+    "hidden_description": "Kiyi Ve Su Deneyimi, konfor ve sakin kacis ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Karayipler; Bahamalar, Barbados, Dominik Cumhuriyeti, Jamaika odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_16_dogu_afrika",
+    "name": "Dogu Afrika",
+    "country_scope": [
+      "Kenya",
+      "Ruanda",
+      "Tanzanya"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Zanzibar",
+      "Serengeti",
+      "Nairobi",
+      "Kilimanjaro",
+      "Kigali"
+    ],
+    "hidden_description": "Dogal Manzara, macera ve fotografik sahneler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Dogu Afrika; Kenya, Ruanda, Tanzanya odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_17_orta_dogu_tarihi",
+    "name": "Orta Dogu Tarihi",
+    "country_scope": [
+      "Misir",
+      "Urdun"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Petra",
+      "Wadi Rum",
+      "Olu Deniz",
+      "Kahire",
+      "Luxor"
+    ],
+    "hidden_description": "Tarihi Doku, fotografik sahneler ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Orta Dogu Tarihi; Misir, Urdun odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_18_guney_asya_adalari",
+    "name": "Guney Asya Adalari",
+    "country_scope": [
+      "Maldivler",
+      "Nepal",
+      "Sri Lanka"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Maldivler",
+      "Colombo",
+      "Kathmandu",
+      "Pokhara",
+      "Galle"
+    ],
+    "hidden_description": "Kiyi Ve Su Deneyimi, sakin kacis ve dogal manzara ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Guney Asya Adalari; Maldivler, Nepal, Sri Lanka odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.62,
+      "spring": 0.7,
+      "autumn": 0.66,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_19_guney_avrupa",
+    "name": "Guney Avrupa",
+    "country_scope": [
+      "Ispanya",
+      "Italya",
+      "Yunanistan"
+    ],
+    "visa_free": false,
+    "sub_destinations": [
+      "Roma",
+      "Floransa",
+      "Barselona",
+      "Atina",
+      "Santorini"
+    ],
+    "hidden_description": "Tarihi Doku, kulturel kesif ve yerel lezzetler ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Guney Avrupa; Ispanya, Italya, Yunanistan odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.76,
+      "spring": 0.9,
+      "autumn": 0.8,
+      "winter": 0.4
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_20_bati_avrupa",
+    "name": "Bati Avrupa",
+    "country_scope": [
+      "Belcika",
+      "Fransa",
+      "Hollanda",
+      "Ingiltere",
+      "Irlanda"
+    ],
+    "visa_free": false,
+    "sub_destinations": [
+      "Paris",
+      "Amsterdam",
+      "Londra",
+      "Bruksel",
+      "Dublin"
+    ],
+    "hidden_description": "Kent Enerjisi, kulturel kesif ve tarihi doku ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Bati Avrupa; Belcika, Fransa, Hollanda, Ingiltere odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_21_iskandinavya",
+    "name": "Iskandinavya",
+    "country_scope": [
+      "Danimarka",
+      "Finlandiya",
+      "Isvec",
+      "Norvec"
+    ],
+    "visa_free": false,
+    "sub_destinations": [
+      "Oslo",
+      "Stockholm",
+      "Kopenhag",
+      "Helsinki",
+      "Tromso"
+    ],
+    "hidden_description": "Dogal Manzara, sakin kacis ve kent enerjisi ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Iskandinavya; Danimarka, Finlandiya, Isvec, Norvec odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.62,
+      "spring": 0.7,
+      "autumn": 0.66,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_22_korfez",
+    "name": "Korfez",
+    "country_scope": [
+      "BAE",
+      "Katar",
+      "Suudi Arabistan",
+      "Umman"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Dubai",
+      "Abu Dabi",
+      "Doha",
+      "Muskat",
+      "Riyad"
+    ],
+    "hidden_description": "Konfor, kent enerjisi ve kiyi ve su deneyimi ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Korfez; BAE, Katar, Suudi Arabistan, Umman odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_23_kuzey_amerika",
+    "name": "Kuzey Amerika",
+    "country_scope": [
+      "ABD",
+      "Kanada"
+    ],
+    "visa_free": false,
+    "sub_destinations": [
+      "New York",
+      "Los Angeles",
+      "Miami",
+      "Toronto",
+      "San Francisco"
+    ],
+    "hidden_description": "Kent Enerjisi, canli sosyal tempo ve kulturel kesif ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Kuzey Amerika; ABD, Kanada odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_24_meksika_ve_orta_amerika",
+    "name": "Meksika ve Orta Amerika",
+    "country_scope": [
+      "Kolombiya",
+      "Kosta Rika",
+      "Meksika",
+      "Panama"
+    ],
+    "visa_free": true,
+    "sub_destinations": [
+      "Cancun",
+      "Meksiko",
+      "San Jose",
+      "Panama City",
+      "Cartagena"
+    ],
+    "hidden_description": "Kulturel Kesif, kiyi ve su deneyimi ve tarihi doku ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Meksika ve Orta Amerika; Kolombiya, Kosta Rika, Meksika, Panama odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  },
+  {
+    "id": "region_25_okyanusya",
+    "name": "Okyanusya",
+    "country_scope": [
+      "Avustralya",
+      "Fiji",
+      "Fransiz Polinezyasi",
+      "Yeni Zelanda"
+    ],
+    "visa_free": false,
+    "sub_destinations": [
+      "Sydney",
+      "Melbourne",
+      "Queenstown",
+      "Suva",
+      "Papeete"
+    ],
+    "hidden_description": "Dogal Manzara, macera ve kiyi ve su deneyimi ekseninde sekillenen; isimlerden bagimsiz olarak deneyim hissiyle secilecek bir rota.",
+    "open_description": "Okyanusya; Avustralya, Fiji, Fransiz Polinezyasi, Yeni Zelanda odakli, 5 destinasyondan olusan seyahat bolgesidir.",
+    "season_score": {
+      "summer": 0.7,
+      "spring": 1.0,
+      "autumn": 1.0,
+      "winter": 0.5
+    },
+    "is_winter_only": false,
+    "duration_days": {
+      "min": 3,
+      "ideal": 7,
+      "max": 14
+    }
+  }
+]

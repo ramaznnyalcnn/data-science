@@ -1,0 +1,117 @@
+{
+  "version": "v1",
+  "convention": {
+    "fiyat": "0=ucuz, 1=pahali (sehir vektoruyle ayni eksen)",
+    "vektorler": "fizik 8d ve sosyal 5d; sadece prior, eksik dimler null kabul edilir"
+  },
+  "presets": [
+    {
+      "id": "romantik",
+      "emoji": "💑",
+      "label": "Romantik kaçamak",
+      "text": "Sevgilimle baş başa, sakin ve atmosferik bir tatil; gün batımı, butik konaklama, hafif şarap.",
+      "fizik": {"deniz": 0.7, "doga": 0.5, "tarih": 0.5, "kultur": 0.5},
+      "sosyal": {"eglence": 0.3, "sakin": 0.85, "yemek": 0.8, "fiyat": 0.6},
+      "implies_dims": ["sakin", "yemek"]
+    },
+    {
+      "id": "aile",
+      "emoji": "👨‍👩‍👧",
+      "label": "Aile (çocuklu)",
+      "text": "Çocuklarla güvenli, plajı sığ, sahil bandı yürünebilir; ulaşımı kolay, restoran çeşitliliği çok.",
+      "fizik": {"deniz": 0.75, "doga": 0.4, "su_spor": 0.3},
+      "sosyal": {"eglence": 0.4, "sakin": 0.55, "yemek": 0.6, "ulasim_kolayligi": 0.9, "fiyat": 0.5},
+      "implies_dims": ["ulasim_kolayligi"]
+    },
+    {
+      "id": "solo_macera",
+      "emoji": "🎒",
+      "label": "Solo macera",
+      "text": "Sırt çantasıyla yola çıkmak; trekking, kamp, otostop; az turistik, otantik, ucuz.",
+      "fizik": {"doga": 0.85, "doga_spor": 0.85, "deniz": 0.3},
+      "sosyal": {"eglence": 0.4, "sakin": 0.6, "yemek": 0.5, "fiyat": 0.2},
+      "implies_dims": ["doga_spor", "fiyat"]
+    },
+    {
+      "id": "arkadas_eglence",
+      "emoji": "👯",
+      "label": "Arkadaş eğlencesi",
+      "text": "Grupla gece hayatı, bar sokağı, tekne turu, plaj kulübü; yüksek tempo, sosyal.",
+      "fizik": {"deniz": 0.7, "su_spor": 0.5},
+      "sosyal": {"eglence": 0.95, "sakin": 0.15, "yemek": 0.6, "fiyat": 0.65},
+      "implies_dims": ["eglence"]
+    },
+    {
+      "id": "wellness",
+      "emoji": "🧘",
+      "label": "Wellness / dinlenme",
+      "text": "Sessizlik, doğa içinde yürüyüş, spa, yoga; minimum turist kalabalığı, telefonu bırak.",
+      "fizik": {"doga": 0.75},
+      "sosyal": {"eglence": 0.1, "sakin": 0.95, "yemek": 0.7, "fiyat": 0.6},
+      "implies_dims": ["sakin", "eglence"]
+    },
+    {
+      "id": "gastronomi",
+      "emoji": "🍽️",
+      "label": "Gastronomi turu",
+      "text": "Yerel mutfağı keşfetmek; sokak yemeği, mezeci, kebapçı, balıkçı; pazar gezme, market dolaşma.",
+      "fizik": {"kultur": 0.6, "tarih": 0.4},
+      "sosyal": {"eglence": 0.6, "sakin": 0.4, "yemek": 1.0, "fiyat": 0.5},
+      "implies_dims": ["yemek"]
+    },
+    {
+      "id": "kultur_tarih",
+      "emoji": "🏛️",
+      "label": "Kültür ve tarih",
+      "text": "Müze, galeri, antik kalıntılar, opera; rehberli tur, sanat ağırlıklı program.",
+      "fizik": {"tarih": 0.95, "kultur": 0.95, "deniz": 0.2},
+      "sosyal": {"eglence": 0.4, "sakin": 0.55, "yemek": 0.6, "ulasim_kolayligi": 0.7},
+      "implies_dims": ["tarih", "kultur"]
+    },
+    {
+      "id": "gunes_plaj",
+      "emoji": "🌊",
+      "label": "Güneş ve plaj",
+      "text": "Tüm gün denizde, mavi koylar, dalış, sörf; akşam sahil yürüyüşü, sade plan.",
+      "fizik": {"deniz": 1.0, "su_spor": 0.75, "doga": 0.4},
+      "sosyal": {"eglence": 0.55, "sakin": 0.5, "yemek": 0.55},
+      "implies_dims": ["deniz"]
+    },
+    {
+      "id": "doga_trekking",
+      "emoji": "🏔️",
+      "label": "Doğa ve trekking",
+      "text": "Yayla, dağ gölü, şelale, ormanda yürüyüş; kamp ateşi, sade konaklama, kalabalıktan uzak.",
+      "fizik": {"doga": 1.0, "doga_spor": 0.9, "deniz": 0.1},
+      "sosyal": {"eglence": 0.15, "sakin": 0.85, "yemek": 0.5, "fiyat": 0.4},
+      "implies_dims": ["doga", "doga_spor", "sakin"]
+    },
+    {
+      "id": "foto_seyahati",
+      "emoji": "📸",
+      "label": "Fotoğraf seyahati",
+      "text": "Görsel zengin yerler; dar taş sokaklar, peri bacaları, gün doğumu, mimari detaylar.",
+      "fizik": {"tarih": 0.75, "doga": 0.7, "kultur": 0.6, "hava_spor": 0.5},
+      "sosyal": {"sakin": 0.7, "yemek": 0.5},
+      "implies_dims": []
+    },
+    {
+      "id": "butce_dostu",
+      "emoji": "💸",
+      "label": "Bütçe dostu",
+      "text": "Az parayla çok yer; pansiyon, dolmuş, sokak yemeği; turist tuzağı yok.",
+      "fizik": {},
+      "sosyal": {"eglence": 0.5, "sakin": 0.55, "yemek": 0.6, "fiyat": 0.15},
+      "implies_dims": ["fiyat"]
+    },
+    {
+      "id": "luks",
+      "emoji": "✨",
+      "label": "Lüks deneyim",
+      "text": "5 yıldız tatil köyü, fine-dining, özel transfer, spa; konfor en üstte.",
+      "fizik": {"deniz": 0.6},
+      "sosyal": {"eglence": 0.6, "sakin": 0.65, "yemek": 0.9, "ulasim_kolayligi": 0.85, "fiyat": 0.92},
+      "implies_dims": ["fiyat", "yemek"]
+    }
+  ]
+}
